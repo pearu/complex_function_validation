@@ -53,7 +53,7 @@ def main_results(target_dir='numpy_jax_torch_results'):
             image.insert_text(-1, 0, f'    {f.get_module_version()}\n ')
             image.insert_legend(-1, 10)
 
-            fn = os.path.join(target_dir, f'{fname}_{ref.library_name}_{ref._dtype}_{ref._device}_versus_{f.library_name}_{f._dtype}_{f._device}.txt')
+            fn = os.path.join(target_dir, 'data', f'{fname}_{ref.library_name}_{ref._dtype}_{ref._device}_versus_{f.library_name}_{f._dtype}_{f._device}.txt')
             fd = open(fn, 'w')
             fd.write(str(image))
             fd.close()
@@ -77,13 +77,13 @@ def main_results(target_dir='numpy_jax_torch_results'):
                 rating = 'BAD'
             else:
                 rating = 'POOR'
-            cols.append(f'{rating}: [{matches_rating:.1f}/{inaccuracies_rating:.1f}/{mismatches_rating:.1f} %]({os.path.basename(fn)})')
+            cols.append(f'{rating}: [{matches_rating:.1f}/{inaccuracies_rating:.1f}/{mismatches_rating:.1f} %](data/{os.path.basename(fn)})')
 
         rows.append(' | '.join([''] + cols + ['']))
 
     table = '\n'.join(rows)
 
-    versions = [f'- {item[-1]}' for item in array_libraries if item[-1] is not None]
+    versions = '\n'.join([f'- {item[-1]}' for item in array_libraries if item[-1] is not None])
     
     content = f'''
 # Results
