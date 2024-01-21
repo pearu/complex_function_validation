@@ -1,0 +1,111 @@
+                                                                                                
+   +infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
+    maxj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIcIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  3e292j  XIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccI~   
+  5e276j  XIc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccI~   
+  8e260j  XIcc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cI~   
+  1e245j  XIccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccccI~   
+  2e229j  XIcccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc==cI~   
+  3e213j  XIccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===ccI~   
+  5e197j  XIcccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c===cI~   
+  8e181j  XIccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc==c=ccI~   
+  1e166j  XIcccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=======cI~   
+  2e150j  XIccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc===ccI~   
+  3e134j  XIcccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc===c==cI~   
+  6e118j  XIccccccccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===c=cc=cI~   
+  9e102j  XIcccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c==c=====cI~   
+   1e87j  XIccccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccc=c=c=c=c=cc==ccI~   
+   2e71j  XIcccccccccccccc=cccccccccccccccccccccccccccccccccccccccccccccccccc==c=cccccc==ccI~   
+   4e55j  XIccccccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccc=cc=cc=cc===cc==cI~   
+   6e39j  XIcccccccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccc=ccc===cc===cI~   
+   1e24j  XIccccccccccccccccc==ccccccccccccccccccccccccccccccccccccccccc=cccc==ccc=c=c====cI~   
+    2e8j  XIccccccccccccccccccc=ccccccccccccccccccccccccccccccccccccccc=c=c=c==c=ccccc====cI~   
+   3e-8j  XIccccccccccccccccccc==ccccccccccccccccccccccccccccccccccccc=cc=c=cc=ccc=cc===c=cI~   
+  4e-24j  XIcccccccccccccccccccc==ccccccccccccccccccccccccccccccccccc=ccccc=c=cccc=c===c=ccI~   
+  7e-40j  XIccccccccccccccccccccc==ccccccccccccccccccccccccccccccccc=c===cc=c==cccc=c=c=c=cI~   
+  1e-55j  XIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccc====cccccc=c=c=c=c==cI~   
+  2e-71j  XIccccccccccccccccccccccc==ccccccccccccccccccccccccccccc=cc==c=cccc==c=c==c=====cI~   
+  3e-87j  XIcccccccccccccccccccccccc==ccccccccccccccccccccccccccc=c=cc====c=cccc=c========cI~   
+ 4e-103j  XIcccccccccccccccccccccccccc=ccccccccccccccccccccccccc=c==c==c==c=ccccccc=======cI~   
+ 7e-119j  XIcccccccccccccccccccccccccc==ccccccccccccccccccccccc=ccc=c=c=c=cccc=c=c=c======cI~   
+ 1e-134j  XIccccccccccccccccccccccccccc=cccccccccccccccccccccccc====c=cc==ccc=cc=c========cI~   
+ 2e-150j  XIccccccccccccccccccccccccccccc=ccccccccccccccccccc=ccccc=cc====ccc==c=c========cI~   
+ 3e-166j  XIccccccccccccccccccccccccccccc==ccccccccccccccccc=cccc===c===c=c=c=cccc========cI~   
+ 5e-182j  XIcccccccccccccccccccccccccccccc==ccccccccccccccc=c==c==ccc=====c=c=cc=c========cI~   
+ 8e-198j  XIccccccccccccccccccccccccccccccc==ccccccccccccc=c==cc==c=cc==c=c=c==c=c========cI~   
+ 1e-213j  XIcccccccccccccccccccccccccccccccc==ccccccccccc=cc===c==c=c==c=cc=cc=c=c========cI~   
+ 2e-229j  XIcccccccccccccccccccccccccccccccccccccccccccccc==c==c===ccc====ccc==c=c========cI~   
+ 3e-245j  XIcccccccccccccccccccccccccccccccccc==ccccccc=cc=c===c=c==cc=c==c=c==c=c========cI~   
+ 5e-261j  XIccccccccccccccccccccccccccccccccccccccccccccccc===cccc=cc=c=c=c=c==c=c========cI~   
+ 9e-277j  XIcccccccccccccccccccccccccccccccccccccccccccccc=====cc===c==c==c=c==c=c========cI~   
+ 1e-292j  XIccccccccccccccccccccccccccccccccccccc==c=ccccc=====c=c==c=c===c=c==c=c========cI~   
+   tinyj  XIcccccccccccccccccccccccccccccccccccccc=cc=cccc=====ccc==c=====c=c==c=c========cI~   
+      0j  Xcccccccccccccccccccccccccccccccccccccccc~==cc=c=====c====c=====c=c==c=c========c=~   
+  -tinyj  XIcccccccccccccccccccccccccccccccccccccc=cc=cccc=====ccc==c=====c=c==c=c========cI~   
+-1e-292j  XIccccccccccccccccccccccccccccccccccccccccc=cc=c==c==c====cc==c=c=c==c=c========cI~   
+-9e-277j  XIcccccccccccccccccccccccccccccccccccc==ccc=cc=c==c==cc===ccc===c=c==c=c========cI~   
+-5e-261j  XIccccccccccccccccccccccccccccccccccc==ccccc=c=c=ccc=c=c=cc==c==c=c==c=c========cI~   
+-3e-245j  XIcccccccccccccccccccccccccccccccccc==ccccccc=cc=c===c=c==cc=c==c=c==c=c========cI~   
+-2e-229j  XIcccccccccccccccccccccccccccccccccc=ccccccccc=c=====c====cc==c=c=c==c=c========cI~   
+-1e-213j  XIccccccccccccccccccccccccccccccccc=ccccccccccc===c==c===cccc===ccc==c=c========cI~   
+-8e-198j  XIccccccccccccccccccccccccccccccc==ccccccccccccc=====c===cc=cc=cccc=cc=c========cI~   
+-5e-182j  XIcccccccccccccccccccccccccccccc=ccccccccccccccccc=c=c==c=c====ccccc=c=c========cI~   
+-3e-166j  XIcccccccccccccccccccccccccccccc=ccccccccccccccccc===c=cccc=cc=cc=cc=c=c========cI~   
+-2e-150j  XIcccccccccccccccccccccccccccc=ccccccccccccccccccccccc====ccc=c=c=cccccc========cI~   
+-1e-134j  XIccccccccccccccccccccccccccc==ccccccccccccccccccccc======c====cccc==c=c========cI~   
+-7e-119j  XIcccccccccccccccccccccccccccccccccccccccccccccccccccc====c===ccc=c==c=c========cI~   
+-4e-103j  XIccccccccccccccccccccccccc==ccccccccccccccccccccccccc=ccccc===cc=c==c=cc=c=====cI~   
+ -3e-87j  XIcccccccccccccccccccccccc==ccccccccccccccccccccccccccc===c=c==cc=c==c=cc=cc====cI~   
+ -2e-71j  XIccccccccccccccccccccccc==ccccccccccccccccccccccccccccc==c====cc=cc=cccc===c===cI~   
+ -1e-55j  XIcccccccccccccccccccccc==ccccccccccccccccccccccccccccccc=c=====c=cc=c=c=cc=====cI~   
+ -7e-40j  XIccccccccccccccccccccc==ccccccccccccccccccccccccccccccccc======c=c==c=c=c======cI~   
+ -4e-24j  XIcccccccccccccccccccc=ccccccccccccccccccccccccccccccccccccc=c==c=c=cccccc==ccc=cI~   
+  -3e-8j  XIccccccccccccccccccc==ccccccccccccccccccccccccccccccccccccc====c=c==c=cc=======cI~   
+   -2e8j  XIcccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccccc=c=c==c=c========cI~   
+  -1e24j  XIccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c==c=c=c=c==cccI~   
+  -6e39j  XIcccccccccccccccc==ccccccccccccccccccccccccccccccccccccccccccc===c=cc=c=c===cc=cI~   
+  -4e55j  XIccccccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccc=c==c=ccc=cccc=cI~   
+  -2e71j  XIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===ccc=cc===c=cI~   
+  -1e87j  XIccccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccc==cc=c==c=c==ccI~   
+ -9e102j  XIcccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc==c=cc=======cI~   
+ -6e118j  XIccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c======cI~   
+ -3e134j  XIcccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=ccc=c=cI~   
+ -2e150j  XIccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc====c===ccI~   
+ -1e166j  XIcccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c=====ccI~   
+ -8e181j  XIccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==cc=cI~   
+ -5e197j  XIcccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c=c=cI~   
+ -3e213j  XIccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c==cI~   
+ -2e229j  XIcccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c=cI~   
+ -1e245j  XIccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccccI~   
+ -8e260j  XIcc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===cI~   
+ -5e276j  XIccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cI~   
+ -3e292j  XI==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cI~   
+    minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIcIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+                                                                                                
+  CUDA                                                                                          
+  torch.log2 on complex128 plane                                                                
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.log2 on complex128 plane                                                                
+                                                                                                
+Statistics:                                                                                     
+    match rate: 91.9%                                                                           
+    mismatch rate: 8.1%                                                                         
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    torch 2.1.2                                                                                 
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               

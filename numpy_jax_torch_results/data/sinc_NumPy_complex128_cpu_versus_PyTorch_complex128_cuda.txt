@@ -1,0 +1,112 @@
+                                                                                                
+   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+    maxj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+  3e292j  ~~NNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNN~~   
+  5e276j  ~~NNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNN~~   
+  8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNN~~   
+  1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMNMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMNMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMNMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMNMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMNMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMNMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMNMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMNMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMNMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMNMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   1e24j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+    2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   3e-8j  ~~cccc1cccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccc=1cc=ccccccccccc~~   
+  4e-24j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===ccccccccccccccccccc=cc=1=ccc1cc1===ccc~~   
+  7e-40j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=cccccccccccccccccccc=cc=1ccc=1cc1=c==cc~~   
+  1e-55j  ~~c=c=ccccccccc=c=cccccccccccccccccccccc===cccccccccccccccccccccc=1=cc=1cc1cc==cc~~   
+  2e-71j  ~~c=c=cc=cc=ccc=c=cccccccccccccccccccccc===ccccccccccccccccccc==cc1cccc1cc1cc==cc~~   
+  3e-87j  ~~c=c=ccccccccc=cccccccccccccccccccccccc===ccccccccccccccccccc=ccc1=cc=1cc1====cc~~   
+ 4e-103j  ~~c=c=cc=cc=ccc=c=ccccccccccccccccccccccc=cccccccccccccccccccc=ccc1cccc1cc1====cc~~   
+ 7e-119j  ~~c=c=cc=cccccc=c=ccccccccccccccccccccccc=cccccccccccccccccccc=ccc1ccc=1cc1====cc~~   
+ 1e-134j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===cccccccccccccccccccccc=1cccc1cc1====cc~~   
+ 2e-150j  ~~c=c=cc=cc=ccc=c=cccccccccccccccccccccc===cccccccccccccccccccc=cc1=ccc1cc1====cc~~   
+ 3e-166j  ~~c=c=cc=cc=ccc=c=cccccccccccccccccccccc===cccccccccccccccccccc=cc1=cc=1cc1====cc~~   
+ 5e-182j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=ccccccccccccccccccccc=c=1=cc=1cc1====cc~~   
+ 8e-198j  ~~c=c=cc=cc=cccc==cccccccccccccccccccccccccccccccccccccccccccc==cc1=cc=1cc1====cc~~   
+ 1e-213j  ~~c=c=cc=cc=ccc=c=ccccccccccccccccccccccc=cccccccccccccccccccc==c=1=cc=1cc1====cc~~   
+ 2e-229j  ~~c=c=cc=cc=ccc=c=cccccccccccccccccccccc===ccccccccccccccccccc=ccc1=cc=1cc1====cc~~   
+ 3e-245j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===cccccccccccccccccccc===1=cc=1cc1====cc~~   
+ 5e-261j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=ccccccccccccccccccccccc=1=cc=1cc1====cc~~   
+ 9e-277j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=cccccccccccccccccccc====1=cc=1cc1====cc~~   
+ 1e-292j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===ccccccccccccccccccc====1=cc=1cc1====cc~~   
+   tinyj  ~~c=c=cc=cc=ccc===cccc=c==ccccccccc==c======cc==ccc===cc===c=c====1=cc=1cc1====cc~~   
+      0j  ~~c=c=cc=cc=ccc===ccc========c=c=c===============c================1=cc=1cc1====cc~~   
+  -tinyj  ~~c=c=cc=cc=ccc===cccc=c==ccccccccc==c======cc==ccc===cc===c=c====1=cc=1cc1====cc~~   
+-1e-292j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===ccccccccccccccccccc====1=cc=1cc1====cc~~   
+-9e-277j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===ccccccccccccccccccc=c==1=cc=1cc1====cc~~   
+-5e-261j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=ccccccccccccccccccccccc=1=cc=1cc1====cc~~   
+-3e-245j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===cccccccccccccccccccc===1=cc=1cc1====cc~~   
+-2e-229j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccc===ccccccccccccccccccc=cc=1=cc=1cc1====cc~~   
+-1e-213j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccc=cccccccccccccccccccccccc1=cc=1cc1====cc~~   
+-8e-198j  ~~c=c=cc=cc=ccc===cccccccccccccccccccccccccccccccccccccccccccc=cc=1ccc=1cc1====cc~~   
+-5e-182j  ~~c=c=cc=cc=ccc==cccccccccccccccccccccccc=cccccccccccccccccccccccc1=cc=1cc1====cc~~   
+-3e-166j  ~~c=c=cc=cc=ccc===ccccccccccccccccccccccccccccccccccccccccccccccc=1=cc=1cc1====cc~~   
+-2e-150j  ~~c=c=cc=cc=ccccc=ccccccccccccccccccccccc=cccccccccccccccccccc=cc=1=cc=1cc1====cc~~   
+-1e-134j  ~~c=c=cc=cc=ccccc=cccccccccccccccccccccccccccccccccccccccccccc==c=1=cc=1cc1====cc~~   
+-7e-119j  ~~c=c=cc=cc=ccc=ccccccccccccccccccccccccc=cccccccccccccccccccc=cc=1=cc=1cc1====cc~~   
+-4e-103j  ~~c=c=cc=cccccc=ccccccccccccccccccccccccc=cccccccccccccccccccc==cc1=cc=1cc1====cc~~   
+ -3e-87j  ~~c=c=ccccc=cccc==ccccccccccccccccccccccc=cccccccccccccccccccc=cc=1=ccc1cc1c===cc~~   
+ -2e-71j  ~~c=c=cc=cc=ccccc=cccccccccccccccccccccc===ccccccccccccccccccc==c=1=ccc1cc1cc==cc~~   
+ -1e-55j  ~~c=c=cc=cc=ccc=c=cccccccccccccccccccccc===cccccccccccccccccccccc=1=cc=1cc1cc==cc~~   
+ -7e-40j  ~~c=cccc=cccccc=c=ccccccccccccccccccccccc=cccccccccccccccccccccc==1ccc=1cc1ccc=cc~~   
+ -4e-24j  ~~c=c=cc=cc=ccccc=cccccccccccccccccccccc===ccccccccccccccccccc=cc=1=cc=1cc1cc==cc~~   
+  -3e-8j  ~~cccc1cccccccc=ccccc1cccccccccccccccccccccccccccccccccccccccc==cc1cc=ccccccccccc~~   
+   -2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -1e24j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMNMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMNMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMNMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMNMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMNMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMNMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMNMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMNMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMNMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMNMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -5e276j  ~~NNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e292j  ~~NNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNN~~   
+    minj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+                                                                                                
+  CUDA                                                                                          
+  torch.sinc on complex128 plane                                                                
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.sinc on complex128 plane                                                                
+                                                                                                
+Statistics:                                                                                     
+    match rate: 54.6%                                                                           
+    inaccuracies rate: 1.8%                                                                     
+    mismatch rate: 43.6%                                                                        
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    torch 2.1.2                                                                                 
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               

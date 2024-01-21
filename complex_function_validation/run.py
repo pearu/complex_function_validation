@@ -3,12 +3,13 @@ import numpy
 import complex_function_validation as cfv
 
 function_names = [
-    'exp', 'log', 'log10',
+    'exp', 'log', 'log10', 'log2', 'log1p',
     'sqrt', 'square',
     'sin', 'cos', 'tan',
     'arcsin', 'arccos', 'arctan',
     'sinh', 'cosh', 'tanh',
     'arcsinh', 'arccosh', 'arctanh',
+    'sinc',
 ]
 
 def main_results(array_libraries, target_dir='cfv_results'):
@@ -111,6 +112,6 @@ if __name__ == '__main__':
     import warnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        # main_results(array_libraries, target_dir='numpy_jax_torch_results')
         main_results(array_libraries[:2], target_dir='numpy_jax_results')
-        # main_results(array_libraries[::2], target_dir='numpy_torch_results')
+        main_results(array_libraries[::2], target_dir='numpy_torch_results')
+        main_results(array_libraries, target_dir='numpy_jax_torch_results')

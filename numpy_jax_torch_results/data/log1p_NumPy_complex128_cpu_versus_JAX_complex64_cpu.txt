@@ -1,0 +1,112 @@
+                                                                                                
+   +infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+    maxj  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   4e32j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   5e30j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   5e28j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   6e26j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   6e24j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   7e22j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   8e20j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   8e18j  NNIIIIIIIII==cccccccc===================================================IIIIIIIIII~   
+   9e16j  NNIIIIIIIII===ccccccc===================================================IIIIIIIIII~   
+   1e15j  NNIIIIIIIII====cccccc===================================================IIIIIIIIII~   
+   1e13j  NNIIIIIIIII=====ccccc===================================================IIIIIIIIII~   
+   1e11j  NNIIIIIIIII======cccc===================================================IIIIIIIIII~   
+    1e9j  NNIIIIIIIII=======ccc===================================================IIIIIIIIII~   
+    1e7j  NNIIIIIIIII=============================================================IIIIIIIIII~   
+    2e5j  NNIIIIIIIII=============================================================IIIIIIIIII~   
+    2e3j  NNIIIIIIIII=======c=====================================================IIIIIIIIII~   
+    2e1j  NNIIIIIIIII================================================c============IIIIIIIIII~   
+   2e-1j  NNIIIIIIIII===========cc=c================================c==cc=========IIIIIIIIII~   
+   2e-3j  NNIIIIIIIII===========ccc==============================c==ccc===========IIIIIIIIII~   
+   3e-5j  NNIIIIIIIII===========c===cccc=======================ccc==ccc===========IIIIIIIIII~   
+   3e-7j  NNIIIIIIIII==========c==c=ccccccccccccccccccccccccccccccc=c=c===========IIIIIIIIII~   
+   3e-9j  NNIIIIIIIII==========c==c=ccccccccccccccccccccccccccccccc=ccc===========IIIIIIIIII~   
+  3e-11j  NNIIIIIIIII=============c=1c22ccccccccccccccccccccccc2221=cccc==========IIIIIIIIII~   
+  4e-13j  NNIIIIIIIII=============c=22442ccccccccccccccccccccc24442=ccc===========IIIIIIIIII~   
+  4e-15j  NNIIIIIIIII=============c=236642ccccccccccccccccccc246642=ccc===========IIIIIIIIII~   
+  4e-17j  NNIIIIIIIII==========c==c=236X642ccccccccccccccccc246X642=ccc===========IIIIIIIIII~   
+  5e-19j  NNIIIIIIIII=============c=236XX642ccccccccccccccc246XX642=ccc===========IIIIIIIIII~   
+  5e-21j  NNIIIIIIIII============cc=236XXX642ccccc==cccccc246XXX642=c=c==========cIIIIIIIIII~   
+  6e-23j  NNIIIIIIIII=============c=236XXXX642cccc==ccccc246XXXX642=ccc=========ccIIIIIIIIII~   
+  6e-25j  NNIIIIIIIII==========c==c=236XXXXX642cccc=cccc246XXXXX642=ccc========cccIIIIIIIIII~   
+  7e-27j  NNIIIIIIIII=============c=236XXXXXX642ccc=ccc246XXXXXX642=ccc=======ccccIIIIIIIIII~   
+  7e-29j  NNIIIIIIIII=============c=236XXXXXXX642cc=cc246XXXXXXX642=cccc=====cccc=IIIIIIIIII~   
+  8e-31j  NNIIIIIIIII=============c=236XXXXXXXX642c=c246XXXXXXXX642=ccc=====cccc==IIIIIIIIII~   
+  9e-33j  NNIIIIIIIII==========c==c=236XXXXXXXXX642=246XXXXXXXXX642=c=cc===cccc===IIIIIIIIII~   
+  1e-34j  NNIIIIIIIII=============c=236XXXXXXXXXX64=46XXXXXXXXXX642=ccc===cccc====IIIIIIIIII~   
+  1e-36j  NNIIIIIIIII=============c=236XXXXXXXXXXX6=6XXXXXXXXXXX642=cccc=cccc=====IIIIIIIIII~   
+   tinyj  NNIIIIIIIII=============c=236XXXXXXXXXXXX=XXXXXXXXXXXX642=cccccccc======IIIIIIIIII~   
+      0j  NNIIIIIIIII=============c=236XXXXXXXXXXXX=XXXXXXXXXXXX642=c=c===========IIIIIIIIII~   
+  -tinyj  NNIIIIIIIII=============c=236XXXXXXXXXXXX=XXXXXXXXXXXX642=cccccccc======IIIIIIIIII~   
+ -1e-36j  NNIIIIIIIII=============c=236XXXXXXXXXXX6=6XXXXXXXXXXX642=cccc=cccc=====IIIIIIIIII~   
+ -1e-34j  NNIIIIIIIII=============c=236XXXXXXXXXX64=46XXXXXXXXXX642=ccc===cccc====IIIIIIIIII~   
+ -9e-33j  NNIIIIIIIII==========c==c=236XXXXXXXXX642=246XXXXXXXXX642=c=cc===cccc===IIIIIIIIII~   
+ -8e-31j  NNIIIIIIIII=============c=236XXXXXXXX642c=c246XXXXXXXX642=ccc=====cccc==IIIIIIIIII~   
+ -7e-29j  NNIIIIIIIII=============c=236XXXXXXX642cc=cc246XXXXXXX642=cccc=====cccc=IIIIIIIIII~   
+ -7e-27j  NNIIIIIIIII=============c=236XXXXXX642ccc=ccc246XXXXXX642=ccc=======ccccIIIIIIIIII~   
+ -6e-25j  NNIIIIIIIII==========c==c=236XXXXX642cccc=cccc246XXXXX642=ccc========cccIIIIIIIIII~   
+ -6e-23j  NNIIIIIIIII=============c=236XXXX642cccc==ccccc246XXXX642=ccc=========ccIIIIIIIIII~   
+ -5e-21j  NNIIIIIIIII============cc=236XXX642ccccc==cccccc246XXX642=c=c==========cIIIIIIIIII~   
+ -5e-19j  NNIIIIIIIII=============c=236XX642ccccccccccccccc246XX642=ccc===========IIIIIIIIII~   
+ -4e-17j  NNIIIIIIIII==========c==c=236X642ccccccccccccccccc246X642=ccc===========IIIIIIIIII~   
+ -4e-15j  NNIIIIIIIII=============c=236642ccccccccccccccccccc246642=ccc===========IIIIIIIIII~   
+ -4e-13j  NNIIIIIIIII=============c=22442ccccccccccccccccccccc24442=ccc===========IIIIIIIIII~   
+ -3e-11j  NNIIIIIIIII=============c=1c22ccccccccccccccccccccccc2221=cccc==========IIIIIIIIII~   
+  -3e-9j  NNIIIIIIIII==========c==c=ccccccccccccccccccccccccccccccc=ccc===========IIIIIIIIII~   
+  -3e-7j  NNIIIIIIIII==========c==c=ccccccccccccccccccccccccccccccc=c=c===========IIIIIIIIII~   
+  -3e-5j  NNIIIIIIIII===========c===cccc=======================ccc==ccc===========IIIIIIIIII~   
+  -2e-3j  NNIIIIIIIII===========ccc==============================c==ccc===========IIIIIIIIII~   
+  -2e-1j  NNIIIIIIIII===========cc=c================================c==cc=========IIIIIIIIII~   
+   -2e1j  NNIIIIIIIII================================================c============IIIIIIIIII~   
+   -2e3j  NNIIIIIIIII=======c=====================================================IIIIIIIIII~   
+   -2e5j  NNIIIIIIIII=============================================================IIIIIIIIII~   
+   -1e7j  NNIIIIIIIII=============================================================IIIIIIIIII~   
+   -1e9j  NNIIIIIIIII=======ccc===================================================IIIIIIIIII~   
+  -1e11j  NNIIIIIIIII======cccc===================================================IIIIIIIIII~   
+  -1e13j  NNIIIIIIIII=====ccccc===================================================IIIIIIIIII~   
+  -1e15j  NNIIIIIIIII====cccccc===================================================IIIIIIIIII~   
+  -9e16j  NNIIIIIIIII===ccccccc===================================================IIIIIIIIII~   
+  -8e18j  NNIIIIIIIII==cccccccc===================================================IIIIIIIIII~   
+  -8e20j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -7e22j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -6e24j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -6e26j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -5e28j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -5e30j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -4e32j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+  -4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+    minj  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~   
+   -infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+          ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^   
+       -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
+                                                                                                
+  CPU                                                                                           
+  jax.numpy.log1p on complex64 plane                                                            
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.log1p on complex128 plane                                                               
+                                                                                                
+Statistics:                                                                                     
+    match rate: 47.9%                                                                           
+    inaccuracies rate: 4.8%                                                                     
+    mismatch rate: 47.3%                                                                        
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    jax 0.4.23                                                                                  
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               
