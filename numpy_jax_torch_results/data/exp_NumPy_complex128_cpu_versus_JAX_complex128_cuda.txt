@@ -1,86 +1,86 @@
                                                                                                 
    +infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N   
-    maxj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  3e292j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  5e276j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  8e260j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  1e245j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  2e229j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  3e213j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  5e197j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  8e181j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  1e166j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  2e150j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  3e134j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  6e118j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  9e102j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-   1e87j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-   2e71j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-   4e55j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-   6e39j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-   1e24j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
-    2e8j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
-   3e-8j  =====================92222222222222222222222222222222222222229~~~~~~~~~~~~~~~~~~~~~   
-  4e-24j  =====================9ccccccccccccccccccccccccccccccccccccccc9~~~~~~~~~~~~~~~~~~~~~   
-  7e-40j  =====================9ccccccccccccccccccccccccccccccccccccccc9~~~~~~~~~~~~~~~~~~~~~   
-  1e-55j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
-  2e-71j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
-  3e-87j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 4e-103j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 7e-119j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 1e-134j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 2e-150j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 3e-166j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 5e-182j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 8e-198j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 1e-213j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 2e-229j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 3e-245j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 5e-261j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 9e-277j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- 1e-292j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
-   tinyj  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
-      0j  =====================9=======================================9NNNNNNNNNNNNNNNNNNNNN   
-  -tinyj  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--1e-292j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--9e-277j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--5e-261j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--3e-245j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--2e-229j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--1e-213j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--8e-198j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--5e-182j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--3e-166j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--2e-150j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--1e-134j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--7e-119j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
--4e-103j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- -3e-87j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- -2e-71j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- -1e-55j  =====================9ccccccccccccccccccccccccccccccccccccccc9NNNNNNNNNNNNNNNNNNNNN   
- -7e-40j  =====================9ccccccccccccccccccccccccccccccccccccccc9~~~~~~~~~~~~~~~~~~~~~   
- -4e-24j  =====================9ccccccccccccccccccccccccccccccccccccccc9~~~~~~~~~~~~~~~~~~~~~   
-  -3e-8j  =====================92222222222222222222222222222222222222229~~~~~~~~~~~~~~~~~~~~~   
-   -2e8j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
-  -1e24j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   
-  -6e39j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  -4e55j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  -2e71j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-  -1e87j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -9e102j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -6e118j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -3e134j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -2e150j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -1e166j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -8e181j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -5e197j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -3e213j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -2e229j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -1e245j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -8e260j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -5e276j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
- -3e292j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-    minj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
+    maxj  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+  3e292j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  5e276j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  8e260j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  1e245j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  2e229j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  3e213j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  5e197j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+  8e181j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  1e166j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  2e150j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+  3e134j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  6e118j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+  9e102j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   1e87j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   2e71j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   4e55j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   6e39j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   1e24j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+    2e8j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   3e-8j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  4e-24j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  7e-40j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  1e-55j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  2e-71j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  3e-87j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 4e-103j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 7e-119j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 1e-134j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 2e-150j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 3e-166j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 5e-182j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 8e-198j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 1e-213j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 2e-229j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 3e-245j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 5e-261j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 9e-277j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ 1e-292j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   tinyj  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+      0j  ==============================================================NNNNNNNNNNNNNNNNNNNNN   
+  -tinyj  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-1e-292j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-9e-277j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-5e-261j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-3e-245j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-2e-229j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-1e-213j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-8e-198j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-5e-182j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-3e-166j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-2e-150j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-1e-134j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-7e-119j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+-4e-103j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -3e-87j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -2e-71j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -1e-55j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -7e-40j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -4e-24j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -3e-8j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+   -2e8j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -1e24j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -6e39j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -4e55j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -2e71j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+  -1e87j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -9e102j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+ -6e118j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -3e134j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -2e150j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+ -1e166j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -8e181j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+ -5e197j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -3e213j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+ -2e229j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -1e245j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -8e260j  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
+ -5e276j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+ -3e292j  ==============================================================~~~~~~~~~~~~~~~~~~~~~   
+    minj  =====================ccccccccccccccccccccccccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~   
    -infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N   
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
@@ -92,9 +92,8 @@
   numpy.exp on complex128 plane                                                                 
                                                                                                 
 Statistics:                                                                                     
-    match rate: 40.0%                                                                           
-    inaccuracies rate: 2.3%                                                                     
-    mismatch rate: 57.7%                                                                        
+    match rate: 99.6%                                                                           
+    mismatch rate: 0.4%                                                                         
                                                                                                 
 Versions:                                                                                       
     numpy 1.26.3                                                                                

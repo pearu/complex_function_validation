@@ -1,85 +1,85 @@
                                                                                                 
    +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
     maxj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
-  3e292j  ~~NNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNN~~   
-  5e276j  ~~NNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNN~~   
-  8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNN~~   
-  1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNN~~   
-  2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~N~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~N~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~N~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~N~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~N~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~N~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~N~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~N~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~N~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~N~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~N~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~N~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~N~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   1e24j  ~~NNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNN~N~NNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNN~~   
-    2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-   3e-8j  ~~NNNNNNNNNNNNNNNNNXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXNNNNNNNNNNNNNNNNN~~   
-  4e-24j  ~~NNNNNNNNNNNNNNNNNXX2XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2XXNNNNNNNNNNNNNNNNN~~   
-  7e-40j  ~~NNNNNNNNNNNNNNNNNXX2===c============c========c===c=====c===2XXNNNNNNNNNNNNNNNNN~~   
-  1e-55j  ~~NNNNNNNNNNNNNNNNNXX2================c======================2XXNNNNNNNNNNNNNNNNN~~   
-  2e-71j  ~~NNNNNNNNNNNNNNNNNXX2=====================================c=2XXNNNNNNNNNNNNNNNNN~~   
-  3e-87j  ~~NNNNNNNNNNNNNNNNNXX2=================c====c================2XXNNNNNNNNNNNNNNNNN~~   
- 4e-103j  ~~NNNNNNNNNNNNNNNNNXX2===========c=c====c=c======c===========2XXNNNNNNNNNNNNNNNNN~~   
- 7e-119j  ~~NNNNNNNNNNNNNNNNNXX2=========c========c=c=c=======c========2XXNNNNNNNNNNNNNNNNN~~   
- 1e-134j  ~~NNNNNNNNNNNNNNNNNXX2=c=======================c===c=========2XXNNNNNNNNNNNNNNNNN~~   
- 2e-150j  ~~NNNNNNNNNNNNNNNNNXX2=======c=====c===========cc=====c======2XXNNNNNNNNNNNNNNNNN~~   
- 3e-166j  ~~NNNNNNNNNNNNNNNNNXX2=c=====cc====c=================c=====c=2XXNNNNNNNNNNNNNNNNN~~   
- 5e-182j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c================cc===========2XXNNNNNNNNNNNNNNNNN~~   
- 8e-198j  ~~NNNNNNNNNNNNNNNNNXX2=======cccccccccccccccccccccc====c=====2XXNNNNNNNNNNNNNNNNN~~   
- 1e-213j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c=c=============cc=c========2XXNNNNNNNNNNNNNNNNN~~   
- 2e-229j  ~~NNNNNNNNNNNNNNNNNXX2==c=cc=c=cccc==============c==cc=====cc2XXNNNNNNNNNNNNNNNNN~~   
- 3e-245j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
- 5e-261j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
- 9e-277j  ~~NNNNNNNNNNNNNNNNNXX2=c====cc=c=cc=====c=c======c====c=c====2XXNNNNNNNNNNNNNNNNN~~   
- 1e-292j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
-   tinyj  ~~NNNNNNNNNNNNNNNNNXX2=c=====c=cccc=========c====c====cc=====2XXNNNNNNNNNNNNNNNNN~~   
-      0j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
-  -tinyj  ~~NNNNNNNNNNNNNNNNNXX2=c=====c=cccc=========c====c====cc=====2XXNNNNNNNNNNNNNNNNN~~   
--1e-292j  ~~NNNNNNNNNNNNNNNNNXX2==c=c==c=c=c===============c======c====2XXNNNNNNNNNNNNNNNNN~~   
--9e-277j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=cc==============c========cc=2XXNNNNNNNNNNNNNNNNN~~   
--5e-261j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
--3e-245j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c=c===============c===========2XXNNNNNNNNNNNNNNNNN~~   
--2e-229j  ~~NNNNNNNNNNNNNNNNNXX2===c===c=c=cc=============cc=cc==c=====2XXNNNNNNNNNNNNNNNNN~~   
--1e-213j  ~~NNNNNNNNNNNNNNNNNXX2====c==c=ccc=c==c=c=c=c==c=c===========2XXNNNNNNNNNNNNNNNNN~~   
--8e-198j  ~~NNNNNNNNNNNNNNNNNXX2=c=====c=c=ccccccccccccccccc=====c=====2XXNNNNNNNNNNNNNNNNN~~   
--5e-182j  ~~NNNNNNNNNNNNNNNNNXX2=======c=c==c=====c=c====c=c===========2XXNNNNNNNNNNNNNNNNN~~   
--3e-166j  ~~NNNNNNNNNNNNNNNNNXX2=c=====c=cccccccccccccccccccc===c======2XXNNNNNNNNNNNNNNNNN~~   
--2e-150j  ~~NNNNNNNNNNNNNNNNNXX2=======c===================c=c=========2XXNNNNNNNNNNNNNNNNN~~   
--1e-134j  ~~NNNNNNNNNNNNNNNNNXX2====c==cccccccccccccccccccccccc========2XXNNNNNNNNNNNNNNNNN~~   
--7e-119j  ~~NNNNNNNNNNNNNNNNNXX2======================c================2XXNNNNNNNNNNNNNNNNN~~   
--4e-103j  ~~NNNNNNNNNNNNNNNNNXX2=c=======================c=============2XXNNNNNNNNNNNNNNNNN~~   
- -3e-87j  ~~NNNNNNNNNNNNNNNNNXX2=======c====c====c=======c=============2XXNNNNNNNNNNNNNNNNN~~   
- -2e-71j  ~~NNNNNNNNNNNNNNNNNXX2=============c=======================c=2XXNNNNNNNNNNNNNNNNN~~   
- -1e-55j  ~~NNNNNNNNNNNNNNNNNXX2=================c=======c=============2XXNNNNNNNNNNNNNNNNN~~   
- -7e-40j  ~~NNNNNNNNNNNNNNNNNXX2=====c===c=c======c=c=c======c=c=======2XXNNNNNNNNNNNNNNNNN~~   
- -4e-24j  ~~NNNNNNNNNNNNNNNNNXX2XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2XXNNNNNNNNNNNNNNNNN~~   
-  -3e-8j  ~~NNNNNNNNNNNNNNNNNXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXNNNNNNNNNNNNNNNNN~~   
-   -2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  -1e24j  ~~NNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNN~N~NNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNNNNNNN~~   
-  -6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~N~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  -4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~N~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  -2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~N~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
-  -1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~N~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~N~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~N~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~N~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~N~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~N~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~N~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~N~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~N~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~N~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNNN~~   
- -1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNNN~~   
- -8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNNN~~   
- -5e276j  ~~NNNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNNN~~   
- -3e292j  ~~NNNNNNNNNNNNNNNNNNNNN~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~NNNNNNNNNNNNNNNNNNNNN~~   
+  3e292j  ~~NNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNN~~   
+  5e276j  ~~NNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNN~~   
+  8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNN~~   
+  1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNN~~   
+  2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMNMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMNMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMNMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMNMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMNMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMNMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMNMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMNMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMNMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMNMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMNMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMNMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMNMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   1e24j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMNMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+    2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+   3e-8j  ~~1c1c1211cccc11c1c1c88888888888888888888888888888888888888888ccccccc1cc1cccccccc~~   
+  4e-24j  ~~ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc~~   
+  7e-40j  ~~=ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=~~   
+  1e-55j  ~~==ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc==~~   
+  2e-71j  ~~===ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc===~~   
+  3e-87j  ~~====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc====~~   
+ 4e-103j  ~~=====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=====~~   
+ 7e-119j  ~~=====cccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc=====~~   
+ 1e-134j  ~~=====c=ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=c=====~~   
+ 2e-150j  ~~=====c==ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc==c=====~~   
+ 3e-166j  ~~=====c===ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc==c=====~~   
+ 5e-182j  ~~=====c====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=c==c=====~~   
+ 8e-198j  ~~=====c=====ccccccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccccccc==c==c=====~~   
+ 1e-213j  ~~=====c======ccccccccccccccccccccXXXXXXXXXXXXXXXccccccccccccccccccccc==c==c=====~~   
+ 2e-229j  ~~=====c======cccccccccccccccccccccXXXXXXXXXXXXXcccccccccccccccccccc=c==c==c=====~~   
+ 3e-245j  ~~=====c======c=ccccccccccccccccccccXXXXXXXXXXXcccccccccccccccccccc==c==c==c=====~~   
+ 5e-261j  ~~=====c======c=cccccccccccccccccccccXXXXXXXXXccccccccccccccccccccc==c==c==c=====~~   
+ 9e-277j  ~~=====c======c=c=ccccccccccccccccccccXXXXXXXcccccccccccccccccccc=c==c==c==c=====~~   
+ 1e-292j  ~~=====c======c=c=cccccccccccccccccccccXXXXXcccccccccccccccccccc==c==c==c==c=====~~   
+   tinyj  ~~=====c======c=c=ccccccccccccccccccccccXXXcccccccccccccccccccc===c==c==c==c=====~~   
+      0j  ~~=====c======c=c=cc=========c=c=c===============c================c==c==c==c=====~~   
+  -tinyj  ~~=====c======c=c=ccccccccccccccccccccccXXXcccccccccccccccccccc===c==c==c==c=====~~   
+-1e-292j  ~~=====c======c=c=cccccccccccccccccccccXXXXXcccccccccccccccccccc==c==c==c==c=====~~   
+-9e-277j  ~~=====c======c=c=ccccccccccccccccccccXXXXXXXcccccccccccccccccccc=c==c==c==c=====~~   
+-5e-261j  ~~=====c======c=cccccccccccccccccccccXXXXXXXXXccccccccccccccccccccc==c==c==c=====~~   
+-3e-245j  ~~=====c======c=ccccccccccccccccccccXXXXXXXXXXXcccccccccccccccccccc==c==c==c=====~~   
+-2e-229j  ~~=====c======cccccccccccccccccccccXXXXXXXXXXXXXcccccccccccccccccccc=c==c==c=====~~   
+-1e-213j  ~~=====c======ccccccccccccccccccccXXXXXXXXXXXXXXXccccccccccccccccccccc==c==c=====~~   
+-8e-198j  ~~=====c=====ccccccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccccccc==c==c=====~~   
+-5e-182j  ~~=====c====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=c==c=====~~   
+-3e-166j  ~~=====c===ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc==c=====~~   
+-2e-150j  ~~=====c==ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc==c=====~~   
+-1e-134j  ~~=====c=ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=c=====~~   
+-7e-119j  ~~=====cccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc=====~~   
+-4e-103j  ~~=====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=====~~   
+ -3e-87j  ~~====ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc====~~   
+ -2e-71j  ~~===ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc===~~   
+ -1e-55j  ~~==ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc==~~   
+ -7e-40j  ~~=ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc=~~   
+ -4e-24j  ~~ccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccc~~   
+  -3e-8j  ~~ccccc11cccccccccccc77777777777777777777777777777777777777777cccccccccc1cccccccc~~   
+   -2e8j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -1e24j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMNMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -6e39j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMNMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -4e55j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMNMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -2e71j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMNMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+  -1e87j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMNMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -9e102j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMNMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -6e118j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMNMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e134j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMNMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -2e150j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMNMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -1e166j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMNMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -8e181j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMNMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -5e197j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMNMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e213j  ~~NNNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMNMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -2e229j  ~~NNNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMNMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -1e245j  ~~NNNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNNN~~   
+ -8e260j  ~~NNNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNNN~~   
+ -5e276j  ~~NNNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNNN~~   
+ -3e292j  ~~NNNNNNNNNNNNNNNNNNNNXMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMXNNNNNNNNNNNNNNNNNNNN~~   
     minj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
    -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
@@ -92,9 +92,9 @@
   numpy.sinc on complex128 plane                                                                
                                                                                                 
 Statistics:                                                                                     
-    match rate: 40.3%                                                                           
-    inaccuracies rate: 1.1%                                                                     
-    mismatch rate: 58.6%                                                                        
+    match rate: 43.4%                                                                           
+    inaccuracies rate: 1.4%                                                                     
+    mismatch rate: 55.2%                                                                        
                                                                                                 
 Versions:                                                                                       
     numpy 1.26.3                                                                                

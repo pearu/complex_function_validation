@@ -409,12 +409,17 @@ class JaxNumpyFunction(Function):
 
     @classmethod
     def get_module(cls):
+        import os
+        os.environ['XLA_PYTHON_CLIENT_MEM_FRACTION'] = '10'
         try:
             module = importlib.import_module(cls.namespace)
         except ImportError:
             module = None
         if module is not None:
             import jax
+            # Workaround https://github.com/google/jax/issues/18032#issuecomment-1869072346
+            import jaxlib.cuda._versions
+            jaxlib.cuda._versions.cudnn_get_version()
             try:
                 # Fixes RuntimeError: Backend 'cuda' failed to initialize:
                 # Found cuDNN version 8700, but JAX was built against
@@ -430,6 +435,7 @@ class JaxNumpyFunction(Function):
     @property
     def context(self):
         import jax
+        jax.config.update("jax_enable_x64", True)
         return jax.default_device(jax.devices(self._device)[0])
 
     @property
