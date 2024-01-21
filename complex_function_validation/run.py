@@ -112,5 +112,5 @@ if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         # main_results(array_libraries, target_dir='numpy_jax_torch_results')
-        main_results(array_libraries[:1], target_dir='numpy_jax_results')
-        main_results(array_libraries[::2], target_dir='numpy_torch_results')
+        main_results(array_libraries[:2], target_dir='numpy_jax_results')
+        # main_results(array_libraries[::2], target_dir='numpy_torch_results')
