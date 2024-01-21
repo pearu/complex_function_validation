@@ -11,17 +11,11 @@ function_names = [
     'arcsinh', 'arccosh', 'arctanh',
 ]
 
-def main_results(target_dir='numpy_jax_torch_results'):
-    os.makedirs(target_dir, exist_ok=True)
+def main_results(array_libraries, target_dir='cfv_results'):
+    os.makedirs(os.path.join(target_dir, 'data'), exist_ok=True)
 
     size_re = size_im = 40
     size_re2 = size_im2 = 200
-
-    array_libraries = [
-        ('NumPy', cfv.NumpyFunction, cfv.NumpyFunction.get_module_version()),
-        ('JAX', cfv.JaxNumpyFunction, cfv.JaxNumpyFunction.get_module_version()),
-        ('PyTorch', cfv.TorchFunction, cfv.TorchFunction.get_module_version()),
-    ]
     
     column_labels = ['Function', 'NumPy: complex64']
     for lname in [item[0] for item in array_libraries[1:] if item[-1] is not None]:
@@ -105,44 +99,18 @@ Reference library and dtype: {ref.library_name}, {ref._dtype}
     fd.write(content)
     fd.close()
     print(f'Created {fn}')
-            
-def main_numpy_complex128_vs_numpy_complex64(fname):
-    ref = cfv.NumpyFunction(fname, 'complex128')
-    functions = cfv.NumpyFunction.get_valid_functions(fname, 'complex64')
-    image = cfv.ReportImage()
-    stats = image.generate_report(ref, functions)
-
-def main():
-    size_re, size_im = 40, 40
-    versions = set()
-    for fname in function_names:
-        ref = cfv.NumpyFunction(fname, 'complex128')
-        functions = []
-        functions.extend(cfv.NumpyFunction.get_valid_functions(fname, 'complex64'))
-        functions.extend(cfv.JaxNumpyFunction.get_valid_functions(fname, 'complex64'))
-        functions.extend(cfv.TorchFunction.get_valid_functions(fname, 'complex64'))
-
-        image = cfv.ReportImage()
-        image.generate_report(ref, functions, size_re=size_re, size_im=size_im)
-        versions.update(f.get_module_version() for f in functions)
-
-        image.insert_hline(0, '-')
-        image.insert_hline(-1, '-')
-        print(image)
-        print()
-
-
-    # Show legend and versions
-    image = cfv.ReportImage()
-    image.insert_legend(0, 10)
-    image.insert_text(-1, 0, 'Versions:')
-    for version in sorted(versions):
-        image.insert_text(-1, 5, version)    
-    print(image)    
-
 
 if __name__ == '__main__':
+
+    array_libraries = [
+        ('NumPy', cfv.NumpyFunction, cfv.NumpyFunction.get_module_version()),
+        ('JAX', cfv.JaxNumpyFunction, cfv.JaxNumpyFunction.get_module_version()),
+        ('PyTorch', cfv.TorchFunction, cfv.TorchFunction.get_module_version()),
+    ]
+
     import warnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        main_results()
+        # main_results(array_libraries, target_dir='numpy_jax_torch_results')
+        main_results(array_libraries[:1], target_dir='numpy_jax_results')
+        main_results(array_libraries[::2], target_dir='numpy_torch_results')

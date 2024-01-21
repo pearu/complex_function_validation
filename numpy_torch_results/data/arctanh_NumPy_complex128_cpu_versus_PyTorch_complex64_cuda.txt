@@ -1,0 +1,112 @@
+                                                                                                
+   +infj  ===================================================================================   
+    maxj  =IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII=   
+   4e36j  =Iccccc=====================================================================cccccI=   
+   4e34j  =Iccccccc=================================================================cccccccI=   
+   4e32j  =Iccccccccc=============================================================cccccccccI=   
+   5e30j  =Iccccccccccc=========================================================cccccccccccI=   
+   5e28j  =Iccccccccccccc=====================================================cccccccccccccI=   
+   6e26j  =Iccccccccccccccc=================================================cccccccccccccccI=   
+   6e24j  =Iccccccccccccccccc=============================================cccccccccccccccccI=   
+   7e22j  =Iccccccccccccccccccc=========================================cccccccccccccccccccI=   
+   8e20j  =Iccccccccccccccccccccc=====================================cccccccccccccccccccccI=   
+   8e18j  =Iccccccccccccccccccccccc=================================cccccccccccccccccccccccI=   
+   9e16j  =Iccccccccccccccccccccccccc=============================cccccccccccccccccccccccccI=   
+   1e15j  =Iccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccI=   
+   1e13j  =Iccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccI=   
+   1e11j  =Iccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccI=   
+    1e9j  =Iccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccI=   
+    1e7j  =Iccccccccccccccccccccccccccccccccccc=========cccccccccccccccccccccccccccccccccccI=   
+    2e5j  =Iccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccI=   
+    2e3j  =Iccccccccccccccccccccccccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccI=   
+    2e1j  =IcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccI=   
+   2e-1j  =Icccccccccccccccccc=ccc1cccccccccccccccc=cccccccccccccccc11cccccccccccccccccccccI=   
+   2e-3j  =Icccccccccccccccccccc3322ccccccccccccccccccccccccccccccc2331ccccccccccccccccccccI=   
+   3e-5j  =Icccccccccccccccccccc25442cccccccccccccc=cccccccccccccc24543=cccccccccccccccccccI=   
+   3e-7j  =Icccccccccccccccccccc256642ccccccccccccc=ccccccccccccc246x43=cccccccccccccccccccI=   
+   3e-9j  =Icccccccccccccccccccc256X642cccccccccccc=cccccccccccc246Xx43ccccccccccccccccccccI=   
+  3e-11j  =Icccccccccccccccccccc256XX642ccccccccccc=ccccccccccc246XXx43=cccccccccccccccccccI=   
+  4e-13j  =Icccccccccccccccccccc256XXX642cccccccccc=cccccccccc246XXXx43ccccccccccccccccccccI=   
+  4e-15j  =Icccccccccccccccccccc256XXXX642ccccccccc=ccccccccc246XXXXx43ccccccccccccccccccccI=   
+  4e-17j  =Icccccccccccccccccccc256XXXXX642cccccccc=cccccccc246XXXXXx43=cccccccccccccccccccI=   
+  5e-19j  =Icccccccccccccccccccc256XXXXXX642ccccccc=ccccccc246XXXXXXx43=cccccccccccccccccccI=   
+  5e-21j  =Icccccccccccccccccccc256XXXXXXX642cccccc=cccccc246XXXXXXXx43=cccccccccccccccccccI=   
+  6e-23j  =Icccccccccccccccccccc256XXXXXXXX642ccccc=ccccc246XXXXXXXXx43ccccccccccccccccccccI=   
+  6e-25j  =Icccccccccccccccccccc256XXXXXXXXX642cccc=cccc246XXXXXXXXXx43=cccccccccccccccccccI=   
+  7e-27j  =Icccccccccccccccccccc256XXXXXXXXXX642ccc=ccc246XXXXXXXXXXx43=cccccccccccccccccccI=   
+  7e-29j  =Icccccccccccccccccccc256XXXXXXXXXXX642cc=cc246XXXXXXXXXXXx43=cccccccccccccccccccI=   
+  8e-31j  =Icccccccccccccccccccc256XXXXXXXXXXXX642c=c246XXXXXXXXXXXXx43=cccccccccccccccccccI=   
+  9e-33j  =Icccccccccccccccccccc256XXXXXXXXXXXXX642=246XXXXXXXXXXXXXx43ccccccccccccccccccccI=   
+  1e-34j  =Icccccccccccccccccccc256XXXXXXXXXXXXXX64=46XXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+  1e-36j  =Icccccccccccccccccccc256XXXXXXXXXXXXXXX6=6XXXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+   tinyj  =Icccccccccccccccccccc256XXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+      0j  =Icccccccccccccccccccc256XXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+  -tinyj  =Icccccccccccccccccccc256XXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+ -1e-36j  =Icccccccccccccccccccc256XXXXXXXXXXXXXXX6=6XXXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+ -1e-34j  =Icccccccccccccccccccc256XXXXXXXXXXXXXX64=46XXXXXXXXXXXXXXx43=cccccccccccccccccccI=   
+ -9e-33j  =Icccccccccccccccccccc256XXXXXXXXXXXXX642=246XXXXXXXXXXXXXx43ccccccccccccccccccccI=   
+ -8e-31j  =Icccccccccccccccccccc256XXXXXXXXXXXX642c=c246XXXXXXXXXXXXx43=cccccccccccccccccccI=   
+ -7e-29j  =Icccccccccccccccccccc256XXXXXXXXXXX642cc=cc246XXXXXXXXXXXx43=cccccccccccccccccccI=   
+ -7e-27j  =Icccccccccccccccccccc256XXXXXXXXXX642ccc=ccc246XXXXXXXXXXx43=cccccccccccccccccccI=   
+ -6e-25j  =Icccccccccccccccccccc256XXXXXXXXX642cccc=cccc246XXXXXXXXXx43=cccccccccccccccccccI=   
+ -6e-23j  =Icccccccccccccccccccc256XXXXXXXX642ccccc=ccccc246XXXXXXXXx43ccccccccccccccccccccI=   
+ -5e-21j  =Icccccccccccccccccccc256XXXXXXX642cccccc=cccccc246XXXXXXXx43=cccccccccccccccccccI=   
+ -5e-19j  =Icccccccccccccccccccc256XXXXXX642ccccccc=ccccccc246XXXXXXx43=cccccccccccccccccccI=   
+ -4e-17j  =Icccccccccccccccccccc256XXXXX642cccccccc=cccccccc246XXXXXx43=cccccccccccccccccccI=   
+ -4e-15j  =Icccccccccccccccccccc256XXXX642ccccccccc=ccccccccc246XXXXx43ccccccccccccccccccccI=   
+ -4e-13j  =Icccccccccccccccccccc256XXX642cccccccccc=cccccccccc246XXXx43ccccccccccccccccccccI=   
+ -3e-11j  =Icccccccccccccccccccc256XX642ccccccccccc=ccccccccccc246XXx43=cccccccccccccccccccI=   
+  -3e-9j  =Icccccccccccccccccccc256X642cccccccccccc=cccccccccccc246Xx43ccccccccccccccccccccI=   
+  -3e-7j  =Icccccccccccccccccccc256642ccccccccccccc=ccccccccccccc246x43=cccccccccccccccccccI=   
+  -3e-5j  =Icccccccccccccccccccc25442cccccccccccccc=cccccccccccccc24543=cccccccccccccccccccI=   
+  -2e-3j  =Icccccccccccccccccccc3322ccccccccccccccccccccccccccccccc2331ccccccccccccccccccccI=   
+  -2e-1j  =Icccccccccccccccccc=ccc1cccccccccccccccc=cccccccccccccccc11cccccccccccccccccccccI=   
+   -2e1j  =IcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccI=   
+   -2e3j  =Iccccccccccccccccccccccccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccI=   
+   -2e5j  =Iccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccI=   
+   -1e7j  =Iccccccccccccccccccccccccccccccccccc=========cccccccccccccccccccccccccccccccccccI=   
+   -1e9j  =Iccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccI=   
+  -1e11j  =Iccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccI=   
+  -1e13j  =Iccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccI=   
+  -1e15j  =Iccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccI=   
+  -9e16j  =Iccccccccccccccccccccccccc=============================cccccccccccccccccccccccccI=   
+  -8e18j  =Iccccccccccccccccccccccc=================================cccccccccccccccccccccccI=   
+  -8e20j  =Iccccccccccccccccccccc=====================================cccccccccccccccccccccI=   
+  -7e22j  =Iccccccccccccccccccc=========================================cccccccccccccccccccI=   
+  -6e24j  =Iccccccccccccccccc=============================================cccccccccccccccccI=   
+  -6e26j  =Iccccccccccccccc=================================================cccccccccccccccI=   
+  -5e28j  =Iccccccccccccc=====================================================cccccccccccccI=   
+  -5e30j  =Iccccccccccc=========================================================cccccccccccI=   
+  -4e32j  =Iccccccccc=============================================================cccccccccI=   
+  -4e34j  =Iccccccc=================================================================cccccccI=   
+  -4e36j  =Iccccc=====================================================================cccccI=   
+    minj  =IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII=   
+   -infj  ===================================================================================   
+          ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^   
+       -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
+                                                                                                
+  CUDA                                                                                          
+  torch.arctanh on complex64 plane                                                              
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.arctanh on complex128 plane                                                             
+                                                                                                
+Statistics:                                                                                     
+    match rate: 80.7%                                                                           
+    inaccuracies rate: 5.8%                                                                     
+    mismatch rate: 13.5%                                                                        
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    torch 2.1.2                                                                                 
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               

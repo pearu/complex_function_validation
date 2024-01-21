@@ -1,0 +1,112 @@
+                                                                                                
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
+    maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+  2e150j  NIIIIIIIIIIIXIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIXIIIIIIIIIIIIIN   
+  3e134j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIN   
+  6e118j  NIIIIIIIIIIIIIIXIIIIIIIxIxIIIIxIxIIIxIIIIIIIIIxIIIxIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIN   
+  9e102j  NIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIN   
+   1e87j  NIIIIIIIIIIIXIIXIXIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIxIxxIFIIIIIIIIIIIIIIIIIIIIIIIIN   
+   2e71j  NIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
+   4e55j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIXIIIIIIXIIIIIIIIIIIN   
+   6e39j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIIIN   
+   1e24j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIXXIIIIIIIIIIIIXIXIIIIIIIIIIXIIIIIIIIIIIIIIIIN   
+    2e8j  NIIIIIIIIIIIXIIIIIIIIxIIIIIIIIIIIIXIXIIIIIIIIIXIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIN   
+   3e-8j  NIIIIIIIIIIIIIIIIxIIxcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+  4e-24j  NIIIIIIIIIIIIIIIIIIxIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+  7e-40j  NIIIIIIIIIIIIxIIIIxIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIxIIIIIIIIIIN   
+  1e-55j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+  2e-71j  NIIIIIIIIIIIIIIIIIxIIcccccccccccccccccccccccccccccccccccccccccXIxIIFIxIIIIIIIIIIIIN   
+  3e-87j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 4e-103j  NIIIIIIIIIIIIIxxIIxIIcccccccccccccccccccccccccccccccccccccccccIIxIIxIIIIIIIIIIIIIIN   
+ 7e-119j  NIIIIIIIIIIIIIIIIxIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN   
+ 1e-134j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 2e-150j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN   
+ 3e-166j  NIIIIIIIIIIIxIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 5e-182j  NIIIIIIIIIIIIxIIIXIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIIIIIIIIIIIIN   
+ 8e-198j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 1e-213j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 2e-229j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 3e-245j  NIIIIIIIIIIxIxIIIIIIXcccccccccccccccccccccccccccccccccccccccccXIIIIIIxIIIIIIIIIIIIN   
+ 5e-261j  NIIIIIIIIIIIIIIIIIIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+ 9e-277j  NIIIIIIIIIIIIIIIIXIIXcccccccccccccccccccccccccccccccccccccccccIIIXIIIIIIIIIIIIIIIIN   
+ 1e-292j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+   tinyj  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
+      0j  NIIIIIIIIIIIIIIIIIIIIcccccccccc=====================ccccccccccIIIIIIIIIIIIIIIIIIIIN   
+  -tinyj  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIX   
+-1e-292j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccc========IIIIIIIIIIX   
+-9e-277j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccc=======IIIIIIIIIIX   
+-5e-261j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccc======IIIIIIIIIIX   
+-3e-245j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccc=====IIIIIIIIIIX   
+-2e-229j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccc====IIIIIIIIIIX   
+-1e-213j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccc===IIIIIIIIIIX   
+-8e-198j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccccc==IIIIIIIIIIX   
+-5e-182j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccc=IIIIIIIIIIX   
+-3e-166j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+-2e-150j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+-1e-134j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+-7e-119j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+-4e-103j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+ -3e-87j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+ -2e-71j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+ -1e-55j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+ -7e-40j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+ -4e-24j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+  -3e-8j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
+   -2e8j  XIIIIIIIIII========c=========================================c=cccccccccIIIIIIIIIIX   
+  -1e24j  XIIIIIIIIII========cccccccccccccccccccccccccccccccccccccccccccc=ccccccccIIIIIIIIIIX   
+  -6e39j  XIIIIIIIIII====================================================cccccccccIIIIIIIIIIX   
+  -4e55j  XIIIIIIIIII=====================================================ccccccccIIIIIIIIIIX   
+  -2e71j  XIIIIIIIIII======================================================cccccccIIIIIIIIIIX   
+  -1e87j  XIIIIIIIIII=======================================================ccccccIIIIIIIIIIX   
+ -9e102j  XIIIIIIIIII========================================================cccccIIIIIIIIIIX   
+ -6e118j  XIIIIIIIIII=========================================================ccccIIIIIIIIIIX   
+ -3e134j  XIIIIIIIIII==========================================================cccIIIIIIIIIIX   
+ -2e150j  XIIIIIIIIII===========================================================c=IIIIIIIIIIX   
+ -1e166j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -8e181j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -5e197j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -3e213j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -2e229j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -1e245j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -8e260j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -5e276j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+ -3e292j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+    minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
+   -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~   
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+                                                                                                
+  CPU                                                                                           
+  torch.arccos on complex128 plane                                                              
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.arccos on complex128 plane                                                              
+                                                                                                
+Statistics:                                                                                     
+    match rate: 39.1%                                                                           
+    inaccuracies rate: 0.0%                                                                     
+    mismatch rate: 60.9%                                                                        
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    torch 2.1.2                                                                                 
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               
