@@ -1,0 +1,110 @@
+                                                                                                
+   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+    maxj  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~   
+  3e292j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c~   
+  5e276j  ~c==============================================================================cc~   
+  8e260j  ~c==c===========================================================================cc~   
+  1e245j  ~c==cc=======================================================================ccccc~   
+  2e229j  ~c==c=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc~   
+  3e213j  ~c==c=cc====================================================================c=c=cc~   
+  5e197j  ~c==c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==ccc~   
+  8e181j  ~c==c=ccc=================================================================ccc=cccc~   
+  1e166j  ~c==c=cccc================================================================c=c=cccc~   
+  2e150j  ~c==c=cccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==ccc~   
+  3e134j  ~c==c=cccc=============================================================c==ccc==ccc~   
+  6e118j  ~c==c=cccc==cc=========================================================c==ccc=c=cc~   
+  9e102j  ~c==c=cccc==ccc=======================================================ccccccc===cc~   
+   1e87j  ~c==c=cccc==cccc=====================================================c=ccccccccccc~   
+   2e71j  ~c==c=cccc==ccc=c==================================================c==ccccc=cc==cc~   
+   4e55j  ~c==c=cccc==ccc==c=================================================c=cccccccccc=cc~   
+   6e39j  ~c==c=cccc==ccc==ccccccccccccccccccccccccccccccccccccccccccccccc=c==ccccccc=c===cc~   
+   1e24j  ~c==c=cccc==ccc==cccccccccccccccccccccccccccccccccccccccccccccc=c==c==cc=cccc=cccc~   
+    2e8j  ~c==c=cccc==ccc==cc=cccccccccccccccccccccccccccccccccccccccccc=cc===cc=cccc=c===cc~   
+   3e-8j  ~c==c=cccc==ccc==cc=ccccccccccccccccccccccccccccccccccccccccc=cccccc=c=cc=ccc=c=cc~   
+  4e-24j  ~c==c=cccc==ccc==cc=c=ccccccccccccccccccccccccccccccccccccccccccc=c===ccc=cccc==cc~   
+  7e-40j  ~c==c=cccc==ccc==cc=c=cc====================================ccccccc=cccc==ccc===cc~   
+  1e-55j  ~c==c=cccc==ccc==cc=c=cc=cccccccccccccccccccccccccccccccccccccccccc=c=ccc=ccc===cc~   
+  2e-71j  ~c==c=cccc==ccc==cc=c=ccc================================cc=cccccc====cc==ccc===cc~   
+  3e-87j  ~c==c=cccc==ccc==cc=c=ccccc==============================ccccccccc===ccc=cccc===cc~   
+ 4e-103j  ~c==c=cccc==ccc==cc=c=cccc=ccccccccccccccccccccccccccccc==ccccccccc==c=cc=c=c===cc~   
+ 7e-119j  ~c==c=cccc==ccc==cc=c=cccc==cccccccccccccccccccccccccccc=cccccccc=c=cccc==c=c===cc~   
+ 1e-134j  ~c==c=cccc==ccc==cc=c=cccc===ccccccccccccccccccccccccccc=cc=ccccc=cc==ccc=c=c===cc~   
+ 2e-150j  ~c==c=cccc==ccc==cc=c=cccc====c======================ccc==ccccccc==ccc=c==c=c===cc~   
+ 3e-166j  ~c==c=cccc==ccc==cc=c=cccc====cc====================cccc==cccccccc=cc==c==c=c===cc~   
+ 5e-182j  ~c==c=cccc==ccc==cc=c=cccc====c=ccccccccccccccccccc==cccccccccccc==ccc=c==c=c===cc~   
+ 8e-198j  ~c==c=cccc==ccc==cc=c=cccc====c==c================cc=cccc=cccccccc=====c==c=c===cc~   
+ 1e-213j  ~c==c=cccc==ccc==cc=c=cccc====c==ccccccccccccccc=cc=ccccccccccccc======c==c=c===cc~   
+ 2e-229j  ~c==c=cccc==ccc==cc=c=cccc====c==c=cccccccccccccc=cc=cccccc=cccccc=====c==c=c===cc~   
+ 3e-245j  ~c==c=cccc==ccc==cc=c=cccc====c==c=cc=========ccc=cccccc==c=ccccc======c==c=c===cc~   
+ 5e-261j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c=cccccccccccccccccccc=ccccccc======c==c=c===cc~   
+ 9e-277j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c===ccccccc=cc=c=cccc=cccccccc======c==c=c===cc~   
+ 1e-292j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c===c====cc=cccc=ccccccccccccc======c==c=c===cc~   
+   tinyj  ~c==c=cccc==ccc==cc=c=cccc====c==c=c====ccc=cc=cccc=cccc==ccccccc======c==c=c===cc~   
+      0j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c====c~c=cc=cc=c==ccc==c=ccccc======c==c=c===cc~   
+  -tinyj  ~c==c=cccc==ccc==cc=c=cccc====c==c=c====ccc=cc=cccc=cccc==ccccccc======c==c=c===cc~   
+-1e-292j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c=======cccccccc=ccccc=c=ccccc======c==c=c===cc~   
+-9e-277j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c=========c=ccccc=cccc=c=ccccc======c==c=c===cc~   
+-5e-261j  ~c==c=cccc==ccc==cc=c=cccc====c==c=c=c=======c=ccccccccc==ccccccc======c==c=c===cc~   
+-3e-245j  ~c==c=cccc==ccc==cc=c=cccc====c==c=cc=========ccc=cccccc==c=ccccc======c==c=c===cc~   
+-2e-229j  ~c==c=cccc==ccc==cc=c=cccc====c==c=cccccccccccccccc=cccc==c=ccccc======c==c=c===cc~   
+-1e-213j  ~c==c=cccc==ccc==cc=c=cccc====c==c==============c=cc=cccc=cccccccccc===c==c=c===cc~   
+-8e-198j  ~c==c=cccc==ccc==cc=c=cccc====c==cccccccccccccccccc=ccccc=c=ccccc=c====c==c=c===cc~   
+-5e-182j  ~c==c=cccc==ccc==cc=c=cccc====c===================cc=ccc==ccccccc==c===c==c=c===cc~   
+-3e-166j  ~c==c=cccc==ccc==cc=c=cccc====c====================c=ccc==ccccccc=c====c==c=c===cc~   
+-2e-150j  ~c==c=cccc==ccc==cc=c=cccc====ccccccccccccccccccccccccccc=ccccccccc====c==c=c===cc~   
+-1e-134j  ~c==c=cccc==ccc==cc=c=cccc===========================ccc=cc=ccccc=c=c==cc=c=c===cc~   
+-7e-119j  ~c==c=cccc==ccc==cc=c=cccc============================cccccccccccc=c==cc==c=c===cc~   
+-4e-103j  ~c==c=cccc==ccc==cc=c=cccc=============================cccc=ccccc=c===ccccc=c===cc~   
+ -3e-87j  ~c==c=cccc==ccc==cc=c=ccccc=============================cccccccccc=c==cc==c=c===cc~   
+ -2e-71j  ~c==c=cccc==ccc==cc=c=ccccccccccccccccccccccccccccccccccc=c=ccccc===c=cc==ccc===cc~   
+ -1e-55j  ~c==c=cccc==ccc==cc=c=ccccccccccccccccccccccccccccccccccccc=ccccc==ccc=c==c=c===cc~   
+ -7e-40j  ~c==c=cccc==ccc==cc=c=ccccccccccccccccccccccccccccccccccccccccccccc=c=cc=cccc===cc~   
+ -4e-24j  ~c==c=cccc==ccc==cc=c==cccccccccccccccccccccccccccccccccccccccccccc==c=c=ccccc==cc~   
+  -3e-8j  ~c==c=cccc==ccc==cc=cc=======================================cccc=c==cccc=c=cc=ccc~   
+   -2e8j  ~c==c=cccc==ccc==cc==ccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc=cc=ccc~   
+  -1e24j  ~c==c=cccc==ccc==cc============================================cc===ccccc=c=c=c=cc~   
+  -6e39j  ~c==c=cccc==ccc==cccccccccccccccccccccccccccccccccccccccccccccccc==c=cccc=c=c=cccc~   
+  -4e55j  ~c==c=cccc==ccc===cccccccccccccccccccccccccccccccccccccccccccccccc==c=ccc=c=c=cccc~   
+  -2e71j  ~c==c=cccc==ccc===================================================cc=c=c=cc=c==ccc~   
+  -1e87j  ~c==c=cccc==ccc====================================================ccc=c==ccc==ccc~   
+ -9e102j  ~c==c=cccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==cccc=ccc~   
+ -6e118j  ~c==c=cccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc~   
+ -3e134j  ~c==c=cccc==cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c=c==ccc~   
+ -2e150j  ~c==c=cccc=============================================================c==c=cc==cc~   
+ -1e166j  ~c==c=cccc==============================================================ccc=cc=ccc~   
+ -8e181j  ~c==c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccc===cc~   
+ -5e197j  ~c==c=cc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cccc~   
+ -3e213j  ~c==c=c=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccc~   
+ -2e229j  ~c==c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc~   
+ -1e245j  ~c==cc=======================================================================ccccc~   
+ -8e260j  ~c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc~   
+ -5e276j  ~c==============================================================================cc~   
+ -3e292j  ~c==============================================================================cc~   
+    minj  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~   
+   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+                                                                                                
+  CPU                                                                                           
+  torch.log10 on complex128 plane                                                               
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.log10 on complex128 plane                                                               
+                                                                                                
+Statistics:                                                                                     
+    match rate: 100.0%                                                                          
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    torch 2.1.2                                                                                 
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               

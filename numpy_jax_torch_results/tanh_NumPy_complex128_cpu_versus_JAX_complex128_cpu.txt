@@ -1,0 +1,112 @@
+                                                                                                
+   +infj  =MMMMMMMMMMMMMMMMMM~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MMMMMMMMMMMMMMMMMM=   
+    maxj  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  3e292j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  5e276j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  8e260j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  1e245j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  2e229j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  3e213j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  5e197j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  8e181j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  1e166j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  2e150j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  3e134j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  6e118j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  9e102j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   1e87j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   2e71j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   4e55j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   6e39j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   1e24j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=====================   
+    2e8j  =====================xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=====================   
+   3e-8j  =====================99999999999999999999999999999999999999999=====================   
+  4e-24j  =====================99999999999999999999999999999999999999999=====================   
+  7e-40j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+  1e-55j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+  2e-71j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+  3e-87j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 4e-103j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 7e-119j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 1e-134j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 2e-150j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 3e-166j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 5e-182j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 8e-198j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 1e-213j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 2e-229j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 3e-245j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 5e-261j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 9e-277j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ 1e-292j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+   tinyj  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+      0j  =====================99XXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXX99=====================   
+  -tinyj  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-1e-292j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-9e-277j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-5e-261j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-3e-245j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-2e-229j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-1e-213j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-8e-198j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-5e-182j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-3e-166j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-2e-150j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-1e-134j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-7e-119j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+-4e-103j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ -3e-87j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ -2e-71j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ -1e-55j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ -7e-40j  =====================99XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX99=====================   
+ -4e-24j  =====================99999999999999999999999999999999999999999=====================   
+  -3e-8j  =====================99999999999999999999999999999999999999999=====================   
+   -2e8j  =====================xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=====================   
+  -1e24j  =====================XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=====================   
+  -6e39j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  -4e55j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  -2e71j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+  -1e87j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -9e102j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -6e118j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -3e134j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -2e150j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -1e166j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -8e181j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -5e197j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -3e213j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -2e229j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -1e245j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -8e260j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -5e276j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+ -3e292j  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+    minj  ===================NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN===================   
+   -infj  =MMMMMMMMMMMMMMMMMM~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MMMMMMMMMMMMMMMMMM=   
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+                                                                                                
+  CPU                                                                                           
+  jax.numpy.tanh on complex128 plane                                                            
+  vs                                                                                            
+  CPU                                                                                           
+  numpy.tanh on complex128 plane                                                                
+                                                                                                
+Statistics:                                                                                     
+    match rate: 48.7%                                                                           
+    inaccuracies rate: 4.5%                                                                     
+    mismatch rate: 46.8%                                                                        
+                                                                                                
+Versions:                                                                                       
+    numpy 1.26.3                                                                                
+    jax 0.4.23                                                                                  
+                                                                                                
+Legend:                                                                                         
+        = : values are equal (diff == 0)                                                        
+        c : values are close (diff < eps * norm)                                                
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
+        I : one value is finite but other inf                                                   
+        N : one value is not nan but other is nan                                               
+        M : one value is nan but other is not nan                                               
