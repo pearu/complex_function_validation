@@ -166,7 +166,7 @@ class ReportImage:
         self._ensure_index(row + subimage.shape[0], col + subimage.shape[1])
         self.image[row:row+subimage.shape[0], col:col+subimage.shape[1]] = subimage
 
-    def insert_comparison(self, row, col, reference, values, inputs):
+    def insert_comparison(self, row, col, reference, values, inputs, save=True):
         from collections import defaultdict
         row, col = self._fix_indices(row, col)
         self._ensure_index(row + reference.shape[0], col + reference.shape[1])
@@ -176,9 +176,10 @@ class ReportImage:
                 c = compare(reference[i, j], values[i, j])
                 self.image[row + i, col + j] = c
                 stats[c] += 1
-        self.image_slices.append((slice(row, row + reference.shape[0]), slice(col, col + reference.shape[1])))
-        self.reference_and_values.append((reference, values, inputs))
-        self.stats.append(stats)
+        if save:
+            self.image_slices.append((slice(row, row + reference.shape[0]), slice(col, col + reference.shape[1])))
+            self.reference_and_values.append((reference, values, inputs))
+            self.stats.append(stats)
 
     def insert_imag_axis(self, row, col, samples):
         for i in range(samples.shape[0]):
@@ -291,25 +292,38 @@ class ReportImage:
         stats_list = []
         for index, f in enumerate(functions):
             np_samples = ComplexPlaneSampler(f.numpy_dtype)(size_re, size_im)
+            np_samples_real = np_samples.real[size_im + 1:size_im + 2]
 
             with ref.context:
-                ref_samples = ref.from_numpy(np_samples)
+                ref_samples = ref.from_numpy(np_samples, dtype=ref.dtype)
                 ref_values = ref(ref_samples)
                 np_ref_values = ref.to_numpy(ref_values, dtype=f.numpy_dtype)
+
+                ref_samples_real = ref.from_numpy(np_samples_real, dtype=ref.real_dtype)
+                ref_values_real = ref(ref_samples_real)
+                np_ref_values_real = ref.to_numpy(ref_values_real, dtype=f.numpy_dtype)
 
             with f.context:
                 native_samples = f.from_numpy(np_samples)
                 native_values = f(native_samples)
                 np_values = f.to_numpy(native_values)
 
+                native_samples_real = f.from_numpy(np_samples_real, dtype=f.real_dtype)
+                native_values_real = f(native_samples_real)
+                np_values_real = f.to_numpy(native_values_real, dtype=f.numpy_dtype)
+
             hoffset = index * (imag_axis_width + map_width + 2) 
             self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1], np_values[::-1], np_samples[::-1])
             self.insert_imag_axis(voffset, hoffset + -2 + imag_axis_width, np_samples[::-1])
-            self.insert_real_axis(voffset + map_height, hoffset + imag_axis_width, np_samples[::-1])
 
-            self.insert_text(voffset + map_height + 3, hoffset + imag_axis_width - 8, f'{f.title}\nvs\n{ref.title}')
-            self.insert_text(voffset + map_height + 8, hoffset, '\nStatistics:')
-            self.insert_text(voffset + map_height + 10, hoffset + 4, f'{self.stats_summary(self.stats[-1])}')
+            self.insert_text(voffset + map_height + 1, hoffset + 10, "real line:", align='right')
+            self.insert_comparison(voffset + map_height + 1, hoffset + imag_axis_width, np_ref_values_real, np_values_real, np_samples_real, save=False)
+
+            self.insert_real_axis(voffset + map_height + 2, hoffset + imag_axis_width, np_samples[::-1])
+
+            self.insert_text(voffset + map_height + 3 + 2, hoffset + imag_axis_width - 8, f'{f.title}\nvs\n{ref.title}')
+            self.insert_text(voffset + map_height + 8 + 2, hoffset, '\nStatistics:')
+            self.insert_text(voffset + map_height + 10 + 2, hoffset + 4, f'{self.stats_summary(self.stats[-1])}')
 
     def get_sample_indices(self, code):
 
@@ -436,6 +450,7 @@ class Function:
     def __init__(self, name, dtype, device=''):
         self._name = name
         self._dtype = dtype
+        self._real_dtype = dict(complex64='float32', complex128='float64')[dtype]
         self._device = device or 'cpu'
         self._module = None
 
@@ -472,11 +487,21 @@ class Function:
         return getattr(self.module, self._dtype)
 
     @property
+    def real_dtype(self):
+        return getattr(self.module, self._real_dtype)
+
+    @property
     def numpy_dtype(self):
         return getattr(numpy, self._dtype)
 
-    def from_numpy(self, data):
-        return self.module.array(data, dtype=self.dtype)
+    @property
+    def numpy_real_dtype(self):
+        return getattr(numpy, self._real_dtype)
+
+    def from_numpy(self, data, dtype=None):
+        if dtype is None:
+            dtype = self.dtype
+        return self.module.array(data, dtype=dtype)
 
     def to_numpy(self, data, dtype=None):
         if dtype is None:
@@ -578,8 +603,12 @@ class TorchFunction(Function):
             return torch.cuda.is_available()
         return True
 
-    def from_numpy(self, data):
-        return self.module.tensor(data, dtype=self.dtype, device=self._device)
+    def from_numpy(self, data, dtype=None):
+        if dtype is None:
+            dtype = self.dtype
+        return self.module.tensor(data, dtype=dtype, device=self._device)
 
-    def to_numpy(self, data):
-        return numpy.array(data.cpu(), dtype=self.numpy_dtype)
+    def to_numpy(self, data, dtype=None):
+        if dtype is None:
+            dtype = self.numpy_dtype
+        return numpy.array(data.cpu(), dtype=dtype)

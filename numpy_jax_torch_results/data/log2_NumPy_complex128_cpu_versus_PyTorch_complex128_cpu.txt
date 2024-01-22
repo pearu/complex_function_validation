@@ -82,6 +82,8 @@
  -3e292j  Xc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=~
     minj  X==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~
    -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~========================================~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 

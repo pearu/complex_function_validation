@@ -43,7 +43,6 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
         for f in functions:
             if not f.is_valid:
                 cols.append('N/A')
-                raise
                 continue
 
             image = cfv.ReportImage()
@@ -126,3 +125,4 @@ if __name__ == '__main__':
         main_results(array_libraries[:2], target_dir='numpy_jax_results')
         main_results(array_libraries[::2], target_dir='numpy_torch_results')
         main_results(array_libraries, target_dir='numpy_jax_torch_results')
+
