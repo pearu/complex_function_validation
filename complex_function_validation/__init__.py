@@ -114,7 +114,7 @@ def compare(reference, value):
         else:
             return 'N'
     elif numpy.isinf(reference):
-        if reference == value:
+        if reference == value or str(reference) == str(value):
             return '~'
         elif numpy.isnan(value):
             return 'N'
@@ -136,8 +136,6 @@ def valuetostr(value):
     if value == f.min: return 'min'
     if value == f.tiny: return 'tiny'
     if value == -f.tiny: return '-tiny'
-    #if abs(value) <= 100 and abs(value) >= 1:
-    #    return f'{int(value)}'
     return f'{value:1.0e}'.replace('e-0', 'e-').replace('e+0', 'e').replace('e+', 'e').replace('e0', '')
 
 
@@ -147,6 +145,8 @@ class ReportImage:
     def __init__(self, height=0, width=0):
         self.image = numpy.full((height, width), b' ', dtype='c')
         self.stats = []
+        self.image_slices = []
+        self.reference_and_values = []
 
     def _ensure_index(self, row, col):
         if row >= self.image.shape[0]:
@@ -166,7 +166,7 @@ class ReportImage:
         self._ensure_index(row + subimage.shape[0], col + subimage.shape[1])
         self.image[row:row+subimage.shape[0], col:col+subimage.shape[1]] = subimage
 
-    def insert_comparison(self, row, col, reference, values):
+    def insert_comparison(self, row, col, reference, values, inputs):
         from collections import defaultdict
         row, col = self._fix_indices(row, col)
         self._ensure_index(row + reference.shape[0], col + reference.shape[1])
@@ -176,6 +176,8 @@ class ReportImage:
                 c = compare(reference[i, j], values[i, j])
                 self.image[row + i, col + j] = c
                 stats[c] += 1
+        self.image_slices.append((slice(row, row + reference.shape[0]), slice(col, col + reference.shape[1])))
+        self.reference_and_values.append((reference, values, inputs))
         self.stats.append(stats)
 
     def insert_imag_axis(self, row, col, samples):
@@ -241,7 +243,7 @@ class ReportImage:
     def tostring(self):
         lst = []
         for row in self.image:
-            lst.append((b''.join(row)).decode())
+            lst.append((b''.join(row)).decode().rstrip())
         return '\n'.join(lst)
 
     def __str__(self):
@@ -301,13 +303,127 @@ class ReportImage:
                 np_values = f.to_numpy(native_values)
 
             hoffset = index * (imag_axis_width + map_width + 2) 
-            self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1], np_values[::-1])
+            self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1], np_values[::-1], np_samples[::-1])
             self.insert_imag_axis(voffset, hoffset + -2 + imag_axis_width, np_samples[::-1])
             self.insert_real_axis(voffset + map_height, hoffset + imag_axis_width, np_samples[::-1])
 
             self.insert_text(voffset + map_height + 3, hoffset + imag_axis_width - 8, f'{f.title}\nvs\n{ref.title}')
             self.insert_text(voffset + map_height + 8, hoffset, '\nStatistics:')
             self.insert_text(voffset + map_height + 10, hoffset + 4, f'{self.stats_summary(self.stats[-1])}')
+
+    def get_sample_indices(self, code):
+
+        def show(image):
+            rows = []
+            for row in image[::-1]:
+                rows.append((b''.join(row)).decode())
+            return '\n'.join(rows)
+
+        image = self.image[self.image_slices[-1]]
+        c_re, c_im = image.shape[0] // 2, image.shape[1] // 2
+        samples = []
+        for region_slice in [
+                (slice(c_re + 1, image.shape[0]), slice(c_im + 1, image.shape[1])),
+                (slice(0, c_re), slice(c_im + 1, image.shape[1])),
+                (slice(c_re + 1, image.shape[0]), slice(0, c_im)),
+                (slice(0, c_re), slice(0, c_im)),
+                (slice(c_re, c_re+1), slice(0, image.shape[1])),
+                (slice(0, image.shape[0]), slice(c_im, c_im+1))
+        ]:
+            region = image[region_slice]
+            clusters = Clusters()
+            for point in zip(*numpy.where(region == code.encode())):
+                clusters.add(point)
+
+            for cluster in clusters.clusters:
+                x, y = cluster.center_point()
+                samples.append((region_slice[0].start + x, region_slice[1].start + y))
+
+        return samples
+
+    def get_samples(self, code):
+        reference, values, inputs = self.reference_and_values[-1]
+        samples = []
+        for point in self.get_sample_indices(code):
+            samples.append((reference[point], values[point], inputs[point]))
+        return samples
+
+    def insert_samples(self, row, col, codes):
+        row, col = self._fix_indices(row, col)
+
+        i = 0
+        for code in codes:
+            samples = self.get_samples(code)
+            if samples:
+                self.insert_text(row + i, col, f"Samples with code {code}:")
+                i += 1
+                for ref, value, input in samples:
+                    self.insert_text(row + i, col, f"{input:55} -> {value:55} {ref:55}")
+                    i += 1
+
+        if i > 0:
+            self.insert_text(row + i, col, f"Legend:\n    <input> -> <value> <reference value>")
+
+class Cluster:
+
+    def __init__(self):
+        self.points = set()
+
+    def contains(self, point):
+        for x, y in self.points:
+            for dx in {-1, 0, 1}:
+                for dy in {-1, 0, 1}:
+                    if point == (x + dx, y + dy):
+                        return True
+        return False
+
+    def add(self, point):
+        self.points.add(point)
+
+    def merge_from(self, other):
+        self.points.update(other.points)
+
+    def __repr__(self):
+        return f'{type(self).__name__}({self.points})'
+
+    def center(self):
+        sx, sy = 0, 0
+        for x, y in self.points:
+            sx += x
+            sy += y
+        return (sx / len(self.points), sy / len(self.points))
+
+    def center_point(self):
+        cx, cy = self.center()
+        lst = []
+        for x, y in self.points:
+            lst.append((abs(x - cx) + abs(y - cy), (x, y)))
+        return sorted(lst)[0][1]
+
+class Clusters:
+
+    def __init__(self):
+        self.clusters = []
+
+    def __repr__(self):
+        return f'{type(self).__name__}({self.clusters})'
+
+    def add(self, point):
+        matching_clusters = []
+        for index, cluster in enumerate(self.clusters):
+            if cluster.contains(point):
+                matching_clusters.append(index)
+
+        if len(matching_clusters) == 0:
+            self.clusters.append(Cluster())
+            self.clusters[-1].add(point)
+        elif len(matching_clusters) == 1:
+            self.clusters[matching_clusters[0]].add(point)
+        else:
+            cluster = self.clusters[matching_clusters[0]]
+            for index in reversed(matching_clusters[1:]):
+                cluster.merge_from(self.clusters[index])
+                del self.clusters[index]
 
 
 class Function:

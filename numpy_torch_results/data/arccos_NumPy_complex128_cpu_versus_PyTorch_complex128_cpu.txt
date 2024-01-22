@@ -1,112 +1,203 @@
-                                                                                                
-   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   
-    maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-  2e150j  NIIIIIIIIIIIXIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIXIIIIIIIIIIIIIN   
-  3e134j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIN   
-  6e118j  NIIIIIIIIIIIIIIXIIIIIIIxIxIIIIxIxIIIxIIIIIIIIIxIIIxIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIN   
-  9e102j  NIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIN   
-   1e87j  NIIIIIIIIIIIXIIXIXIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIxIxxIFIIIIIIIIIIIIIIIIIIIIIIIIN   
-   2e71j  NIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN   
-   4e55j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIXIIIIIIXIIIIIIIIIIIN   
-   6e39j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIIIN   
-   1e24j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIXXIIIIIIIIIIIIXIXIIIIIIIIIIXIIIIIIIIIIIIIIIIN   
-    2e8j  NIIIIIIIIIIIXIIIIIIIIxIIIIIIIIIIIIXIXIIIIIIIIIXIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIN   
-   3e-8j  NIIIIIIIIIIIIIIIIxIIxcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
-  4e-24j  NIIIIIIIIIIIIIIIIIIxIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
-  7e-40j  NIIIIIIIIIIIIxIIIIxIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIxIIIIIIIIIIN   
-  1e-55j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
-  2e-71j  NIIIIIIIIIIIIIIIIIxIIcccccccccccccccccccccccccccccccccccccccccXIxIIFIxIIIIIIIIIIIIN   
-  3e-87j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 4e-103j  NIIIIIIIIIIIIIxxIIxIIcccccccccccccccccccccccccccccccccccccccccIIxIIxIIIIIIIIIIIIIIN   
- 7e-119j  NIIIIIIIIIIIIIIIIxIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN   
- 1e-134j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 2e-150j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN   
- 3e-166j  NIIIIIIIIIIIxIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 5e-182j  NIIIIIIIIIIIIxIIIXIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIIIIIIIIIIIIN   
- 8e-198j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 1e-213j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 2e-229j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 3e-245j  NIIIIIIIIIIxIxIIIIIIXcccccccccccccccccccccccccccccccccccccccccXIIIIIIxIIIIIIIIIIIIN   
- 5e-261j  NIIIIIIIIIIIIIIIIIIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
- 9e-277j  NIIIIIIIIIIIIIIIIXIIXcccccccccccccccccccccccccccccccccccccccccIIIXIIIIIIIIIIIIIIIIN   
- 1e-292j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
-   tinyj  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN   
-      0j  NIIIIIIIIIIIIIIIIIIIIcccccccccc=====================ccccccccccIIIIIIIIIIIIIIIIIIIIN   
-  -tinyj  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIX   
--1e-292j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccc========IIIIIIIIIIX   
--9e-277j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccc=======IIIIIIIIIIX   
--5e-261j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccc======IIIIIIIIIIX   
--3e-245j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccc=====IIIIIIIIIIX   
--2e-229j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccc====IIIIIIIIIIX   
--1e-213j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccc===IIIIIIIIIIX   
--8e-198j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccccc==IIIIIIIIIIX   
--5e-182j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccc=IIIIIIIIIIX   
--3e-166j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
--2e-150j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
--1e-134j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
--7e-119j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
--4e-103j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
- -3e-87j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
- -2e-71j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
- -1e-55j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
- -7e-40j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
- -4e-24j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
-  -3e-8j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX   
-   -2e8j  XIIIIIIIIII========c=========================================c=cccccccccIIIIIIIIIIX   
-  -1e24j  XIIIIIIIIII========cccccccccccccccccccccccccccccccccccccccccccc=ccccccccIIIIIIIIIIX   
-  -6e39j  XIIIIIIIIII====================================================cccccccccIIIIIIIIIIX   
-  -4e55j  XIIIIIIIIII=====================================================ccccccccIIIIIIIIIIX   
-  -2e71j  XIIIIIIIIII======================================================cccccccIIIIIIIIIIX   
-  -1e87j  XIIIIIIIIII=======================================================ccccccIIIIIIIIIIX   
- -9e102j  XIIIIIIIIII========================================================cccccIIIIIIIIIIX   
- -6e118j  XIIIIIIIIII=========================================================ccccIIIIIIIIIIX   
- -3e134j  XIIIIIIIIII==========================================================cccIIIIIIIIIIX   
- -2e150j  XIIIIIIIIII===========================================================c=IIIIIIIIIIX   
- -1e166j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -8e181j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -5e197j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -3e213j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -2e229j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -1e245j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -8e260j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -5e276j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
- -3e292j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
-    minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX   
-   -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~   
-          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^   
+
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+    maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+  2e150j  NIIIIIIIIIIIXIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIXIIIIIIIIIIIIIN
+  3e134j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIN
+  6e118j  NIIIIIIIIIIIIIIXIIIIIIIxIxIIIIxIxIIIxIIIIIIIIIxIIIxIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIN
+  9e102j  NIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIN
+   1e87j  NIIIIIIIIIIIXIIXIXIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIxIxxIFIIIIIIIIIIIIIIIIIIIIIIIIN
+   2e71j  NIIIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+   4e55j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXIIIIIIIIIIIIIIIIIIXIIIIIIXIIIIIIIIIIIN
+   6e39j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIxIxIIIIIIIIIIIIIIIIIIIIIIIIN
+   1e24j  NIIIIIIIIIIIIIIIIIIIIIIxIIIIIIIIIIIIIIXXIIIIIIIIIIIIXIXIIIIIIIIIIXIIIIIIIIIIIIIIIIN
+    2e8j  NIIIIIIIIIIIXIIIIIIIIxIIIIIIIIIIIIXIXIIIIIIIIIXIIIIIIIIIIXIIIIIIIIIIIIIIIIIIIIIIIIN
+   3e-8j  NIIIIIIIIIIIIIIIIxIIxcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+  4e-24j  NIIIIIIIIIIIIIIIIIIxIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+  7e-40j  NIIIIIIIIIIIIxIIIIxIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIxIIIIIIIIIIN
+  1e-55j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+  2e-71j  NIIIIIIIIIIIIIIIIIxIIcccccccccccccccccccccccccccccccccccccccccXIxIIFIxIIIIIIIIIIIIN
+  3e-87j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 4e-103j  NIIIIIIIIIIIIIxxIIxIIcccccccccccccccccccccccccccccccccccccccccIIxIIxIIIIIIIIIIIIIIN
+ 7e-119j  NIIIIIIIIIIIIIIIIxIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN
+ 1e-134j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 2e-150j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIXIIIxIIIIIIIIIIIIIIN
+ 3e-166j  NIIIIIIIIIIIxIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 5e-182j  NIIIIIIIIIIIIxIIIXIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIxIIIIIIIIIIIIN
+ 8e-198j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 1e-213j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 2e-229j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 3e-245j  NIIIIIIIIIIxIxIIIIIIXcccccccccccccccccccccccccccccccccccccccccXIIIIIIxIIIIIIIIIIIIN
+ 5e-261j  NIIIIIIIIIIIIIIIIIIXIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+ 9e-277j  NIIIIIIIIIIIIIIIIXIIXcccccccccccccccccccccccccccccccccccccccccIIIXIIIIIIIIIIIIIIIIN
+ 1e-292j  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+   tinyj  NIIIIIIIIIIIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIIIIIIIIIIIN
+      0j  NIIIIIIIIIIIIIIIIIIIIcccccccccc=====================ccccccccccIIIIIIIIIIIIIIIIIIIIN
+  -tinyj  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIX
+-1e-292j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccc========IIIIIIIIIIX
+-9e-277j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccc=======IIIIIIIIIIX
+-5e-261j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccc======IIIIIIIIIIX
+-3e-245j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccc=====IIIIIIIIIIX
+-2e-229j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccc====IIIIIIIIIIX
+-1e-213j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccc===IIIIIIIIIIX
+-8e-198j  XIIIIIIIIII========c=ccccccccccccccccccccccccccccccccccccccccccccccccc==IIIIIIIIIIX
+-5e-182j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccc=IIIIIIIIIIX
+-3e-166j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+-2e-150j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+-1e-134j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+-7e-119j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+-4e-103j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+ -3e-87j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+ -2e-71j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+ -1e-55j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+ -7e-40j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+ -4e-24j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+  -3e-8j  XIIIIIIIIII========c=cccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIX
+   -2e8j  XIIIIIIIIII========c=========================================c=cccccccccIIIIIIIIIIX
+  -1e24j  XIIIIIIIIII========cccccccccccccccccccccccccccccccccccccccccccc=ccccccccIIIIIIIIIIX
+  -6e39j  XIIIIIIIIII====================================================cccccccccIIIIIIIIIIX
+  -4e55j  XIIIIIIIIII=====================================================ccccccccIIIIIIIIIIX
+  -2e71j  XIIIIIIIIII======================================================cccccccIIIIIIIIIIX
+  -1e87j  XIIIIIIIIII=======================================================ccccccIIIIIIIIIIX
+ -9e102j  XIIIIIIIIII========================================================cccccIIIIIIIIIIX
+ -6e118j  XIIIIIIIIII=========================================================ccccIIIIIIIIIIX
+ -3e134j  XIIIIIIIIII==========================================================cccIIIIIIIIIIX
+ -2e150j  XIIIIIIIIII===========================================================c=IIIIIIIIIIX
+ -1e166j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -8e181j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -5e197j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -3e213j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -2e229j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -1e245j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -8e260j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -5e276j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -3e292j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+    minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+   -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
-                                                                                                
-  CPU                                                                                           
-  torch.arccos on complex128 plane                                                              
-  vs                                                                                            
-  CPU                                                                                           
-  numpy.arccos on complex128 plane                                                              
-                                                                                                
-Statistics:                                                                                     
-    match rate: 39.1%                                                                           
-    inaccuracies rate: 0.0%                                                                     
-    mismatch rate: 60.9%                                                                        
-                                                                                                
-Versions:                                                                                       
-    numpy 1.26.3                                                                                
-    torch 2.1.2                                                                                 
-                                                                                                
-Legend:                                                                                         
-        = : values are equal (diff == 0)                                                        
-        c : values are close (diff < eps * norm)                                                
-    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)                      
-        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)         
-        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)   
-        ~ : values are non-finite and of the same kind (-inf, inf, or nan)                      
-        I : one value is finite but other inf                                                   
-        N : one value is not nan but other is nan                                               
-        M : one value is nan but other is not nan                                               
+
+  CPU
+  torch.arccos on complex128 plane
+  vs
+  CPU
+  numpy.arccos on complex128 plane
+
+Statistics:
+    match rate: 39.1%
+    inaccuracies rate: 0.0%
+    mismatch rate: 60.9%
+
+Versions:
+    numpy 1.26.3
+    torch 2.1.2
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code x:
+       (6.603714007640286e-40+2.1367248648906965e+150j) ->                 (3.141592653589793-126.84593404246999j)                 (1.5707963267948966-346.8401853494187j)
+      (3.2910252457723563e-245+5.555910136673051e+118j) ->                  (3.141592653589793-599.5723111843527j)                (1.5707963267948966-274.11305040451373j)
+      (4.8676348998036216e-182+5.555910136673051e+118j) ->                                     -454.0114032667642j                (1.5707963267948966-274.11305040451373j)
+       (1.7170971423413907e-71+5.555910136673051e+118j) ->                                    -199.62638800126425j                (1.5707963267948966-274.11305040451373j)
+        (6.603714007640286e-40+5.555910136673051e+118j) ->                 (3.141592653589793-126.84593404246999j)                (1.5707963267948966-274.11305040451373j)
+      (1.8720238930734287e-150+1.4446472708764676e+87j) ->                  (3.141592653589793-381.2309493079699j)                 (1.5707963267948966-201.3859154596086j)
+       (7.199540492198687e-119+1.4446472708764676e+87j) ->                                    -308.45049534917564j                 (1.5707963267948966-201.3859154596086j)
+        (4.464794497196183e-103+6.057197503361904e+39j) ->                                     -272.4068419600585j                 (1.5707963267948966-92.29521304225108j)
+        (1.7170971423413907e-71+6.057197503361904e+39j) ->                 (3.141592653589793-199.62638800126425j)                 (1.5707963267948966-92.29521304225108j)
+        (5.555910136673051e+118+6.603714007640286e-40j) ->                (1.5707963267948966-126.84593404246999j)            (1.188592659922803e-158-274.11305040451373j)
+       (2.1367248648906965e+150+6.603714007640286e-40j) ->                (1.5707963267948966-126.84593404246999j)             (3.090577601331979e-190-346.8401853494187j)
+        (6.057197503361904e+39+1.7170971423413907e-71j) ->                (1.5707963267948966-199.62638800126425j)             (2.834804612840107e-111-92.29521304225108j)
+       (5.555910136673051e+118+1.7170971423413907e-71j) ->               (-1.5707963267948966-199.62638800126425j)           (3.0905776013317776e-190-274.11305040451373j)
+        (6.057197503361904e+39+4.464794497196183e-103j) ->                (-1.5707963267948966-272.4068419600585j)             (7.371056490593388e-143-92.29521304225108j)
+       (1.4446472708764676e+87+4.464794497196183e-103j) ->                 (1.5707963267948966-272.4068419600585j)             (3.090577601331979e-190-201.3859154596086j)
+      (1.4446472708764676e+87+1.8720238930734287e-150j) ->                 (1.5707963267948966-381.2309493079699j)            (1.2958345824705512e-237-201.3859154596086j)
+      (5.555910136673051e+118+4.8676348998036216e-182j) ->                (-1.5707963267948966-454.0114032667642j)            (8.761183640595062e-301-274.11305040451373j)
+      (5.555910136673051e+118+3.2910252457723563e-245j) ->                 (1.5707963267948966-599.5723111843527j)                                    -274.11305040451373j
+       (-6.60371400764115e-40+2.1367248648906965e+150j) ->                 (3.141592653589793-126.84593404246999j)                 (1.5707963267948966-346.8401853494187j)
+        (-6.60371400764115e-40+5.555910136673051e+118j) ->                 (3.141592653589793-126.84593404246999j)                (1.5707963267948966-274.11305040451373j)
+      (-1.7170971423417277e-71+5.555910136673051e+118j) ->                 (3.141592653589793-199.62638800126425j)                (1.5707963267948966-274.11305040451373j)
+     (-1.8720238930736737e-150+5.555910136673051e+118j) ->                  (3.141592653589793-381.2309493079699j)                (1.5707963267948966-274.11305040451373j)
+      (-4.867634899804577e-182+5.555910136673051e+118j) ->                                     -454.0114032667642j                (1.5707963267948966-274.11305040451373j)
+     (-3.2910252457723563e-245+5.555910136673051e+118j) ->                                     -599.5723111843527j                (1.5707963267948966-274.11305040451373j)
+       (-2.768841973150443e-87+1.4446472708764676e+87j) ->                  (3.141592653589793-235.6700413903814j)                 (1.5707963267948966-201.3859154596086j)
+         (-6.60371400764115e-40+6.057197503361904e+39j) ->                 (3.141592653589793-126.84593404246999j)                 (1.5707963267948966-92.29521304225108j)
+           (-157499196.83966908+2.539695490683624e-08j) ->                 (1.5707963267948966-54.06548008367574j)                 (3.141592653589793-19.568078097346234j)
+       (-3.7563705781985466e+55+2.539695490683624e-08j) ->                (-1.5707963267948966-54.06548008367574j)                 (3.141592653589793-128.65878051470375j)
+       (-5.555910136673779e+118+6.603714007640286e-40j) ->               (-1.5707963267948966-126.84593404246999j)                 (3.141592653589793-274.11305040451384j)
+       (-6.057197503362697e+39+1.7170971423413907e-71j) ->                (1.5707963267948966-199.62638800126425j)                   (3.141592653589793-92.2952130422512j)
+      (-8.958978968711629e+102+4.464794497196183e-103j) ->                (-1.5707963267948966-272.4068419600585j)                 (3.141592653589793-237.74948293206128j)
+       (-6.057197503362697e+39+4.464794497196183e-103j) ->                (-1.5707963267948966-272.4068419600585j)                   (3.141592653589793-92.2952130422512j)
+      (-3.445497255278356e+134+3.018663418665597e-166j) ->               (-1.5707963267948966-417.27460269708706j)                  (3.141592653589793-310.4766178769663j)
+     (-2.136724864890976e+150+3.2910252457723563e-245j) ->                (-1.5707963267948966-599.5723111843527j)                  (3.141592653589793-346.8401853494188j)
+     (-5.555910136673779e+118+3.2910252457723563e-245j) ->                (-1.5707963267948966-599.5723111843527j)                 (3.141592653589793-274.11305040451384j)
+Samples with code X:
+                         (inf-1.3250897649822135e+166j) ->                               (0.7853981633974483+infj)                                                    infj
+      (8.958978968710456e+102+2.1367248648906965e+150j) ->                  (3.141592653589793+200.3195351818242j)                 (1.5707963267948966-346.8401853494187j)
+       (3.756370578198055e+55+3.4454972552776795e+134j) ->                                      91.49542783391279j                (1.5707963267948966-310.47661787696615j)
+      (2.1367248648906965e+150+8.958978968710456e+102j) ->                 (1.5707963267948966+200.3195351818242j)             (4.1928556717426273e-48-346.8401853494187j)
+        (8.557320983844361e-277+3.756370578198055e+55j) ->                                     -672.3527651431469j                (1.5707963267948966-128.65878051470364j)
+         (9.767311512788454e+23+3.756370578198055e+55j) ->                                     18.714973875118524j                (1.5707963267948966-128.65878051470364j)
+       (3.4454972552776795e+134+3.756370578198055e+55j) ->                (-1.5707963267948966+91.49542783391279j)            (1.0902259673677556e-79-310.47661787696615j)
+       (1.8720238930734287e-150+9.767311512788454e+23j) ->                                     -381.2309493079699j                (1.5707963267948966-55.931645569798526j)
+        (7.199540492198687e-119+9.767311512788454e+23j) ->                                    -308.45049534917564j                (1.5707963267948966-55.931645569798526j)
+         (3.756370578198055e+55+9.767311512788454e+23j) ->               (-1.5707963267948966+18.714973875118524j)            (2.6001991309052023e-32-128.65878051470364j)
+          (3.2910252457723563e-245+157499196.83964846j) ->                                     -599.5723111843527j                (1.5707963267948966-19.568078097346103j)
+           (1.7170971423413907e-71+157499196.83964846j) ->                 (3.141592653589793-199.62638800126425j)                (1.5707963267948966-19.568078097346103j)
+           (157499196.83964846+1.7170971423413907e-71j) ->                (1.5707963267948966-199.62638800126425j)            (1.0902259673676845e-79-19.568078097346103j)
+        (9.767311512788454e+23+7.199540492198687e-119j) ->               (-1.5707963267948966-308.45049534917564j)            (7.371056490593389e-143-55.931645569798526j)
+       (9.767311512788454e+23+1.8720238930734287e-150j) ->                (-1.5707963267948966-381.2309493079699j)           (1.9166214680696588e-174-55.931645569798526j)
+          (157499196.83964846+3.2910252457723563e-245j) ->                (-1.5707963267948966-599.5723111843527j)           (2.0895504941037778e-253-19.568078097346103j)
+        (3.756370578198055e+55+8.557320983844361e-277j) ->                (-1.5707963267948966-672.3527651431469j)                                    -128.65878051470364j
+                        (-inf-1.3250897649822135e+166j) ->                                (2.356194490192345+infj)                                (3.141592653589793+infj)
+     (-3.445497255278356e+134+2.1367248648906965e+150j) ->                 (3.141592653589793+273.09998914061845j)                 (1.5707963267948968-346.8401853494187j)
+      (-1.4446472708767512e+87+5.555910136673051e+118j) ->                                     164.27588179270703j                (1.5707963267948966-274.11305040451373j)
+      (-2.136724864890976e+150+8.958978968710456e+102j) ->                 (1.5707963267948966+200.3195351818242j)                  (3.141592653589793-346.8401853494188j)
+      (-1.4446472708767512e+87+1.4446472708764676e+87j) ->                   (2.356194490192345+164.622455382987j)                 (2.356194490192443-201.73248904988867j)
+      (-3.7563705781985466e+55+1.4446472708764676e+87j) ->                                      91.49542783391279j                 (1.5707963267948966-201.3859154596086j)
+     (-1.3798793867586605e-292+1.4446472708764676e+87j) ->                                     -708.3964185322641j                 (1.5707963267948966-201.3859154596086j)
+       (-8.557320983846601e-277+9.767311512788454e+23j) ->                                     -672.3527651431469j                (1.5707963267948966-55.931645569798526j)
+          (-3.445497255278356e+134+157499196.83964846j) ->                (1.5707963267948966-17.328679513998633j)                  (3.141592653589793-310.4766178769663j)
+         (-1.2656820036035694e-213+157499196.83964846j) ->                                     -526.7918572255585j                (1.5707963267948966-19.568078097346103j)
+         (-3.2910252457723563e-245+157499196.83964846j) ->                  (3.141592653589793-599.5723111843527j)                (1.5707963267948966-19.568078097346103j)
+     (-3.7563705781985466e+55+4.8676348998036216e-182j) ->                (-1.5707963267948966-454.0114032667642j)                 (3.141592653589793-128.65878051470375j)
+      (-9.767311512791011e+23+4.8676348998036216e-182j) ->                (-1.5707963267948966-454.0114032667642j)                  (3.141592653589793-55.93164556979879j)
+       (-9.767311512791011e+23+5.306821967431104e-261j) ->                (-1.5707963267948966-635.6159645734698j)                  (3.141592653589793-55.93164556979879j)
+      (-3.7563705781985466e+55+8.557320983844361e-277j) ->                 (1.5707963267948966-672.3527651431469j)                 (3.141592653589793-128.65878051470375j)
+Samples with code I:
+      (1.3250897649820401e+166-8.958978968711629e+102j) ->                                                    infj             (6.761035520361941e-64+383.20375282187126j)
+         (3.756370578198055e+55+3.756370578198055e+55j) ->                               (1.5707963267948966-infj)                 (0.7853981633974483-129.0053541049836j)
+     (-1.3250897649822135e+166-8.958978968711629e+102j) ->                                (3.141592653589793+infj)                  (3.141592653589793+383.2037528218714j)
+       (-3.7563705781985466e+55+3.756370578198055e+55j) ->                               (1.5707963267948966-infj)                (2.3561944901924106-129.00535410498367j)
+                          (-1.3250897649822135e+166+0j) ->                                                    infj                  (3.141592653589793-383.2037528218714j)
+                           (2.1367248648906965e+150+0j) ->                               (1.5707963267948966-infj)                                     -346.8401853494187j
+                               1.3250897649820401e+166j ->                               (1.5707963267948966+infj)                (1.5707963267948966-383.20375282187126j)
+                               -1.959891736985526e+229j ->                               (1.5707963267948966+infj)                 (1.5707963267948966+528.6580227116814j)
+Samples with code N:
+                         (1.3250897649820401e+166+infj) ->                                              (nan+infj)                               (1.5707963267948966-infj)
+                        (-1.3250897649822135e+166+infj) ->                                              (nan+infj)                               (1.5707963267948966-infj)
+                                              (-inf+0j) ->                                              (nan+infj)                                (3.141592653589793-infj)
+                                               (inf+0j) ->                                              (nan+nanj)                                                   -infj
+                                                   infj ->                                              (nan+nanj)                               (1.5707963267948966-infj)
+                                                  -infj ->                                              (nan+infj)                               (1.5707963267948966+infj)
+Samples with code F:
+       (1.7170971423413907e-71+1.4446472708764676e+87j) ->                 (3.141592653589793-199.62638800126425j)                 (1.5707963267948966-201.3859154596086j)
+       (1.4446472708764676e+87+1.7170971423413907e-71j) ->                (1.5707963267948966-199.62638800126425j)            (1.1885926599228805e-158-201.3859154596086j)
+Legend:
+    <input> -> <value> <reference value>
