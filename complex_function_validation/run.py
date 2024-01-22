@@ -23,10 +23,10 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
     size_re2 = size_im2 = 200
     
     column_labels = ['Function', 'NumPy: complex64']
-    for lname in [item[0] for item in array_libraries[1:] if item[-1] is not None]:
+    for lname, cls in [item[:2] for item in array_libraries[1:] if item[-1] is not None]:
         for dtype in dtype_list:
             for device in device_list:
-                column_labels.append(f'{lname} {device}: {dtype}')
+                column_labels.append(f'{lname} {device}: {dtype}' + (' FTZ' if cls.apply_ftz else ''))
 
     rows = [' | '.join([''] + column_labels + [''])]
     rows += [' | '.join(['', ':----'] + [':----:'] * (len(column_labels)-1) + [''])]

@@ -30,16 +30,16 @@
  7e-119j  NIIIIIIIIIIxIIxXxIIIIccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
  1e-134j  NIIIIIIIIIIIXIXIxIXIIccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
  2e-150j  NIIIIIIIIIIIIxIXxIIIXccccccccccccccccccccccccccccccccccccccccccc=c===cccIIIIIIIIIIN
- 3e-166j  NIIIIIIIIIIXXIXIxIIIIccccccccccccccccccccccccccccccccccccccccc====ccc==cIIIIIIIIIIN
- 5e-182j  NIIIIIIIIIIXXIXXIIIIXcccccccccccccccccccccccccccccccccccccccccc=======c=IIIIIIIIIIN
- 8e-198j  NIIIIIIIIIIXXXIXIIIIXccccccccccccccccccccccccccccccccccccccccc===c===c==IIIIIIIIIIN
- 1e-213j  NIIIIIIIIIIXXXXXxXIIXcccccccccccccccccccccccccccccccccccccccccc=====c===IIIIIIIIIIN
- 2e-229j  NIIIIIIIIIIXXXXXIIIIIccccccccccccccccccccccccccccccccccccccccc=====c====IIIIIIIIIIN
- 3e-245j  NIIIIIIIIIIXXXXXXIXIIccccccccccccccccccccccccccccccccccccccccccc=cc=====IIIIIIIIIIN
- 5e-261j  NIIIIIIIIIIXXXXXXXIXXccccccccccccccccccccccccccccccccccccccccc===c======IIIIIIIIIIN
- 9e-277j  NIIIIIIIIIIXXXXXXXXIIccccccccccccccccccccccccccccccccccccccccc==c=======IIIIIIIIIIN
- 1e-292j  NIIIIIIIIIIXXXXXXXXXXccccccccccccccccccccccccccccccccccccccccc=c========IIIIIIIIIIN
-   tinyj  NIIIIIIIIIIXXXXXXXXXXcccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIN
+ 3e-166j  NIIIIIIIIIIXXIXIxIIIIccccccccccccccccccccccccccccccccccccccccc====ccc===IIIIIIIIIIN
+ 5e-182j  NIIIIIIIIIIXXIXXIIIIXcccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIN
+ 8e-198j  NIIIIIIIIIIXXXIXIIIIXccccccccccccccccccccccccccccccccccccccccc===c======IIIIIIIIIIN
+ 1e-213j  NIIIIIIIIIIXXXXXxXIIXcccccccccccccccccccccccccccccccccccccccccc=========IIIIIIIIIIN
+ 2e-229j  NIIIIIIIIIIXXXXXIIIIIccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
+ 3e-245j  NIIIIIIIIIIXXXXXXIXIIccccccccccccccccccccccccccccccccccccccccccc=c======IIIIIIIIIIN
+ 5e-261j  NIIIIIIIIIIXXXXXXXIXXccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
+ 9e-277j  NIIIIIIIIIIXXXXXXXXIIccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
+ 1e-292j  NIIIIIIIIIIXXXXXXXXXXccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
+   tinyj  NIIIIIIIIIIXXXXXXXXXXccccccccccccccccccccccccccccccccccccccccc==========IIIIIIIIIIN
       0j  NIIIIIIIIIIIIIIIIIIIIc=======================================c==========IIIIIIIIIIN
   -tinyj  NIIIIIIIIIIXXXXXXXXXXcccccccccccccccccccccccccccccccccccccccccXXXXXXXXXXIIIIIIIIIIN
 -1e-292j  NIIIIIIIIIIXXXXXXXXXXccccccccccccccccccccccccccccccccccccccccc=XXXXXXXXXIIIIIIIIIIN

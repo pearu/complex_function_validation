@@ -21,45 +21,45 @@
     2e3j  Nc=cccc=cc=cc1=cc1=c=cccccccccccccccccccc====================ccc=1cc=1cccccccccc=cN
     2e1j  Nc=cccc=cc=cc1=cc1c=ccccccccccccccccccccc===================ccccc1ccc1ccccc=cccc=cN
    2e-1j  Nc=cccc=cc=cc1=cc1ccccccc1ccccccccccccccccccccccccccccccccccc=ccc1ccc1ccccccccccccN
-   2e-3j  Nc=cccc=cc=cc1=cc1ccccc=ccccccccccccccccc=================cccc==c1ccc1cc=cccccccccN
-   3e-5j  Nc=cccc=cc=cc1=cc1c=cc=c=ccccccccccccccccccccccccccccccccccc=c==c1ccc1cc=cc=ccccccN
-   3e-7j  Nc=cccc=cc=cc1=cc1c==cc=cccccccccccccccccccccccccccccccccccccc=cc1cc=1cc=cc=ccccccN
+   2e-3j  Nc=cccc=cc=cc1=cc1ccccc=ccccccccccccccccc=================cccc==c1ccc1cc=ccccccc=cN
+   3e-5j  Nc=cccc=cc=cc1=cc1c=cc=c=ccccccccccccccccccccccccccccccccccc=c==c1ccc1cc=cc=cccc=cN
+   3e-7j  Nc=cccc=cc=cc1=cc1c==cc=cccccccccccccccccccccccccccccccccccccc=cc1cc=1cc=cc=cccc=cN
    3e-9j  Nc=cccc=cc=cc1=cc1c==ccccc=ccccccccccccccccccccccccccccccccc=cc=c1cc=1ccccc=cccc=cN
   3e-11j  Nc=cccc=cc=cc1=cc1c==c=cc=ccccccccccccccc=============ccc=ccccc=c1cc=1cc=ccccccc=cN
-  4e-13j  Nc=cccc=cc=cc1=cc1c==c=ccccc=cccccccccccc============cc=cccccc==c1ccc1cc=ccccccc=cN
-  4e-15j  Nc=cccc=cc=cc1=cc1c==c=cccc=c=ccccccccccc===========ccc=cccc=cc=c1cc=1cc=ccccccc=cN
-  4e-17j  Nc=cccc=cc=cc1=cc1c==c=ccccc=c=cccccccccc==========ccccc=ccc=c==c1ccc1cc=ccccccc=cN
-  5e-19j  Nc=cccc=cc=cc1=cc1c==c=ccc=cc=ccccccccccc=========cccc===ccccc=cc1cc=1ccccc=cccc=cN
-  5e-21j  Nc=cccc=cc=cc1=cc1c==c=ccc==ccccccccccccc========cc=c=c==ccc=cc=c1cc=1ccccc=cccc=cN
-  6e-23j  Nc=cccc=cc=cc1=cc1c==c=ccc===ccccccccccccccccccccc=c====cccccc=cc1ccc1ccccc=cccc=cN
+  4e-13j  Nc=cccc=cc=cc1=cc1c==c=ccccc=cccccccccccc============cc=cccccc==c1ccc1cc=cc=cccc=cN
+  4e-15j  Nc=cccc=cc=cc1=cc1c==c=cccc=c=ccccccccccc===========ccc=cccc=cc=c1cc=1cc=cc=cccc=cN
+  4e-17j  Nc=cccc=cc=cc1=cc1c==c=ccccc=c=cccccccccc==========ccccc=ccc=c==c1ccc1cc=cc=cccc=cN
+  5e-19j  Nc=cccc=cc=cc1=cc1c==c=ccc=cc=ccccccccccc=========cccc===ccccc=cc1cc=1cc=cc=cccc=cN
+  5e-21j  Nc=cccc=cc=cc1=cc1c==c=ccc==ccccccccccccc========cc=c=c==ccc=cc=c1cc=1cc=cc=cccc=cN
+  6e-23j  Nc=cccc=cc=cc1=cc1c==c=ccc===ccccccccccccccccccccc=c====cccccc=cc1ccc1cc=cc=cccc=cN
   6e-25j  Nc=cccc=cc=cc1=cc1c==c=ccc====cccccccccccccccccccccc=c==ccccccc=c1ccc1cc=cc=cccc=cN
-  7e-27j  Nc=cccc=cc=cc1=cc1c==c=ccc=====cccccccccccccccccccc=c=cccccccc=cc1ccc1cc=cc=cccc=cN
-  7e-29j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=ccccccccccccccc=c=cccccccc=c1ccc1cc=cc=cccc=cN
-  8e-31j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccc=c=ccc===ccc=cccc=cc=cccc=cc=c1ccc1cc=cc=cccc=cN
+  7e-27j  Nc=cccc=cc=cc1=cc1c==c=ccc=====cccccccccccccccccccc=c=cccccccc=cc1cc=1cc=cc=cccc=cN
+  7e-29j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=ccccccccccccccc=c=cccccccc=c1cc=1cc=cc=cccc=cN
+  8e-31j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccc=c=ccc===ccc=cccc=cc=cccc=cc=c1cc=1cc=cc=cccc=cN
   9e-33j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=c=cc==ccc=ccccc==c=cccccc==c1cc=1cc=cc=cccc=cN
   1e-34j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccccc=c=c=ccccccccc===cccccccc=cc1cc=1cc=cc=cccc=cN
-  1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cccc1cc=1cc=cc=cccc=cN
-   tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=cccccccccccc1cc=1cc=cc=cccc=cN
+  1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cc=c1cc=1cc=cc=cccc=cN
+   tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=ccccccccc==c1cc=1cc=cc=cccc=cN
       0j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=====N=====cccc======ccc=c==c1cc=1cc=cc=cccc=cN
-  -tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=cccccccccccc1cc=1cc=cc=cccc=cN
- -1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cccc1cc=1cc=cc=cccc=cN
+  -tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=ccccccccc==c1cc=1cc=cc=cccc=cN
+ -1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cc=c1cc=1cc=cc=cccc=cN
  -1e-34j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccccc=c=c=ccccccccc===cccccccc=cc1cc=1cc=cc=cccc=cN
  -9e-33j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=c=cc==ccc=ccccc==c=cccccc==c1cc=1cc=cc=cccc=cN
- -8e-31j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccc=c=ccc===ccc=cccc=cc=cccc=cc=c1ccc1cc=cc=cccc=cN
- -7e-29j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=ccccccccccccccc=c=cccccccc=c1ccc1cc=cc=cccc=cN
- -7e-27j  Nc=cccc=cc=cc1=cc1c==c=ccc=====cccccccccccccccccccc=c=cccccccc=cc1ccc1cc=cc=cccc=cN
+ -8e-31j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccc=c=ccc===ccc=cccc=cc=cccc=cc=c1cc=1cc=cc=cccc=cN
+ -7e-29j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=ccccccccccccccc=c=cccccccc=c1cc=1cc=cc=cccc=cN
+ -7e-27j  Nc=cccc=cc=cc1=cc1c==c=ccc=====cccccccccccccccccccc=c=cccccccc=cc1cc=1cc=cc=cccc=cN
  -6e-25j  Nc=cccc=cc=cc1=cc1c==c=ccc====cccccccccccccccccccccc=c==ccccccc=c1ccc1cc=cc=cccc=cN
- -6e-23j  Nc=cccc=cc=cc1=cc1c==c=ccc===ccccccccccccccccccccc=c====cccccc=cc1ccc1ccccc=cccc=cN
- -5e-21j  Nc=cccc=cc=cc1=cc1c==c=ccc==ccccccccccccc========cc=c=c==ccc=cc=c1cc=1ccccc=cccc=cN
- -5e-19j  Nc=cccc=cc=cc1=cc1c==c=ccc=cc=ccccccccccc=========cccc===ccccc=cc1cc=1ccccc=cccc=cN
- -4e-17j  Nc=cccc=cc=cc1=cc1c==c=ccccc=c=cccccccccc==========ccccc=ccc=c==c1ccc1cc=ccccccc=cN
- -4e-15j  Nc=cccc=cc=cc1=cc1c==c=cccc=c=ccccccccccc===========ccc=cccc=cc=c1cc=1cc=ccccccc=cN
- -4e-13j  Nc=cccc=cc=cc1=cc1c==c=ccccc=cccccccccccc============cc=cccccc==c1ccc1cc=ccccccc=cN
+ -6e-23j  Nc=cccc=cc=cc1=cc1c==c=ccc===ccccccccccccccccccccc=c====cccccc=cc1ccc1cc=cc=cccc=cN
+ -5e-21j  Nc=cccc=cc=cc1=cc1c==c=ccc==ccccccccccccc========cc=c=c==ccc=cc=c1cc=1cc=cc=cccc=cN
+ -5e-19j  Nc=cccc=cc=cc1=cc1c==c=ccc=cc=ccccccccccc=========cccc===ccccc=cc1cc=1cc=cc=cccc=cN
+ -4e-17j  Nc=cccc=cc=cc1=cc1c==c=ccccc=c=cccccccccc==========ccccc=ccc=c==c1ccc1cc=cc=cccc=cN
+ -4e-15j  Nc=cccc=cc=cc1=cc1c==c=cccc=c=ccccccccccc===========ccc=cccc=cc=c1cc=1cc=cc=cccc=cN
+ -4e-13j  Nc=cccc=cc=cc1=cc1c==c=ccccc=cccccccccccc============cc=cccccc==c1ccc1cc=cc=cccc=cN
  -3e-11j  Nc=cccc=cc=cc1=cc1c==c=cc=ccccccccccccccc=============ccc=ccccc=c1cc=1cc=ccccccc=cN
   -3e-9j  Nc=cccc=cc=cc1=cc1c==ccccc=ccccccccccccccccccccccccccccccccc=cc=c1cc=1ccccc=cccc=cN
-  -3e-7j  Nc=cccc=cc=cc1=cc1c==cc=cccccccccccccccccccccccccccccccccccccc=cc1cc=1cc=cc=ccccccN
-  -3e-5j  Nc=cccc=cc=cc1=cc1c=cc=c=ccccccccccccccccccccccccccccccccccc=c==c1ccc1cc=cc=ccccccN
-  -2e-3j  Nc=cccc=cc=cc1=cc1ccccc=ccccccccccccccccc=================cccc==c1ccc1cc=cccccccccN
+  -3e-7j  Nc=cccc=cc=cc1=cc1c==cc=cccccccccccccccccccccccccccccccccccccc=cc1cc=1cc=cc=cccc=cN
+  -3e-5j  Nc=cccc=cc=cc1=cc1c=cc=c=ccccccccccccccccccccccccccccccccccc=c==c1ccc1cc=cc=cccc=cN
+  -2e-3j  Nc=cccc=cc=cc1=cc1ccccc=ccccccccccccccccc=================cccc==c1ccc1cc=ccccccc=cN
   -2e-1j  Nc=cccc=cc=cc1=cc1ccccccc1ccccccccccccccccccccccccccccccccccc=ccc1ccc1ccccccccccccN
    -2e1j  Nc=cccc=cc=cc1=cc1c=ccccccccccccccccccccc===================ccccc1ccc1ccccc=cccc=cN
    -2e3j  Nc=cccc=cc=cc1=cc1=c=cccccccccccccccccccc====================ccc=1cc=1cccccccccc=cN

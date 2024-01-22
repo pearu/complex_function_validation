@@ -86,6 +86,21 @@ def compare_legend():
     }
 
 
+def ftz(value):
+    """Flush subnormals to zero.
+    """
+    tiny = numpy.finfo(value.dtype).tiny
+    float_dtype = {8: numpy.float32, 16: numpy.float64}[value.dtype.itemsize]
+    view = value.reshape((1,)).view(float_dtype)
+    re = view[0]
+    im = view[1]
+    if numpy.isfinite(re) and re != 0 and abs(re) < tiny:
+        view[0] *= 0
+    if numpy.isfinite(im) and im != 0 and abs(im) < tiny:
+        view[1] *= 0
+    return view.view(value.dtype)[0]
+
+
 def compare(reference, value):
     """Return a string code that describes how value compares to
     reference value. See `compare_legend()` for descriptions.
@@ -166,13 +181,15 @@ class ReportImage:
         self._ensure_index(row + subimage.shape[0], col + subimage.shape[1])
         self.image[row:row+subimage.shape[0], col:col+subimage.shape[1]] = subimage
 
-    def insert_comparison(self, row, col, reference, values, inputs, save=True):
+    def insert_comparison(self, row, col, reference, values, inputs, save=True, apply_ftz=False):
         from collections import defaultdict
         row, col = self._fix_indices(row, col)
         self._ensure_index(row + reference.shape[0], col + reference.shape[1])
         stats = defaultdict(int)
         for i in range(reference.shape[0]):
             for j in range(reference.shape[1]):
+                if apply_ftz:
+                    reference[i, j] = ftz(reference[i, j])
                 c = compare(reference[i, j], values[i, j])
                 self.image[row + i, col + j] = c
                 stats[c] += 1
@@ -291,6 +308,7 @@ class ReportImage:
         voffset = 1
         stats_list = []
         for index, f in enumerate(functions):
+            apply_ftz = f.apply_ftz
             np_samples = ComplexPlaneSampler(f.numpy_dtype)(size_re, size_im)
             np_samples_real = np_samples.real[size_im + 1:size_im + 2]
 
@@ -312,12 +330,12 @@ class ReportImage:
                 native_values_real = f(native_samples_real)
                 np_values_real = f.to_numpy(native_values_real, dtype=f.numpy_dtype)
 
-            hoffset = index * (imag_axis_width + map_width + 2) 
-            self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1], np_values[::-1], np_samples[::-1])
+            hoffset = index * (imag_axis_width + map_width + 2)
+            self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1].copy(), np_values[::-1], np_samples[::-1], apply_ftz=apply_ftz)
             self.insert_imag_axis(voffset, hoffset + -2 + imag_axis_width, np_samples[::-1])
 
             self.insert_text(voffset + map_height + 1, hoffset + 10, "real line:", align='right')
-            self.insert_comparison(voffset + map_height + 1, hoffset + imag_axis_width, np_ref_values_real, np_values_real, np_samples_real, save=False)
+            self.insert_comparison(voffset + map_height + 1, hoffset + imag_axis_width, np_ref_values_real.copy(), np_values_real, np_samples_real, save=False, apply_ftz=apply_ftz)
 
             self.insert_real_axis(voffset + map_height + 2, hoffset + imag_axis_width, np_samples[::-1])
 
@@ -444,6 +462,7 @@ class Function:
     """Base class to provider functions.
     """
 
+    apply_ftz = NotImplemented
     library_name = NotImplemented
     namsespace = NotImplemented
 
@@ -528,6 +547,7 @@ class Function:
 
 class NumpyFunction(Function):
 
+    apply_ftz = False
     library_name = 'NumPy'
     namespace = 'numpy'
 
@@ -590,9 +610,14 @@ class JaxNumpyFunction(Function):
                 return False
         return True
 
+    @property
+    def apply_ftz(self):
+        return self._device in {'cpu', ''}
+
 
 class TorchFunction(Function):
 
+    apply_ftz = False
     library_name = 'PyTorch'
     namespace = 'torch'
 

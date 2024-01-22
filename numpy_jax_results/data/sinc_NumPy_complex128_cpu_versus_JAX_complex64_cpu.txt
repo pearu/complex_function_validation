@@ -60,7 +60,7 @@
   -3e-7j  ~NXxX6XXXXXXXXXXXX542c346666666666666666666666666666666666643c245XXXXXXXXXXXX6XxXN~
   -3e-5j  ~NXxX6XXXXXXXXXXXX542c345555555555555555555555555555555555543c245XXXXXXXXXXXX6XxXN~
   -2e-3j  ~NXxX6XXXXXXXXXXXX542c222222222222222222222222222222222222222c245XXXXXXXXXXXX6XxXN~
-  -2e-1j  ~NXXXxXXXXXXXXXXX6542cccccccccccccccccccc=cccccccccccccccccccc2456XXXXXXXXXXXxXXXN~
+  -2e-1j  ~NXXXxXXXXXXXXXXX6542ccccccccccccccccccc===ccccccccccccccccccc2456XXXXXXXXXXXxXXXN~
    -2e1j  ~NXXxxXXXXXXXXXXX6542222222222222222222222222222222222222222222456XXXXXXXXXXXxxXXN~
    -2e3j  ~NNN~~NNNN~~NN~NNN~~~~~~~~~~~~~~~~~~~~~XX~XX~~~~~~~~~~~~~~~~~~~~~NNN~NN~~NNNN~~NNN~
    -2e5j  ~NNN~~NNNN~~NN~NNN~~~~~~~~~~~~~~~~~~~~XXX~XXX~~~~~~~~~~~~~~~~~~~~NNN~NN~~NNNN~~NNN~
@@ -154,8 +154,8 @@ Samples with code N:
          (7.037291901451857e+22+8.439109634215641e+18j) ->                                             (-inf+nanj)                                              (nan+infj)
         (-7.037291901451857e+22-8.439109634215641e+18j) ->                                             (-inf+nanj)                                              (nan+infj)
         (-7.037291901451857e+22+8.439109634215641e+18j) ->                                             (-inf+nanj)                                              (nan-infj)
-                           (-3.4028234663852886e+38+0j) ->                                              (nan+nanj)                             (-7.655391601498978e-40-0j)
-                            (3.4028234663852886e+38+0j) ->                                              (nan+nanj)                             (-7.655391601498978e-40+0j)
+                           (-3.4028234663852886e+38+0j) ->                                              (nan+nanj)                                                 (-0-0j)
+                            (3.4028234663852886e+38+0j) ->                                              (nan+nanj)                                                 (-0+0j)
                                 3.4028234663852886e+38j ->                                              (nan+nanj)                                              (inf+nanj)
                                -3.4028234663852886e+38j ->                                              (nan+nanj)                                              (inf+nanj)
 Samples with code 2:

@@ -10,18 +10,18 @@
    6e24j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    7e22j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    8e20j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-   8e18j  NNNNNNNNNNNcccccccccccccc=================================ccccccccccccccNNNNNNNNNNN
-   9e16j  NNNNNNNNNNNcccccccccccccccc=============================ccccccccccccccccNNNNNNNNNNN
-   1e15j  NNNNNNNNNNNcccccccccccccccccc=========================ccccccccccccccccccNNNNNNNNNNN
-   1e13j  NNNNNNNNNNNcccccccccccccccccccc=====================ccccccccccccccccccccNNNNNNNNNNN
-   1e11j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
-    1e9j  NNNNNNNNNNNcccccccccccccccccccccccc=============ccccccccccccccccccccccccNNNNNNNNNNN
-    1e7j  NNNNNNNNNNNcccccccccccccccccccccccccc=========ccccccccccccccccccccccccccNNNNNNNNNNN
-    2e5j  NNNNNNNNNNNccccccc1cccccccccccccccccccc=====cccccccccccccccccccc1cccccccNNNNNNNNNNN
-    2e3j  NNNNNNNNNNNccccccc11ccccccccccccccccccccc=ccccccccccccccccccccc11cccccccNNNNNNNNNNN
-    2e1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
-   2e-1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
-   2e-3j  NNNNNNNNNNNcccccccccccc=ccccccccccccccccc=ccccccccccccccccc=ccccccccccccNNNNNNNNNNN
+   8e18j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+   9e16j  NNNNNNNNNNNcccccccccccc=====================================ccccccccccccNNNNNNNNNNN
+   1e15j  NNNNNNNNNNNcccccccccccccc=================================ccccccccccccccNNNNNNNNNNN
+   1e13j  NNNNNNNNNNNcccccccccccccccc=============================ccccccccccccccccNNNNNNNNNNN
+   1e11j  NNNNNNNNNNNcccccccccccccccccc=========================ccccccccccccccccccNNNNNNNNNNN
+    1e9j  NNNNNNNNNNNcccccccccccccccccccc=====================ccccccccccccccccccccNNNNNNNNNNN
+    1e7j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
+    2e5j  NNNNNNNNNNNccccccc1cccccccccccccccc=============cccccccccccccccc1cccccccNNNNNNNNNNN
+    2e3j  NNNNNNNNNNNccccccc11ccccccccccccccccc=========ccccccccccccccccc11cccccccNNNNNNNNNNN
+    2e1j  NNNNNNNNNNNcccccccccccccccccccccccccccc=====ccccccccccccccccccccccccccccNNNNNNNNNNN
+   2e-1j  NNNNNNNNNNNccccccccccccccccccccccccccccc===cccccccccccccccccccccccccccccNNNNNNNNNNN
+   2e-3j  NNNNNNNNNNNcccccccccccc=cccccccccccccccc===cccccccccccccccc=ccccccccccccNNNNNNNNNNN
    3e-5j  NNNNNNNNNNNccccccccccc====ccccccccccccccc=ccccccccccccccc====cccccccccccNNNNNNNNNNN
    3e-7j  NNNNNNNNNNNccccccccccc==c====cccccccccccc=cccccccccccc====c==cccccccccccNNNNNNNNNNN
    3e-9j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
@@ -59,18 +59,18 @@
   -3e-9j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
   -3e-7j  NNNNNNNNNNNccccccccccc==c====cccccccccccc=cccccccccccc====c==cccccccccccNNNNNNNNNNN
   -3e-5j  NNNNNNNNNNNccccccccccc====ccccccccccccccc=ccccccccccccccc====cccccccccccNNNNNNNNNNN
-  -2e-3j  NNNNNNNNNNNcccccccccccc=ccccccccccccccccc=ccccccccccccccccc=ccccccccccccNNNNNNNNNNN
-  -2e-1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
-   -2e1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
-   -2e3j  NNNNNNNNNNNccccccc11ccccccccccccccccccccc=ccccccccccccccccccccc11cccccccNNNNNNNNNNN
-   -2e5j  NNNNNNNNNNNccccccc1cccccccccccccccccccc=====cccccccccccccccccccc1cccccccNNNNNNNNNNN
-   -1e7j  NNNNNNNNNNNcccccccccccccccccccccccccc=========ccccccccccccccccccccccccccNNNNNNNNNNN
-   -1e9j  NNNNNNNNNNNcccccccccccccccccccccccc=============ccccccccccccccccccccccccNNNNNNNNNNN
-  -1e11j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
-  -1e13j  NNNNNNNNNNNcccccccccccccccccccc=====================ccccccccccccccccccccNNNNNNNNNNN
-  -1e15j  NNNNNNNNNNNcccccccccccccccccc=========================ccccccccccccccccccNNNNNNNNNNN
-  -9e16j  NNNNNNNNNNNcccccccccccccccc=============================ccccccccccccccccNNNNNNNNNNN
-  -8e18j  NNNNNNNNNNNcccccccccccccc=================================ccccccccccccccNNNNNNNNNNN
+  -2e-3j  NNNNNNNNNNNcccccccccccc=cccccccccccccccc===cccccccccccccccc=ccccccccccccNNNNNNNNNNN
+  -2e-1j  NNNNNNNNNNNccccccccccccccccccccccccccccc===cccccccccccccccccccccccccccccNNNNNNNNNNN
+   -2e1j  NNNNNNNNNNNcccccccccccccccccccccccccccc=====ccccccccccccccccccccccccccccNNNNNNNNNNN
+   -2e3j  NNNNNNNNNNNccccccc11ccccccccccccccccc=========ccccccccccccccccc11cccccccNNNNNNNNNNN
+   -2e5j  NNNNNNNNNNNccccccc1cccccccccccccccc=============cccccccccccccccc1cccccccNNNNNNNNNNN
+   -1e7j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
+   -1e9j  NNNNNNNNNNNcccccccccccccccccccc=====================ccccccccccccccccccccNNNNNNNNNNN
+  -1e11j  NNNNNNNNNNNcccccccccccccccccc=========================ccccccccccccccccccNNNNNNNNNNN
+  -1e13j  NNNNNNNNNNNcccccccccccccccc=============================ccccccccccccccccNNNNNNNNNNN
+  -1e15j  NNNNNNNNNNNcccccccccccccc=================================ccccccccccccccNNNNNNNNNNN
+  -9e16j  NNNNNNNNNNNcccccccccccc=====================================ccccccccccccNNNNNNNNNNN
+  -8e18j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
   -8e20j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
   -7e22j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
   -6e24j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN

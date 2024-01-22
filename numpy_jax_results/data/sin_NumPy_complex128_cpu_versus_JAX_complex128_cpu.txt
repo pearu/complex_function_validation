@@ -39,9 +39,9 @@
  5e-261j  ~ccccccccccccccccccccccccccccccccccccXXXXXXXXXcccccccccccccccccccccccccccccccccccc~
  9e-277j  ~cccccccccccccccccccccccccccccccccccccXXXXXXXccccccccccccccccccccccccccccccccccccc~
  1e-292j  ~ccccccccccccccccccccccccccccccccccccccXXXXXcccccccccccccccccccccccccccccccccccccc~
-   tinyj  ~cccccccccccccccccccccccccccccccccccccccXXXccccccccccccccccccccccccccccccccccccccc~
+   tinyj  ~=====================ccccccccccccccccccXXXcccccccccccccccccc=====================~
       0j  ~=================================================================================~
-  -tinyj  ~cccccccccccccccccccccccccccccccccccccccXXXccccccccccccccccccccccccccccccccccccccc~
+  -tinyj  ~=====================ccccccccccccccccccXXXcccccccccccccccccc=====================~
 -1e-292j  ~ccccccccccccccccccccccccccccccccccccccXXXXXcccccccccccccccccccccccccccccccccccccc~
 -9e-277j  ~cccccccccccccccccccccccccccccccccccccXXXXXXXccccccccccccccccccccccccccccccccccccc~
 -5e-261j  ~ccccccccccccccccccccccccccccccccccccXXXXXXXXXcccccccccccccccccccccccccccccccccccc~

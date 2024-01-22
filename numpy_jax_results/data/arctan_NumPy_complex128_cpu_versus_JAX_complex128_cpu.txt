@@ -20,47 +20,47 @@
    6e39j  NIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIN
    1e24j  NIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIN
     2e8j  NIIIIIIIIIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIIIIIIIIIIN
-   3e-8j  NIIIIIIIIIIcccccccccc88888888888888888888888888888888888888888ccccccccccIIIIIIIIIIN
+   3e-8j  NIIIIIIIIII=ccccccccc88888888888888888888888888888888888888888ccccccccc=IIIIIIIIIIN
   4e-24j  NIIIIIIIIII=ccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccc=IIIIIIIIIIN
-  7e-40j  NIIIIIIIIII=cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc=IIIIIIIIIIN
+  7e-40j  NIIIIIIIIII==ccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccc==IIIIIIIIIIN
   1e-55j  NIIIIIIIIII==cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc==IIIIIIIIIIN
-  2e-71j  NIIIIIIIIII==ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc==IIIIIIIIIIN
+  2e-71j  NIIIIIIIIII===cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc===IIIIIIIIIIN
   3e-87j  NIIIIIIIIII===ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc===IIIIIIIIIIN
- 4e-103j  NIIIIIIIIII===cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc===IIIIIIIIIIN
+ 4e-103j  NIIIIIIIIII====ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc====IIIIIIIIIIN
  7e-119j  NIIIIIIIIII====cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc====IIIIIIIIIIN
- 1e-134j  NIIIIIIIIII====ccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccc====IIIIIIIIIIN
+ 1e-134j  NIIIIIIIIII=====cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc=====IIIIIIIIIIN
  2e-150j  NIIIIIIIIII=====ccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccc=====IIIIIIIIIIN
- 3e-166j  NIIIIIIIIII=====cccccccccccccccXXXXXXXXXXXXXXXXXXXXXccccccccccccccc=====IIIIIIIIIIN
+ 3e-166j  NIIIIIIIIII======ccccccccccccccXXXXXXXXXXXXXXXXXXXXXcccccccccccccc======IIIIIIIIIIN
  5e-182j  NIIIIIIIIII======cccccccccccccccXXXXXXXXXXXXXXXXXXXccccccccccccccc======IIIIIIIIIIN
- 8e-198j  NIIIIIIIIII======ccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccc======IIIIIIIIIIN
+ 8e-198j  NIIIIIIIIII=======cccccccccccccccXXXXXXXXXXXXXXXXXccccccccccccccc=======IIIIIIIIIIN
  1e-213j  NIIIIIIIIII=======ccccccccccccccccXXXXXXXXXXXXXXXcccccccccccccccc=======IIIIIIIIIIN
- 2e-229j  NIIIIIIIIII=======cccccccccccccccccXXXXXXXXXXXXXccccccccccccccccc=======IIIIIIIIIIN
+ 2e-229j  NIIIIIIIIII========ccccccccccccccccXXXXXXXXXXXXXcccccccccccccccc========IIIIIIIIIIN
  3e-245j  NIIIIIIIIII========cccccccccccccccccXXXXXXXXXXXccccccccccccccccc========IIIIIIIIIIN
- 5e-261j  NIIIIIIIIII========ccccccccccccccccccXXXXXXXXXcccccccccccccccccc========IIIIIIIIIIN
+ 5e-261j  NIIIIIIIIII=========cccccccccccccccccXXXXXXXXXccccccccccccccccc=========IIIIIIIIIIN
  9e-277j  NIIIIIIIIII=========ccccccccccccccccccXXXXXXXcccccccccccccccccc=========IIIIIIIIIIN
- 1e-292j  NIIIIIIIIII=========cccccccccccccccccccXXXXXccccccccccccccccccc=========IIIIIIIIIIN
+ 1e-292j  NIIIIIIIIII==========ccccccccccccccccccXXXXXcccccccccccccccccc==========IIIIIIIIIIN
    tinyj  NIIIIIIIIII==========cccccccccccccccccccXXXccccccccccccccccccc==========IIIIIIIIIIN
       0j  NIIIIIIIIII=============================================================IIIIIIIIIIN
   -tinyj  NIIIIIIIIII==========cccccccccccccccccccXXXccccccccccccccccccc==========IIIIIIIIIIN
--1e-292j  NIIIIIIIIII=========cccccccccccccccccccXXXXXccccccccccccccccccc=========IIIIIIIIIIN
+-1e-292j  NIIIIIIIIII==========ccccccccccccccccccXXXXXcccccccccccccccccc==========IIIIIIIIIIN
 -9e-277j  NIIIIIIIIII=========ccccccccccccccccccXXXXXXXcccccccccccccccccc=========IIIIIIIIIIN
--5e-261j  NIIIIIIIIII========ccccccccccccccccccXXXXXXXXXcccccccccccccccccc========IIIIIIIIIIN
+-5e-261j  NIIIIIIIIII=========cccccccccccccccccXXXXXXXXXccccccccccccccccc=========IIIIIIIIIIN
 -3e-245j  NIIIIIIIIII========cccccccccccccccccXXXXXXXXXXXccccccccccccccccc========IIIIIIIIIIN
--2e-229j  NIIIIIIIIII=======cccccccccccccccccXXXXXXXXXXXXXccccccccccccccccc=======IIIIIIIIIIN
+-2e-229j  NIIIIIIIIII========ccccccccccccccccXXXXXXXXXXXXXcccccccccccccccc========IIIIIIIIIIN
 -1e-213j  NIIIIIIIIII=======ccccccccccccccccXXXXXXXXXXXXXXXcccccccccccccccc=======IIIIIIIIIIN
--8e-198j  NIIIIIIIIII======ccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccc======IIIIIIIIIIN
+-8e-198j  NIIIIIIIIII=======cccccccccccccccXXXXXXXXXXXXXXXXXccccccccccccccc=======IIIIIIIIIIN
 -5e-182j  NIIIIIIIIII======cccccccccccccccXXXXXXXXXXXXXXXXXXXccccccccccccccc======IIIIIIIIIIN
--3e-166j  NIIIIIIIIII=====cccccccccccccccXXXXXXXXXXXXXXXXXXXXXccccccccccccccc=====IIIIIIIIIIN
+-3e-166j  NIIIIIIIIII======ccccccccccccccXXXXXXXXXXXXXXXXXXXXXcccccccccccccc======IIIIIIIIIIN
 -2e-150j  NIIIIIIIIII=====ccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccc=====IIIIIIIIIIN
--1e-134j  NIIIIIIIIII====ccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccc====IIIIIIIIIIN
+-1e-134j  NIIIIIIIIII=====cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc=====IIIIIIIIIIN
 -7e-119j  NIIIIIIIIII====cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc====IIIIIIIIIIN
--4e-103j  NIIIIIIIIII===cccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccc===IIIIIIIIIIN
+-4e-103j  NIIIIIIIIII====ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc====IIIIIIIIIIN
  -3e-87j  NIIIIIIIIII===ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc===IIIIIIIIIIN
- -2e-71j  NIIIIIIIIII==ccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccc==IIIIIIIIIIN
+ -2e-71j  NIIIIIIIIII===cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc===IIIIIIIIIIN
  -1e-55j  NIIIIIIIIII==cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc==IIIIIIIIIIN
- -7e-40j  NIIIIIIIIII=cccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccc=IIIIIIIIIIN
+ -7e-40j  NIIIIIIIIII==ccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccc==IIIIIIIIIIN
  -4e-24j  NIIIIIIIIII=ccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccc=IIIIIIIIIIN
-  -3e-8j  NIIIIIIIIIIcccccccccc79999999999999999999999999999999999999997ccccccccccIIIIIIIIIIN
+  -3e-8j  NIIIIIIIIII=ccccccccc79999999999999999999999999999999999999997ccccccccc=IIIIIIIIIIN
    -2e8j  NIIIIIIIIIIccccccccccccccccccccccccccccccXccccccccccccccccccccccccccccccIIIIIIIIIIN
   -1e24j  NIIIIIIIIIIccccccccccccccccccccccccccccccXccccccccccccccccccccccccccccccIIIIIIIIIIN
   -6e39j  NIIIIIIIIIIccccccccccccccccccccccccccccccXccccccccccccccccccccccccccccccIIIIIIIIIIN

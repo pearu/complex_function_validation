@@ -20,47 +20,47 @@
     2e5j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     2e3j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     2e1j  ~cc==cccc=cc=====c==c=c=c===c===ccc====c===c====ccc===c===c=c=c==c=====cc=cccc==cc~
-   2e-1j  ~ccc=cccccc=cc==c==c==cc==c=c=c===cc====c=c====cc===c=c=c==cc==c==c==cc=cccccc=ccc~
-   2e-3j  ~cccccccccccccccccccccccccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccc~
-   3e-5j  ~ccccc12cccccc1c21c2ccccccccccccccccccccc=ccccccccccccccccccccc2c12c1cccccc21ccccc~
-   3e-7j  ~ccccc11cccccc1c1cc1ccccccccccccccccccccc=ccccccccccccccccccccc1cc1c1cccccc11ccccc~
-   3e-9j  ~ccccccccccccccccccccccccccccccccccccccc===ccccccccccccccccccccccccccccccccccccccc~
-  3e-11j  ~cccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccc~
-  4e-13j  ~ccccccccccccccccccccccccccccccccccccc=======ccccccccccccccccccccccccccccccccccccc~
-  4e-15j  ~cccccccccccccccccccccccccccccccccccc=========cccccccccccccccccccccccccccccccccccc~
-  4e-17j  ~ccccccccccccccccccccccccccccccccccc===========ccccccccccccccccccccccccccccccccccc~
-  5e-19j  ~cccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccc~
-  5e-21j  ~ccccccccccccccccccccccccccccccccc===============ccccccccccccccccccccccccccccccccc~
-  6e-23j  ~cccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccc~
-  6e-25j  ~ccccccccccccccccccccccccccccccc===================ccccccccccccccccccccccccccccccc~
-  7e-27j  ~cccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccc~
-  7e-29j  ~ccccccccccccccccccccccccccccc=======================ccccccccccccccccccccccccccccc~
-  8e-31j  ~cccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccc~
-  9e-33j  ~ccccccccccccccccccccccccccc===========================ccccccccccccccccccccccccccc~
-  1e-34j  ~cccccccccccccccccccccccccc=============================cccccccccccccccccccccccccc~
-  1e-36j  ~ccccccccccccccccccccccccc===============================ccccccccccccccccccccccccc~
-   tinyj  ~cccccccccccccccccccccccc=================================cccccccccccccccccccccccc~
+   2e-1j  ~ccc=cccccc=cc==c==c==cc==c=c=c===cc===========cc===c=c=c==cc==c==c==cc=cccccc=ccc~
+   2e-3j  ~cccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccc~
+   3e-5j  ~ccccc12cccccc1c21c2cccccccccccccccccc=======cccccccccccccccccc2c12c1cccccc21ccccc~
+   3e-7j  ~ccccc11cccccc1c1cc1ccccccccccccccccc=========ccccccccccccccccc1cc1c1cccccc11ccccc~
+   3e-9j  ~ccccccccccccccccccccccccccccccccccc===========ccccccccccccccccccccccccccccccccccc~
+  3e-11j  ~cccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccc~
+  4e-13j  ~ccccccccccccccccccccccccccccccccc===============ccccccccccccccccccccccccccccccccc~
+  4e-15j  ~cccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccc~
+  4e-17j  ~ccccccccccccccccccccccccccccccc===================ccccccccccccccccccccccccccccccc~
+  5e-19j  ~cccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccc~
+  5e-21j  ~ccccccccccccccccccccccccccccc=======================ccccccccccccccccccccccccccccc~
+  6e-23j  ~cccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccc~
+  6e-25j  ~ccccccccccccccccccccccccccc===========================ccccccccccccccccccccccccccc~
+  7e-27j  ~cccccccccccccccccccccccccc=============================cccccccccccccccccccccccccc~
+  7e-29j  ~ccccccccccccccccccccccccc===============================ccccccccccccccccccccccccc~
+  8e-31j  ~cccccccccccccccccccccccc=================================cccccccccccccccccccccccc~
+  9e-33j  ~ccccccccccccccccccccccc===================================ccccccccccccccccccccccc~
+  1e-34j  ~cccccccccccccccccccccc=====================================cccccccccccccccccccccc~
+  1e-36j  ~ccccccccccccccccccccc=======================================ccccccccccccccccccccc~
+   tinyj  ~=================================================================================~
       0j  ~=================================================================================~
-  -tinyj  ~cccccccccccccccccccccccc=================================cccccccccccccccccccccccc~
- -1e-36j  ~ccccccccccccccccccccccccc===============================ccccccccccccccccccccccccc~
- -1e-34j  ~cccccccccccccccccccccccccc=============================cccccccccccccccccccccccccc~
- -9e-33j  ~ccccccccccccccccccccccccccc===========================ccccccccccccccccccccccccccc~
- -8e-31j  ~cccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccc~
- -7e-29j  ~ccccccccccccccccccccccccccccc=======================ccccccccccccccccccccccccccccc~
- -7e-27j  ~cccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccc~
- -6e-25j  ~ccccccccccccccccccccccccccccccc===================ccccccccccccccccccccccccccccccc~
- -6e-23j  ~cccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccc~
- -5e-21j  ~ccccccccccccccccccccccccccccccccc===============ccccccccccccccccccccccccccccccccc~
- -5e-19j  ~cccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccc~
- -4e-17j  ~ccccccccccccccccccccccccccccccccccc===========ccccccccccccccccccccccccccccccccccc~
- -4e-15j  ~cccccccccccccccccccccccccccccccccccc=========cccccccccccccccccccccccccccccccccccc~
- -4e-13j  ~ccccccccccccccccccccccccccccccccccccc=======ccccccccccccccccccccccccccccccccccccc~
- -3e-11j  ~cccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccc~
-  -3e-9j  ~ccccccccccccccccccccccccccccccccccccccc===ccccccccccccccccccccccccccccccccccccccc~
-  -3e-7j  ~ccccc12cccccc1c21c2ccccccccccccccccccccc=ccccccccccccccccccccc2c12c1cccccc21ccccc~
-  -3e-5j  ~ccccc11cccccccc1cc1ccccccccccccccccccccc=ccccccccccccccccccccc1cc1cccccccc11ccccc~
-  -2e-3j  ~cccccccccccccccccccccccccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccc~
-  -2e-1j  ~ccc=cccccc=cc==c==c==cc==c=c=c===cc====c=c====cc===c=c=c==cc==c==c==cc=cccccc=ccc~
+  -tinyj  ~=================================================================================~
+ -1e-36j  ~ccccccccccccccccccccc=======================================ccccccccccccccccccccc~
+ -1e-34j  ~cccccccccccccccccccccc=====================================cccccccccccccccccccccc~
+ -9e-33j  ~ccccccccccccccccccccccc===================================ccccccccccccccccccccccc~
+ -8e-31j  ~cccccccccccccccccccccccc=================================cccccccccccccccccccccccc~
+ -7e-29j  ~ccccccccccccccccccccccccc===============================ccccccccccccccccccccccccc~
+ -7e-27j  ~cccccccccccccccccccccccccc=============================cccccccccccccccccccccccccc~
+ -6e-25j  ~ccccccccccccccccccccccccccc===========================ccccccccccccccccccccccccccc~
+ -6e-23j  ~cccccccccccccccccccccccccccc=========================cccccccccccccccccccccccccccc~
+ -5e-21j  ~ccccccccccccccccccccccccccccc=======================ccccccccccccccccccccccccccccc~
+ -5e-19j  ~cccccccccccccccccccccccccccccc=====================cccccccccccccccccccccccccccccc~
+ -4e-17j  ~ccccccccccccccccccccccccccccccc===================ccccccccccccccccccccccccccccccc~
+ -4e-15j  ~cccccccccccccccccccccccccccccccc=================cccccccccccccccccccccccccccccccc~
+ -4e-13j  ~ccccccccccccccccccccccccccccccccc===============ccccccccccccccccccccccccccccccccc~
+ -3e-11j  ~cccccccccccccccccccccccccccccccccc=============cccccccccccccccccccccccccccccccccc~
+  -3e-9j  ~ccccccccccccccccccccccccccccccccccc===========ccccccccccccccccccccccccccccccccccc~
+  -3e-7j  ~ccccc12cccccc1c21c2ccccccccccccccccc=========ccccccccccccccccc2c12c1cccccc21ccccc~
+  -3e-5j  ~ccccc11cccccccc1cc1cccccccccccccccccc=======cccccccccccccccccc1cc1cccccccc11ccccc~
+  -2e-3j  ~cccccccccccccccccccccccccccccccccccccc=====cccccccccccccccccccccccccccccccccccccc~
+  -2e-1j  ~ccc=cccccc=cc==c==c==cc==c=c=c===cc===========cc===c=c=c==cc==c==c==cc=cccccc=ccc~
    -2e1j  ~=ccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccccccccc=~
    -2e3j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    -2e5j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

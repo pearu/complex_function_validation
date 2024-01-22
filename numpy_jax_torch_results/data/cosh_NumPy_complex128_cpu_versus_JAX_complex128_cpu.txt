@@ -1,86 +1,86 @@
 
    +infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N
-    maxj  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  3e292j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
-  5e276j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  8e260j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  1e245j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  2e229j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
-  3e213j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  5e197j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  8e181j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  1e166j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  2e150j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  3e134j  ~~~~~~~~~~~~~~~~~~~~~2ccccccccccccccccccc=ccccccccccccccccccc2~~~~~~~~~~~~~~~~~~~~~
-  6e118j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  9e102j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-   1e87j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
-   2e71j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
-   4e55j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-   6e39j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-   1e24j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-    2e8j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-   3e-8j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  4e-24j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  7e-40j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccc=====cccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  1e-55j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccc=======ccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  2e-71j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccc=========cccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  3e-87j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccc===========ccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- 4e-103j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccc=============cccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- 7e-119j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccc===============ccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- 1e-134j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccc=================cccccccccccc~~~~~~~~~~~~~~~~~~~~~
- 2e-150j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccc===================ccccccccccc~~~~~~~~~~~~~~~~~~~~~
- 3e-166j  ~~~~~~~~~~~~~~~~~~~~~cccccccccc=====================cccccccccc~~~~~~~~~~~~~~~~~~~~~
- 5e-182j  ~~~~~~~~~~~~~~~~~~~~~ccccccccc=======================ccccccccc~~~~~~~~~~~~~~~~~~~~~
- 8e-198j  ~~~~~~~~~~~~~~~~~~~~~cccccccc=========================cccccccc~~~~~~~~~~~~~~~~~~~~~
- 1e-213j  ~~~~~~~~~~~~~~~~~~~~~ccccccc===========================ccccccc~~~~~~~~~~~~~~~~~~~~~
- 2e-229j  ~~~~~~~~~~~~~~~~~~~~~cccccc=============================cccccc~~~~~~~~~~~~~~~~~~~~~
- 3e-245j  ~~~~~~~~~~~~~~~~~~~~~ccccc===============================ccccc~~~~~~~~~~~~~~~~~~~~~
- 5e-261j  ~~~~~~~~~~~~~~~~~~~~~cccc=================================cccc~~~~~~~~~~~~~~~~~~~~~
- 9e-277j  ~~~~~~~~~~~~~~~~~~~~~ccc===================================ccc~~~~~~~~~~~~~~~~~~~~~
- 1e-292j  ~~~~~~~~~~~~~~~~~~~~~cc=====================================cc~~~~~~~~~~~~~~~~~~~~~
+    maxj  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  3e292j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+  5e276j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  8e260j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  1e245j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  2e229j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+  3e213j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  5e197j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  8e181j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  1e166j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  2e150j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  3e134j  ~~~~~~~~~~~~~~~~~~~~~2cccccccccccccccccc===cccccccccccccccccc2~~~~~~~~~~~~~~~~~~~~~
+  6e118j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  9e102j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+   1e87j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+   2e71j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+   4e55j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+   6e39j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+   1e24j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+    2e8j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+   3e-8j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  4e-24j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccc=====cccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  7e-40j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccc=======ccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  1e-55j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccc=========cccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  2e-71j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccc===========ccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  3e-87j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccc=============cccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 4e-103j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccc===============ccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 7e-119j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccc=================cccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 1e-134j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccc===================ccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 2e-150j  ~~~~~~~~~~~~~~~~~~~~~cccccccccc=====================cccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 3e-166j  ~~~~~~~~~~~~~~~~~~~~~ccccccccc=======================ccccccccc~~~~~~~~~~~~~~~~~~~~~
+ 5e-182j  ~~~~~~~~~~~~~~~~~~~~~cccccccc=========================cccccccc~~~~~~~~~~~~~~~~~~~~~
+ 8e-198j  ~~~~~~~~~~~~~~~~~~~~~ccccccc===========================ccccccc~~~~~~~~~~~~~~~~~~~~~
+ 1e-213j  ~~~~~~~~~~~~~~~~~~~~~cccccc=============================cccccc~~~~~~~~~~~~~~~~~~~~~
+ 2e-229j  ~~~~~~~~~~~~~~~~~~~~~ccccc===============================ccccc~~~~~~~~~~~~~~~~~~~~~
+ 3e-245j  ~~~~~~~~~~~~~~~~~~~~~cccc=================================cccc~~~~~~~~~~~~~~~~~~~~~
+ 5e-261j  ~~~~~~~~~~~~~~~~~~~~~ccc===================================ccc~~~~~~~~~~~~~~~~~~~~~
+ 9e-277j  ~~~~~~~~~~~~~~~~~~~~~cc=====================================cc~~~~~~~~~~~~~~~~~~~~~
+ 1e-292j  ~~~~~~~~~~~~~~~~~~~~~c=======================================c~~~~~~~~~~~~~~~~~~~~~
    tinyj  ~~~~~~~~~~~~~~~~~~~~~c=======================================c~~~~~~~~~~~~~~~~~~~~~
       0j  NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNNN
   -tinyj  ~~~~~~~~~~~~~~~~~~~~~c=======================================c~~~~~~~~~~~~~~~~~~~~~
--1e-292j  ~~~~~~~~~~~~~~~~~~~~~cc=====================================cc~~~~~~~~~~~~~~~~~~~~~
--9e-277j  ~~~~~~~~~~~~~~~~~~~~~ccc===================================ccc~~~~~~~~~~~~~~~~~~~~~
--5e-261j  ~~~~~~~~~~~~~~~~~~~~~cccc=================================cccc~~~~~~~~~~~~~~~~~~~~~
--3e-245j  ~~~~~~~~~~~~~~~~~~~~~ccccc===============================ccccc~~~~~~~~~~~~~~~~~~~~~
--2e-229j  ~~~~~~~~~~~~~~~~~~~~~cccccc=============================cccccc~~~~~~~~~~~~~~~~~~~~~
--1e-213j  ~~~~~~~~~~~~~~~~~~~~~ccccccc===========================ccccccc~~~~~~~~~~~~~~~~~~~~~
--8e-198j  ~~~~~~~~~~~~~~~~~~~~~cccccccc=========================cccccccc~~~~~~~~~~~~~~~~~~~~~
--5e-182j  ~~~~~~~~~~~~~~~~~~~~~ccccccccc=======================ccccccccc~~~~~~~~~~~~~~~~~~~~~
--3e-166j  ~~~~~~~~~~~~~~~~~~~~~cccccccccc=====================cccccccccc~~~~~~~~~~~~~~~~~~~~~
--2e-150j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccc===================ccccccccccc~~~~~~~~~~~~~~~~~~~~~
--1e-134j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccc=================cccccccccccc~~~~~~~~~~~~~~~~~~~~~
--7e-119j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccc===============ccccccccccccc~~~~~~~~~~~~~~~~~~~~~
--4e-103j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccc=============cccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -3e-87j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccc===========ccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -2e-71j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccc=========cccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -1e-55j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccc=======ccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -7e-40j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccc=====cccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -4e-24j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -3e-8j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-   -2e8j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -1e24j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -6e39j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -4e55j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -2e71j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-  -1e87j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -9e102j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -6e118j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -3e134j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
- -2e150j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -1e166j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -8e181j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -5e197j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
- -3e213j  ~~~~~~~~~~~~~~~~~~~~~1ccccccccccccccccccc=ccccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
- -2e229j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -1e245j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -8e260j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -5e276j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
- -3e292j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
-    minj  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccccc=cccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+-1e-292j  ~~~~~~~~~~~~~~~~~~~~~c=======================================c~~~~~~~~~~~~~~~~~~~~~
+-9e-277j  ~~~~~~~~~~~~~~~~~~~~~cc=====================================cc~~~~~~~~~~~~~~~~~~~~~
+-5e-261j  ~~~~~~~~~~~~~~~~~~~~~ccc===================================ccc~~~~~~~~~~~~~~~~~~~~~
+-3e-245j  ~~~~~~~~~~~~~~~~~~~~~cccc=================================cccc~~~~~~~~~~~~~~~~~~~~~
+-2e-229j  ~~~~~~~~~~~~~~~~~~~~~ccccc===============================ccccc~~~~~~~~~~~~~~~~~~~~~
+-1e-213j  ~~~~~~~~~~~~~~~~~~~~~cccccc=============================cccccc~~~~~~~~~~~~~~~~~~~~~
+-8e-198j  ~~~~~~~~~~~~~~~~~~~~~ccccccc===========================ccccccc~~~~~~~~~~~~~~~~~~~~~
+-5e-182j  ~~~~~~~~~~~~~~~~~~~~~cccccccc=========================cccccccc~~~~~~~~~~~~~~~~~~~~~
+-3e-166j  ~~~~~~~~~~~~~~~~~~~~~ccccccccc=======================ccccccccc~~~~~~~~~~~~~~~~~~~~~
+-2e-150j  ~~~~~~~~~~~~~~~~~~~~~cccccccccc=====================cccccccccc~~~~~~~~~~~~~~~~~~~~~
+-1e-134j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccc===================ccccccccccc~~~~~~~~~~~~~~~~~~~~~
+-7e-119j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccc=================cccccccccccc~~~~~~~~~~~~~~~~~~~~~
+-4e-103j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccc===============ccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -3e-87j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccc=============cccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -2e-71j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccc===========ccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -1e-55j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccc=========cccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -7e-40j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccc=======ccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -4e-24j  ~~~~~~~~~~~~~~~~~~~~~cccccccccccccccccc=====cccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -3e-8j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+   -2e8j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -1e24j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -6e39j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -4e55j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -2e71j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+  -1e87j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -9e102j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -6e118j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -3e134j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+ -2e150j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -1e166j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -8e181j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -5e197j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+ -3e213j  ~~~~~~~~~~~~~~~~~~~~~1cccccccccccccccccc===cccccccccccccccccc1~~~~~~~~~~~~~~~~~~~~~
+ -2e229j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -1e245j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -8e260j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -5e276j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+ -3e292j  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
+    minj  ~~~~~~~~~~~~~~~~~~~~~ccccccccccccccccccc===ccccccccccccccccccc~~~~~~~~~~~~~~~~~~~~~
    -infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N
 
 real line:~~~~~~~~~~~~~~~~~~~~~c=======================================c~~~~~~~~~~~~~~~~~~~~~

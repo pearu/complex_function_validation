@@ -30,27 +30,27 @@
  7e-119j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==c=ccc==cc===cccccccc~
  1e-134j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccc=cc=c=cc==c=c=cccccccccc~
  2e-150j  ~ccccccccccccccccccccccccccccc===========cccccccccc=c=ccc===c=cccc=c=c==cccccccccc~
- 3e-166j  ~cccccccccccccccccccccccccccccc=c11111111cccccccccccc==c====c=c==cc==c=ccccccccccc~
- 5e-182j  ~cccccccccccccccccccccccccccccccc=cccccccc=========c==c=c===c==ccc=c=ccccccccccc==~
- 8e-198j  ~ccccccccccccccccccccccccccccccccccccccccccccccccc=c===c=c==cc=ccccccccccccccc====~
- 1e-213j  ~ccccccccccccccccccccccccccccccccc=cccccccccccccc==cc==c=c==c=cccc=ccccccccc======~
- 2e-229j  ~ccccccccccccccccccccccccccccccccccc=ccccccccc=ccc=c==c==c==cc==c=cccccccc========~
- 3e-245j  ~cccccccccccccccccccccccccccccccccccc=cccc====c=cc=c==cccc=cc===cccccccc==========~
- 5e-261j  ~ccccccccccccccccccccccccccccccccccccc===ccc==c=c==c=cc==c==cc===ccccc============~
- 9e-277j  ~cccccccccccccccccccccccccccccccccccccc=ccc=c=cccc=c=c=====cc===cccc==============~
- 1e-292j  ~cccccccccccccccccccccccccccccccccccccc==c====c=cc=cccccc==cc==ccc================~
-   tinyj  ~ccccccccccccccccccccccccccccccccccccccccccc=====ccc=c==ccc=c=cc==================~
+ 3e-166j  ~cccccccccccccccccccccccccccccc=c11111111cccccccccccc==c====c=c==cc==c=ccccccccc==~
+ 5e-182j  ~cccccccccccccccccccccccccccccccc=cccccccc=========c==c=c===c==ccc=c=ccccccccc====~
+ 8e-198j  ~ccccccccccccccccccccccccccccccccccccccccccccccccc=c===c=c==cc=ccccccccccccc======~
+ 1e-213j  ~ccccccccccccccccccccccccccccccccc=cccccccccccccc==cc==c=c==c=cccc=ccccccc========~
+ 2e-229j  ~ccccccccccccccccccccccccccccccccccc=ccccccccc=ccc=c==c==c==cc==c=cccccc==========~
+ 3e-245j  ~cccccccccccccccccccccccccccccccccccc=cccc====c=cc=c==cccc=cc===cccccc============~
+ 5e-261j  ~ccccccccccccccccccccccccccccccccccccc===ccc==c=c==c=cc==c==cc===ccc==============~
+ 9e-277j  ~cccccccccccccccccccccccccccccccccccccc=ccc=c=cccc=c=c=====cc===cc================~
+ 1e-292j  ~cccccccccccccccccccccccccccccccccccccc==c====c=cc=cccccc==cc==c==================~
+   tinyj  ~ccccccccccccccccccccccccccccccccccccccccccc=====ccc=c==ccc=c=====================~
       0j  ~cccccccccccccccccccccccccccccccccccccccc=========================================~
-  -tinyj  ~ccccccccccccccccccccccccccccccccccccccccccc=====ccc=c==ccc=c=cc==================~
--1e-292j  ~cccccccccccccccccccccccccccccccccccccc=cccc==c=cc=cccccc===c==ccc================~
--9e-277j  ~cccccccccccccccccccccccccccccccccccccc==cc=c===c==cc===cc==cc==cccc==============~
--5e-261j  ~cccccccccccccccccccccccccccccccccccccccccccc==ccccc=c==cc====cccccccc============~
--3e-245j  ~cccccccccccccccccccccccccccccccccccc=cccc====c=cc=c==cccc=cc===cccccccc==========~
--2e-229j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccc====cc==ccc=cc=ccccccc========~
--1e-213j  ~ccccccccccccccccccccccccccccccccccccccccccccccccc=ccc=c====c=cccc=ccccccccc======~
--8e-198j  ~cccccccccccccccccccccccccccccccc=c=============c=cc=ccc=c==ccc=cccccccccccccc====~
--5e-182j  ~cccccccccccccccccccccccccccccccccccccccccccccccccccccc=====c==c=ccc==cccccccccc==~
--3e-166j  ~ccccccccccccccccccccccccccccccc=========ccccccccc=c==cc====c=c==c===ccccccccccccc~
+  -tinyj  ~ccccccccccccccccccccccccccccccccccccccccccc=====ccc=c==ccc=c=====================~
+-1e-292j  ~cccccccccccccccccccccccccccccccccccccc=cccc==c=cc=cccccc===c==c==================~
+-9e-277j  ~cccccccccccccccccccccccccccccccccccccc==cc=c===c==cc===cc==cc==cc================~
+-5e-261j  ~cccccccccccccccccccccccccccccccccccccccccccc==ccccc=c==cc====cccccc==============~
+-3e-245j  ~cccccccccccccccccccccccccccccccccccc=cccc====c=cc=c==cccc=cc===cccccc============~
+-2e-229j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccc====cc==ccc=cc=ccccc==========~
+-1e-213j  ~ccccccccccccccccccccccccccccccccccccccccccccccccc=ccc=c====c=cccc=ccccccc========~
+-8e-198j  ~cccccccccccccccccccccccccccccccc=c=============c=cc=ccc=c==ccc=cccccccccccc======~
+-5e-182j  ~cccccccccccccccccccccccccccccccccccccccccccccccccccccc=====c==c=ccc==cccccccc====~
+-3e-166j  ~ccccccccccccccccccccccccccccccc=========ccccccccc=c==cc====c=c==c===ccccccccccc==~
 -2e-150j  ~ccccccccccccccccccccccccccccc===========cccccccccc=c==c=c=cc=c=c==c==c=cccccccccc~
 -1e-134j  ~cccccccccccccccccccccccccccc=ccccccccccccccccccccccc==c=c==c====c==c====ccccccccc~
 -7e-119j  ~cccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccccccc=c=c=c==cccccccc~

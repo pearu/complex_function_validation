@@ -39,9 +39,9 @@
   9e-33j  ~ccccccccccccccccccccccccccccccccc246XXXXXXXXX642ccccccccccccccccccccccccccccccccc~
   1e-34j  ~cccccccccccccccccccccccccccccccccc246XXXXXXX642cccccccccccccccccccccccccccccccccc~
   1e-36j  ~ccccccccccccccccccccccccccccccccccc246XXXXX642ccccccccccccccccccccccccccccccccccc~
-   tinyj  ~cccccccccccccccccccccccccccccccccccc246XXX642cccccccccccccccccccccccccccccccccccc~
+   tinyj  ~======================cccccccccccccc246XXX642cccccccccccccc======================~
       0j  ~=================================================================================~
-  -tinyj  ~cccccccccccccccccccccccccccccccccccc246XXX642cccccccccccccccccccccccccccccccccccc~
+  -tinyj  ~======================cccccccccccccc246XXX642cccccccccccccc======================~
  -1e-36j  ~ccccccccccccccccccccccccccccccccccc246XXXXX642ccccccccccccccccccccccccccccccccccc~
  -1e-34j  ~cccccccccccccccccccccccccccccccccc246XXXXXXX642cccccccccccccccccccccccccccccccccc~
  -9e-33j  ~ccccccccccccccccccccccccccccccccc246XXXXXXXXX642ccccccccccccccccccccccccccccccccc~
