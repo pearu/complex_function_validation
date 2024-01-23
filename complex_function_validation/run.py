@@ -74,14 +74,14 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
             mismatches_rating = 100 * stats['mismatches'] / stats['total']
 
             if matches_rating == 100:
-                rating = 'PERFECT'
+                rating = '[OK](https://placehold.co/15x15/green/black?text=OK)'
             elif matches_rating > 90:
-                rating = 'GOOD'
+                rating = '[OKish](https://placehold.co/15x15/green/gray?text=OK)'
             elif mismatches_rating > 50:
-                rating = 'BAD'
+                rating = '[BAD](https://placehold.co/15x15/red/black?text=BAD)'
             else:
-                rating = 'POOR'
-            cols.append(f'{rating}: [{matches_rating:.1f}/{inaccuracies_rating:.1f}/{mismatches_rating:.1f} %](data/{os.path.basename(fn)})')
+                rating = '[POOR](https://placehold.co/15x15/yellow/black?text=POOR)'
+            cols.append(f'{rating} [{matches_rating:.0f}/{inaccuracies_rating:.0f}/{mismatches_rating:.0f} %](data/{os.path.basename(fn)})')
 
         rows.append(' | '.join([''] + cols + ['']))
 
