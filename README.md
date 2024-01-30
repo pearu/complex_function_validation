@@ -162,5 +162,6 @@ that demonstrates that different array libraries use different algorithms for ev
 # Results
 
 - [NumPy vs JAX](numpy_jax_results/)
+- [NumPy vs JAX-dev](numpy_jax_results_dev/)
 - [NumPy vs PyTorch](numpy_torch_results/)
 - [NumPy vs JAX vs PyTorch](numpy_jax_torch_results/)
