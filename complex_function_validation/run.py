@@ -48,7 +48,7 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
             ref = cfv.MPMathFunction(fname, 'complex128')
         else:
             ref = cfv.NumpyFunction(fname, 'complex128')
-        functions = [cfv.NumpyFunction(fname, 'complex64')]
+        functions = []
 
         for cls in [item[1] for item in array_libraries[1:] if item[-1] is not None]:
             for dtype in dtype_list:
