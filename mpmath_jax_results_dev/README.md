@@ -11,8 +11,8 @@ Reference library and dtype: MPMath, complex128
 
 ## Table of match/inaccurracy/mismatch rates
 
- | Function | NumPy: complex64 | JAX cpu: complex64 FTZ | JAX cuda: complex64 | JAX cpu: complex128 FTZ | JAX cuda: complex128 | 
- | :---- | :----: | :----: | :----: | :----: | :----: | 
+ | Function | JAX cpu: complex64 FTZ | JAX cuda: complex64 | JAX cpu: complex128 FTZ | JAX cuda: complex128 | 
+ | :---- | :----: | :----: | :----: | :----: | 
  | exp | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | log | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [99/0/1 %](data/log_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | log10 | GOOD [96/3/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [97/2/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | POOR [90/9/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | POOR [89/9/2 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 

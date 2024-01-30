@@ -35,7 +35,7 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
         size_re = size_im = 40
     size_re2 = size_im2 = 200
     
-    column_labels = ['Function', 'NumPy: complex64']
+    column_labels = ['Function']
     for lname, cls in [item[:2] for item in array_libraries[1:] if item[-1] is not None]:
         for dtype in dtype_list:
             for device in device_list:
