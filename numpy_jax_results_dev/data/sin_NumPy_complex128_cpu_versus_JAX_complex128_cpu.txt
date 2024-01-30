@@ -1,0 +1,143 @@
+
+   +infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N
+    maxj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  3e292j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5e276j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  8e260j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  1e245j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  2e229j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  3e213j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5e197j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  8e181j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  1e166j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  2e150j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  3e134j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  6e118j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  9e102j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   1e87j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   2e71j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   4e55j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   6e39j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   1e24j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2e8j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   3e-8j  ~2c1c11111111c11c111188888888888888888888888888888888888888888111c11cc111c1c111112~
+  4e-24j  ~cccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc~
+  7e-40j  ~ccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccc~
+  1e-55j  ~cccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccc~
+  2e-71j  ~ccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccc~
+  3e-87j  ~cccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccc~
+ 4e-103j  ~ccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccc~
+ 7e-119j  ~cccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccc~
+ 1e-134j  ~ccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccc~
+ 2e-150j  ~cccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccccc~
+ 3e-166j  ~ccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccccc~
+ 5e-182j  ~cccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccccccc~
+ 8e-198j  ~ccccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccccccc~
+ 1e-213j  ~cccccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXccccccccccccccccccccccccccccccccc~
+ 2e-229j  ~ccccccccccccccccccccccccccccccccccXXXXXXXXXXXXXcccccccccccccccccccccccccccccccccc~
+ 3e-245j  ~cccccccccccccccccccccccccccccccccccXXXXXXXXXXXccccccccccccccccccccccccccccccccccc~
+ 5e-261j  ~ccccccccccccccccccccccccccccccccccccXXXXXXXXXcccccccccccccccccccccccccccccccccccc~
+ 9e-277j  ~cccccccccccccccccccccccccccccccccccccXXXXXXXccccccccccccccccccccccccccccccccccccc~
+ 1e-292j  ~ccccccccccccccccccccccccccccccccccccccXXXXXcccccccccccccccccccccccccccccccccccccc~
+   tinyj  ~=====================ccccccccccccccccccXXXcccccccccccccccccc=====================~
+      0j  ~=================================================================================~
+  -tinyj  ~=====================ccccccccccccccccccXXXcccccccccccccccccc=====================~
+-1e-292j  ~ccccccccccccccccccccccccccccccccccccccXXXXXcccccccccccccccccccccccccccccccccccccc~
+-9e-277j  ~cccccccccccccccccccccccccccccccccccccXXXXXXXccccccccccccccccccccccccccccccccccccc~
+-5e-261j  ~ccccccccccccccccccccccccccccccccccccXXXXXXXXXcccccccccccccccccccccccccccccccccccc~
+-3e-245j  ~cccccccccccccccccccccccccccccccccccXXXXXXXXXXXccccccccccccccccccccccccccccccccccc~
+-2e-229j  ~ccccccccccccccccccccccccccccccccccXXXXXXXXXXXXXcccccccccccccccccccccccccccccccccc~
+-1e-213j  ~cccccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXccccccccccccccccccccccccccccccccc~
+-8e-198j  ~ccccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccccccc~
+-5e-182j  ~cccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccccccc~
+-3e-166j  ~ccccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccccc~
+-2e-150j  ~cccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccccc~
+-1e-134j  ~ccccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccccc~
+-7e-119j  ~cccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccccc~
+-4e-103j  ~ccccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccccc~
+ -3e-87j  ~cccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccccc~
+ -2e-71j  ~ccccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccccc~
+ -1e-55j  ~cccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccccc~
+ -7e-40j  ~ccccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXcccccccccccccccccccccc~
+ -4e-24j  ~cccccccccccccccccccccXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXccccccccccccccccccccc~
+  -3e-8j  ~2c1c11111111c11c111188888888888888888888888888888888888888888111c11cc111c1c111112~
+   -2e8j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -1e24j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -6e39j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -4e55j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -2e71j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  -1e87j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -9e102j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -6e118j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -3e134j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -2e150j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -1e166j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -8e181j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -5e197j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -3e213j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -2e229j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -1e245j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -8e260j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -5e276j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -3e292j  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    minj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   -infj  N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N
+
+real line:~=================================================================================~
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+
+  CPU
+  jax.numpy.sin on complex128 plane
+  vs
+  CPU
+  numpy.sin on complex128 plane
+
+Statistics:
+    match rate: 85.7%
+    inaccuracies rate: 2.1%
+    mismatch rate: 12.3%
+
+Versions:
+    numpy 1.26.2
+    jax 0.4.24.dev20240130+66308c30a
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code X:
+      (1.2656820036034036e-213-7.199540492199629e-119j) ->                            (1.2656820036034036e-213+0j)       (1.2656820036034036e-213-7.199540492199629e-119j)
+      (1.2656820036034036e-213+7.199540492198687e-119j) ->                            (1.2656820036034036e-213+0j)       (1.2656820036034036e-213+7.199540492198687e-119j)
+     (-1.2656820036035694e-213-7.199540492199629e-119j) ->                           (-1.2656820036035694e-213+0j)      (-1.2656820036035694e-213-7.199540492199629e-119j)
+     (-1.2656820036035694e-213+7.199540492198687e-119j) ->                           (-1.2656820036035694e-213+0j)      (-1.2656820036035694e-213+7.199540492198687e-119j)
+                                3.018663418665597e-166j ->                                                      0j                                 3.018663418665597e-166j
+                               -3.018663418665992e-166j ->                                                      0j                                -3.018663418665992e-166j
+Samples with code N:
+                                             (inf-infj) ->                                              (nan+nanj)                                              (nan+infj)
+                                             (inf+infj) ->                                              (nan+nanj)                                              (nan+infj)
+                                            (-inf-infj) ->                                              (nan+nanj)                                              (nan+infj)
+                                            (-inf+infj) ->                                              (nan+nanj)                                              (nan+infj)
+                               1.3250897649820401e+166j ->                                              (nan+infj)                                                    infj
+                              -1.3250897649822135e+166j ->                                              (nan-infj)                                                   -infj
+Samples with code 2:
+      (1.7976931348623157e+308-2.5396954906839566e-08j) ->          (0.004961954789184065+2.5396642221391623e-08j)          (0.004961954789184063+2.5396642255761033e-08j)
+       (1.7976931348623157e+308+2.539695490683624e-08j) ->          (0.004961954789184065-2.5396642221391623e-08j)          (0.004961954789184063-2.5396642255757708e-08j)
+     (-1.7976931348623157e+308-2.5396954906839566e-08j) ->         (-0.004961954789184065+2.5396642221391623e-08j)         (-0.004961954789184063+2.5396642255761033e-08j)
+      (-1.7976931348623157e+308+2.539695490683624e-08j) ->         (-0.004961954789184065-2.5396642221391623e-08j)         (-0.004961954789184063-2.5396642255757708e-08j)
+Samples with code 8:
+       (3.018663418665597e-166-2.5396954906839566e-08j) ->        (3.018663418665598e-166-2.5396954872469735e-08j)        (3.0186634186655975e-166-2.539695490683957e-08j)
+        (3.018663418665597e-166+2.539695490683624e-08j) ->        (3.018663418665598e-166+2.5396954872469735e-08j)       (3.0186634186655975e-166+2.5396954906836244e-08j)
+     (-1.8720238930736737e-150-2.5396954906839566e-08j) ->      (-1.8720238930736745e-150-2.5396954872469735e-08j)       (-1.8720238930736743e-150-2.539695490683957e-08j)
+      (-1.8720238930736737e-150+2.539695490683624e-08j) ->      (-1.8720238930736745e-150+2.5396954872469735e-08j)      (-1.8720238930736743e-150+2.5396954906836244e-08j)
+                                 2.539695490683624e-08j ->                                 2.5396954872469735e-08j                                 2.5396954906836244e-08j
+                               -2.5396954906839566e-08j ->                                -2.5396954872469735e-08j                                 -2.539695490683957e-08j
+Legend:
+    <input> -> <value> <reference value>

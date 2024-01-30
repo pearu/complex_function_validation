@@ -1,0 +1,132 @@
+
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+    maxj  NIIcc==========================================================================cIIN
+   4e36j  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
+   4e34j  N=c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c=N
+   4e32j  N=cccccc====================================================================ccc=c=N
+   5e30j  N=cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccccN
+   5e28j  N=cc=c=ccc================================================================cc===cc=N
+   6e26j  N=cc=cc==cc==============================================================c==ccccccN
+   6e24j  N=cc=c=c=ccc============================================================cc===cccc=N
+   7e22j  N=cc=c==c==cc==========================================================c==cc=cccc=N
+   8e20j  N=cc=c===c==cc========================================================c======c=cc=N
+   8e18j  N=cc=c====cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===ccc=cc=N
+   9e16j  N=cc=c=====cc=cc====================================================c=cccc===c=cc=N
+   1e15j  N=cc=c=====ccc=cc==================================================c=c=c===c=cccccN
+   1e13j  N=cc=c=====c=c==ccccccccccccccccccccccccccccccccccccccccccccccccccc====c=c=c=c=cc=N
+   1e11j  N=cc=c=====c==c==cc==============================================c=====c==ccccccc=N
+    1e9j  N=cc=c=====c==cc=ccccccccccccccccccccccccccccccccccccccccccccccccc==cc=c=====c=cccN
+    1e7j  N=cc=c=====c==c=cc=cc==========================================c=cc=c==c=cc==c=cc=N
+    2e5j  N=cc=c=====c==c=cc==cc========================================c===cccc=c=====c=cccN
+    2e3j  N=cc=c=====c==c=c=cc=cc======================================c=c==ccc=cc=====c=cc=N
+    2e1j  N=cc=c=====c==c=c==c=ccc====================================cc==ccccc==ccc===c=cccN
+   2e-1j  N=cc=c=====c==c=c===ccccccccccccccccccccccccccccccccccccccccccc=c=c=c==cc====c=cc=N
+   2e-3j  N=cc=c=====c==c=c====c==ccccccccccccccccccccccccccccccccccc==c=cc=ccc==c=c===c=cc=N
+   3e-5j  N=cc=c=====c==c=c====cc==cc==============================c===c====c=cc=cc===ccccc=N
+   3e-7j  N=cc=c=====c==c=c====ccccccc============================ccc=cc=c=ccccc=c=====c=cc=N
+   3e-9j  N=cc=c=====c==c=c====cc=cc=cc==========================c=cccccc==cc=c==c=====c=cc=N
+  3e-11j  N=cc=c=====c==c=c====cc==cc=cc========================c=c===ccccccc=c==c=c===c=cc=N
+  4e-13j  N=cc=c=====c==c=c====cc===c==cc======================c======ccc===c=c==c=====c=cc=N
+  4e-15j  N=cc=c=====c==c=c====cc====cc=cc====================c=c====ccc====c=c==c=====c=cc=N
+  4e-17j  N=cc=c=====c==c=c====cc=====cc=cc==================c=c====cccc==c=c=c==cc====c=cc=N
+  5e-19j  N=cc=c=====c==c=c====cc======cc=cc================c=c====ccccc====c=c==c=====c=cc=N
+  5e-21j  N=cc=c=====c==c=c====cc=======c==cc==============c====c=c=c=cc==c=c=c==c=====c=cc=N
+  6e-23j  N=cc=c=====c==c=c====cc========c==cc============c====c====c=ccc=c=c=cc=c=====c=cc=N
+  6e-25j  N=cc=c=====c==c=c====cc=========c==cc==========c====c===c=c=cc====c=c==c=====c=cc=N
+  7e-27j  N=cc=c=====c==c=c====cc==========c==cc========c==c===c=ccc==cc=c==c=c==c=====c=cc=N
+  7e-29j  N=cc=c=====c==c=c====cc===========cc=ccccccccc=c=======c====cc====c=c==c=====c=cc=N
+  8e-31j  N=cc=c=====c==c=c====cc============ccccc====ccc====c=cc=====cc====c=c==c=====c=cc=N
+  9e-33j  N=cc=c=====c==c=c====cc============ccc=ccccc=ccc===cc=c=====ccc===c=c==c=====c=cc=N
+  1e-34j  N=cc=c=====c==c=c====cc============c=cc=c=c=c==c=c==========cc====c=c==c=====c=cc=N
+  1e-36j  N=cc=c=====c==c=c====cc============c=ccc===c=c=ccc==c=======cc====c=c==c=====c=cc=N
+   tinyj  N=cc=c=====c==c=c====cc============c=c==c=c==c=c===c=c=c====cc====c=c==c=====c=cc=N
+      0j  N=cc=c=====c==c=c====cc============c=c===N===c=c============cc====c=c==c=====c=cc=N
+  -tinyj  N=cc=c=====c==c=c====cc============c=c==c=c==c=c===c=c=c====cc====c=c==c=====c=cc=N
+ -1e-36j  N=cc=c=====c==c=c====cc============c=ccc===c=c=ccc==c=======cc====c=c==c=====c=cc=N
+ -1e-34j  N=cc=c=====c==c=c====cc============c=cc=c=c=c==c=c==========cc====c=c==c=====c=cc=N
+ -9e-33j  N=cc=c=====c==c=c====cc============ccc=ccccc=ccc===cc=c=====ccc===c=c==c=====c=cc=N
+ -8e-31j  N=cc=c=====c==c=c====cc============ccccc====ccc====c=cc=====cc====c=c==c=====c=cc=N
+ -7e-29j  N=cc=c=====c==c=c====cc===========cc=ccccccccc=c=======c====cc====c=c==c=====c=cc=N
+ -7e-27j  N=cc=c=====c==c=c====cc==========c==cc========c==c===c=ccc==cc=c==c=c==c=====c=cc=N
+ -6e-25j  N=cc=c=====c==c=c====cc=========c==cc==========c====c===c=c=cc====c=c==c=====c=cc=N
+ -6e-23j  N=cc=c=====c==c=c====cc========c==cc============c====c====c=ccc=c=c=cc=c=====c=cc=N
+ -5e-21j  N=cc=c=====c==c=c====cc=======c==cc==============c====c=c=c=cc==c=c=c==c=====c=cc=N
+ -5e-19j  N=cc=c=====c==c=c====cc======cc=cc================c=c====ccccc====c=c==c=====c=cc=N
+ -4e-17j  N=cc=c=====c==c=c====cc=====cc=cc==================c=c====cccc==c=c=c==cc====c=cc=N
+ -4e-15j  N=cc=c=====c==c=c====cc====cc=cc====================c=c====ccc====c=c==c=====c=cc=N
+ -4e-13j  N=cc=c=====c==c=c====cc===c==cc======================c======ccc===c=c==c=====c=cc=N
+ -3e-11j  N=cc=c=====c==c=c====cc==cc=cc========================c=c===ccccccc=c==c=c===c=cc=N
+  -3e-9j  N=cc=c=====c==c=c====cc=cc=cc==========================c=cccccc==cc=c==c=====c=cc=N
+  -3e-7j  N=cc=c=====c==c=c====ccccccc============================ccc=cc=c=ccccc=c=====c=cc=N
+  -3e-5j  N=cc=c=====c==c=c====cc==cc==============================c===c====c=cc=cc===ccccc=N
+  -2e-3j  N=cc=c=====c==c=c====c==ccccccccccccccccccccccccccccccccccc==c=cc=ccc==c=c===c=cc=N
+  -2e-1j  N=cc=c=====c==c=c===ccccccccccccccccccccccccccccccccccccccccccc=c=c=c==cc====c=cc=N
+   -2e1j  N=cc=c=====c==c=c==c=ccc====================================cc==ccccc==ccc===c=cccN
+   -2e3j  N=cc=c=====c==c=c=cc=cc======================================c=c==ccc=cc=====c=cc=N
+   -2e5j  N=cc=c=====c==c=cc==cc========================================c===cccc=c=====c=cccN
+   -1e7j  N=cc=c=====c==c=cc=cc==========================================c=cc=c==c=cc==c=cc=N
+   -1e9j  N=cc=c=====c==cc=ccccccccccccccccccccccccccccccccccccccccccccccccc==cc=c=====c=cccN
+  -1e11j  N=cc=c=====c==c==cc==============================================c=====c==ccccccc=N
+  -1e13j  N=cc=c=====c=c==ccccccccccccccccccccccccccccccccccccccccccccccccccc====c=c=c=c=cc=N
+  -1e15j  N=cc=c=====ccc=cc==================================================c=c=c===c=cccccN
+  -9e16j  N=cc=c=====cc=cc====================================================c=cccc===c=cc=N
+  -8e18j  N=cc=c====cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===ccc=cc=N
+  -8e20j  N=cc=c===c==cc========================================================c======c=cc=N
+  -7e22j  N=cc=c==c==cc==========================================================c==cc=cccc=N
+  -6e24j  N=cc=c=c=ccc============================================================cc===cccc=N
+  -6e26j  N=cc=cc==cc==============================================================c==ccccccN
+  -5e28j  N=cc=c=ccc================================================================cc===cc=N
+  -5e30j  N=cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccccN
+  -4e32j  N=cccccc====================================================================ccc=c=N
+  -4e34j  N=c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c=N
+  -4e36j  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
+    minj  NIIcc==========================================================================cIIN
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~===c=c============cc====c=c==c=====c=cc=~
+          ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
+       -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
+
+  CPU
+  jax.numpy.log2 on complex64 plane
+  vs
+  CPU
+  numpy.log2 on complex128 plane
+
+Statistics:
+    match rate: 95.1%
+    mismatch rate: 4.9%
+
+Versions:
+    numpy 1.26.2
+    jax 0.4.24.dev20240130+66308c30a
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code I:
+       (3.4028234663852886e+38-3.4028234663852886e+38j) ->                                              (inf+nanj)                             (128.5-1.1330900192260742j)
+       (3.4028234663852886e+38+3.4028234663852886e+38j) ->                                              (inf+nanj)                             (128.5+1.1330900192260742j)
+      (-3.4028234663852886e+38-3.4028234663852886e+38j) ->                                              (inf+nanj)                             (128.5-3.3992700576782227j)
+      (-3.4028234663852886e+38+3.4028234663852886e+38j) ->                                              (inf+nanj)                             (128.5+3.3992700576782227j)
+Samples with code N:
+                            (inf-7.70639220474525e+20j) ->                                              (inf+nanj)                                                (inf-0j)
+                            (7.70639220474525e+20+infj) ->                                              (inf+nanj)                               (inf+2.2661800384521484j)
+                           (-inf-7.70639220474525e+20j) ->                                              (inf+nanj)                                (inf-4.532360076904297j)
+                           (-7.70639220474525e+20+infj) ->                                              (inf+nanj)                               (inf+2.2661800384521484j)
+                                              (-inf+0j) ->                                              (inf+nanj)                                (inf+4.532360076904297j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                               (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
+                                                   infj ->                                              (inf+nanj)                               (inf+2.2661800384521484j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                                  -infj ->                                              (inf+nanj)                               (inf-2.2661800384521484j)
+Legend:
+    <input> -> <value> <reference value>

@@ -308,7 +308,7 @@ class ReportImage:
         voffset = 1
         stats_list = []
         for index, f in enumerate(functions):
-            apply_ftz = f.apply_ftz
+            apply_ftz = f.apply_ftz(f._device)
             np_samples = ComplexPlaneSampler(f.numpy_dtype)(size_re, size_im)
             np_samples_real = np_samples.real[size_im + 1:size_im + 2]
 
@@ -462,7 +462,6 @@ class Function:
     """Base class to provider functions.
     """
 
-    apply_ftz = NotImplemented
     library_name = NotImplemented
     namsespace = NotImplemented
 
@@ -544,10 +543,13 @@ class Function:
                     result.append(f)
         return result
 
+    @classmethod
+    def apply_ftz(cls, *args, **kwargs):
+        raise NotImplementedError(cls.__name__)
+
 
 class NumpyFunction(Function):
 
-    apply_ftz = False
     library_name = 'NumPy'
     namespace = 'numpy'
 
@@ -555,7 +557,11 @@ class NumpyFunction(Function):
     def is_valid(self):
         return self._device.lower() in {'cpu', ''}
 
-
+    @classmethod
+    def apply_ftz(cls, *args, **kwargs):
+        return False
+    
+    
 class JaxNumpyFunction(Function):
 
     library_name = 'JAX'
@@ -610,14 +616,12 @@ class JaxNumpyFunction(Function):
                 return False
         return True
 
-    @property
-    def apply_ftz(self):
-        return self._device in {'cpu', ''}
-
+    @classmethod
+    def apply_ftz(cls, device):
+        return device in {'cpu', ''}
 
 class TorchFunction(Function):
 
-    apply_ftz = False
     library_name = 'PyTorch'
     namespace = 'torch'
 
@@ -637,3 +641,7 @@ class TorchFunction(Function):
         if dtype is None:
             dtype = self.numpy_dtype
         return numpy.array(data.cpu(), dtype=dtype)
+
+    @classmethod
+    def apply_ftz(cls, *args, **kwargs):
+        return False

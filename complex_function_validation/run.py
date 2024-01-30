@@ -13,6 +13,11 @@ function_names = [
 ]
 
 def main_results(array_libraries, target_dir='cfv_results', try_run=False):
+    for _, _, version in array_libraries:
+        if 'dev' in version:
+            target_dir += '_dev'
+            break
+
     os.makedirs(os.path.join(target_dir, 'data'), exist_ok=True)
     dtype_list = ['complex64', 'complex128']
     device_list = ['cpu', 'cuda']
@@ -26,7 +31,7 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
     for lname, cls in [item[:2] for item in array_libraries[1:] if item[-1] is not None]:
         for dtype in dtype_list:
             for device in device_list:
-                column_labels.append(f'{lname} {device}: {dtype}' + (' FTZ' if cls.apply_ftz else ''))
+                column_labels.append(f'{lname} {device}: {dtype}' + (' FTZ' if cls.apply_ftz(device) else ''))
 
     rows = [' | '.join([''] + column_labels + [''])]
     rows += [' | '.join(['', ':----'] + [':----:'] * (len(column_labels)-1) + [''])]
