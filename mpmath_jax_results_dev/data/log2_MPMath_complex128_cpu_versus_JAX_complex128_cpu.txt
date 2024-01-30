@@ -1,0 +1,132 @@
+
+   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+    maxj  NI=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=IN
+  3e292j  N=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=N
+  5e276j  Nc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=N
+  8e260j  Nccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccc=N
+  1e245j  Nccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc=N
+  2e229j  Ncccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cc=N
+  3e213j  Nccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===cc=N
+  5e197j  Ncccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c==cc=N
+  8e181j  Ncccccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cccc=N
+  1e166j  Ncccccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=====cc=N
+  2e150j  Nccccccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc====cc=N
+  3e134j  Nccccccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccccccc==cc=N
+  6e118j  Nccccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=ccc===cccc=N
+  9e102j  Ncccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccc=c==ccc=====cc=N
+   1e87j  Nccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccc=c===ccc=c===cc=N
+   2e71j  Ncccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccc=c=c==cccc=c=ccccN
+   4e55j  Nccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccc=c=ccc=ccc====ccc=N
+   6e39j  Ncccccccccccccccc=cccccccccccccccccccccccccccccccccccccccccccccccc==c==cccc====cccN
+   1e24j  Nccccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccc=cc=cc===ccc=cc==cc=N
+    2e8j  Ncccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccc=c=c====c=ccc=c===cc=N
+   3e-8j  Nccccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccc=cccc==c==cccc=c===cc=N
+  4e-24j  Ncccccccccccccccccccc===ccccccccccccccccccccccccccccccccccc=ccccc==cc=cccc==ccccc=N
+  7e-40j  Nccccccccccccccccccccccc=ccccccccccccccccccccccccccccccccc=cc===c=c===cccc=====cc=N
+  1e-55j  Ncccccccccccccccccccccccc=ccccccccccccccccccccccccccccccc=cc====c=ccc=cccc=c=c=cc=N
+  2e-71j  Nccccccccccccccccccccccc=c=ccccccccccccccccccccccccccccc=c===c==c==c===ccc=c===cc=N
+  3e-87j  Ncccccccccccccccccccccccc===ccccccccccccccccccccccccccc=c=====c=c=====cccc=====cc=N
+ 4e-103j  Nccccccccccccccccccccccccc=c=ccccccccccccccccccccccccc=c==c==c=ccc=====cccc====cc=N
+ 7e-119j  Ncccccccccccccccccccccccccc=c=ccccccccccccccccccccccc=cc===cc===cc==cc=ccc=====cc=N
+ 1e-134j  Nccccccccccccccccccccccccccc==cccccccccccccccccccccccc=======cc=cc=cc=cccc=====cc=N
+ 2e-150j  Ncccccccccccccccccccccccccccc=ccccccccccccccccccccccccc=========c====ccccc=====cc=N
+ 3e-166j  Nccccccccccccccccccccccccccccccc=ccccccccccccccccc=ccc====c=====c=c====ccc=====cc=N
+ 5e-182j  Nccccccccccccccccccccccccccccccc==ccccccccccccccc=c=cc==c=====c=cc==c==ccc=====cc=N
+ 8e-198j  Nccccccccccccccccccccccccccccccc=ccccccccccccccccc=cccc==c=c==c=c=c====ccc=====cc=N
+ 1e-213j  Ncccccccccccccccccccccccccccccccc=c=ccccccccccc=cc==cc==cc==cc==c=cc===ccc=====cc=N
+ 2e-229j  Ncccccccccccccccccccccccccccccccccc==ccccccccc=c=c==cc=cc==c====c=c====ccc=====cc=N
+ 3e-245j  Ncccccccccccccccccccccccccccccccccc=c=ccccccc=c==c==cc=c==c===ccc======ccc=====cc=N
+ 5e-261j  Nccccccccccccccccccccccccccccccccccc==ccccccccc=cc==cccc=c======c======ccc=====cc=N
+ 9e-277j  Ncccccccccccccccccccccccccccccccccccc==ccccccc===c==cc==========c======ccc=====cc=N
+ 1e-292j  Nccccccccccccccccccccccccccccccccccccccc=c=cccc==cc=cc===c==ccc=c======ccc=====cc=N
+   tinyj  Nccccccccccccccccccccccccccccccccccccccc=cc=cc==cc==ccc=c==c=c==c======ccc=====cc=N
+      0j  NccccccccccccccccccccccccccccccccccccccccN==cc===c==cc==========c======ccc=====cc=N
+  -tinyj  Nccccccccccccccccccccccccccccccccccccccc=cc=cc==cc==ccc=c==c=c==c======ccc=====cc=N
+-1e-292j  Ncccccccccccccccccccccccccccccccccccccccccc=cc=c=c==cc====ccc=c=c======ccc=====cc=N
+-9e-277j  Ncccccccccccccccccccccccccccccccccccc=cccccccc==cc==ccc====c====c======ccc=====cc=N
+-5e-261j  Nccccccccccccccccccccccccccccccccccc===ccccc===ccc==ccccc=====c=c======ccc=====cc=N
+-3e-245j  Ncccccccccccccccccccccccccccccccccc=c=ccccccc=c==c==cc=c==c===ccc======ccc=====cc=N
+-2e-229j  Ncccccccccccccccccccccccccccccccccc==ccccccccc==cc==cc=====cc===c=c====ccc=====cc=N
+-1e-213j  Ncccccccccccccccccccccccccccccccc==ccccccccccccc=c==cc=======c=ccc=====ccc=====cc=N
+-8e-198j  Nccccccccccccccccccccccccccccccc===ccccccccccccc===cccc==c=====ccc=====ccc=====cc=N
+-5e-182j  Nccccccccccccccccccccccccccccccc==ccccccccccccccc===ccc=c=c=c===c==c=c=ccc=====cc=N
+-3e-166j  Ncccccccccccccccccccccccccccccc=ccccccccccccccccccc=cc=======cc=c===c=cccc=====cc=N
+-2e-150j  Ncccccccccccccccccccccccccccc==ccccccccccccccccccccc=c==========ccc====ccc=====cc=N
+-1e-134j  Nccccccccccccccccccccccccccc=c=ccccccccccccccccccccc===cc===c==ccc==cccccc=====cc=N
+-7e-119j  Ncccccccccccccccccccccccccc=c=ccccccccccccccccccccccc=c=cc======c=cc=c=ccc=====cc=N
+-4e-103j  Nccccccccccccccccccccccccc===ccccccccccccccccccccccccc==c=======c=c=ccccccc====cc=N
+ -3e-87j  Ncccccccccccccccccccccccc===ccccccccccccccccccccccccccc=====c=c=c===cc=ccc=c===cc=N
+ -2e-71j  Nccccccccccccccccccccccc===ccccccccccccccccccccccccccccc=c=ccc=cc======ccc=====cc=N
+ -1e-55j  Nccccccccccccccccccccccc==ccccccccccccccccccccccccccccccc=c===c=c==c===ccc=c=c=cc=N
+ -7e-40j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=====ccc==c=cccccc=ccc=N
+ -4e-24j  Ncccccccccccccccccccc==ccccccccccccccccccccccccccccccccccccc=cc=c===c=cccc=c===cc=N
+  -3e-8j  Nccccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccc==c=c======cccc=c=ccc=N
+   -2e8j  Ncccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccc=c=c=c==c=ccc=====cccN
+  -1e24j  Nccccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccc==c=cc=c=ccc====ccc=N
+  -6e39j  Ncccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccc==cc===ccccc==c=cc=N
+  -4e55j  Nccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccc=====c=ccc=ccc=cc=N
+  -2e71j  Ncccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccc==cc=ccccc====cccN
+  -1e87j  Nccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccc===c=cccc=c==cc=N
+ -9e102j  Ncccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccccc====cccc===ccccN
+ -6e118j  Nccccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=ccccc===cccN
+ -3e134j  Nccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc====cc=N
+ -2e150j  Nccccccccc==cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=====cccN
+ -1e166j  Ncccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c=cccc=N
+ -8e181j  Ncccccccc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c===cc=N
+ -5e197j  Ncccccc==cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc=N
+ -3e213j  Nccccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c=cccN
+ -2e229j  Ncccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc====cc=N
+ -1e245j  Nccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc=N
+ -8e260j  Ncccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc=N
+ -5e276j  Nc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+ -3e292j  N===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=N
+    minj  NI=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=IN
+   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+
+real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~==cc===c==cc==========c======ccc=====cc=~
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+
+  CPU
+  jax.numpy.log2 on complex128 plane
+  vs
+  CPU
+  mpmath.log2 on complex128 plane
+
+Statistics:
+    match rate: 95.2%
+    mismatch rate: 4.8%
+
+Versions:
+    mpmath 1.3.0
+    jax 0.4.24.dev20240130+66308c30a
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code I:
+     (1.7976931348623157e+308-1.7976931348623157e+308j) ->                                              (inf+nanj)                            (1024.5-1.1330900354567985j)
+     (1.7976931348623157e+308+1.7976931348623157e+308j) ->                                              (inf+nanj)                            (1024.5+1.1330900354567985j)
+    (-1.7976931348623157e+308-1.7976931348623157e+308j) ->                                              (inf+nanj)                             (1024.5-3.399270106370395j)
+    (-1.7976931348623157e+308+1.7976931348623157e+308j) ->                                              (inf+nanj)                             (1024.5+3.399270106370395j)
+Samples with code N:
+                         (inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                                                (inf+0j)
+                         (1.3250897649820401e+166+infj) ->                                              (inf+nanj)                                (inf+2.266180070913597j)
+                        (-inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                                (inf-4.532360141827194j)
+                        (-1.3250897649822135e+166+infj) ->                                              (inf+nanj)                                (inf+2.266180070913597j)
+                                              (-inf+0j) ->                                              (inf+nanj)                                (inf+4.532360141827194j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                               (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
+                                                   infj ->                                              (inf+nanj)                                (inf+2.266180070913597j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                                  -infj ->                                              (inf+nanj)                                (inf-2.266180070913597j)
+Legend:
+    <input> -> <value> <reference value>

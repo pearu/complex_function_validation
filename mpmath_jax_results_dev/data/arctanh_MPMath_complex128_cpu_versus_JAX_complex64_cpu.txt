@@ -1,0 +1,155 @@
+
+   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+    maxj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   4e36j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   4e34j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   4e32j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   5e30j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   5e28j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   6e26j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   6e24j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   7e22j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   8e20j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   8e18j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+   9e16j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+   1e15j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+   1e13j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+   1e11j  NNNNNNNNNNNccccccccccc=======================================cccccccccccNNNNNNNNNNN
+    1e9j  NNNNNNNNNNNccccccccccccc===================================cccccccccccccNNNNNNNNNNN
+    1e7j  NNNNNNNNNNNccccccccccccccc===============================cccccccccccccccNNNNNNNNNNN
+    2e5j  NNNNNNNNNNNccccccc1cccccccccc=========================cccccccccc1cccccccNNNNNNNNNNN
+    2e3j  NNNNNNNNNNNccccccc11ccccccccccc=====================ccccccccccc11cccccccNNNNNNNNNNN
+    2e1j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
+   2e-1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
+   2e-3j  NNNNNNNNNNNcccccccccccc=ccccccccccccccccc=ccccccccccccccccc=ccccccccccccNNNNNNNNNNN
+   3e-5j  NNNNNNNNNNNccccccccccc====ccccccccccccccc=ccccccccccccccc====cccccccccccNNNNNNNNNNN
+   3e-7j  NNNNNNNNNNNccccccccccc==c====cccccccccccc=cccccccccccc====c==cccccccccccNNNNNNNNNNN
+   3e-9j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  3e-11j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  4e-13j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  4e-15j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  4e-17j  NNNNNNNNNNNccccccccccc=cc======cccccccccc=cccccccccc======cc=cccccccccccNNNNNNNNNNN
+  5e-19j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  5e-21j  NNNNNNNNNNNccccccccccc=========2222222222=2222222222=========cccccccccccNNNNNNNNNNN
+  6e-23j  NNNNNNNNNNNcccccccccccc========2444444444=4444444442========ccccccccccccNNNNNNNNNNN
+  6e-25j  NNNNNNNNNNNcccccccccccccc======2466666666=6666666642======ccccccccccccccNNNNNNNNNNN
+  7e-27j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+  7e-29j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+  8e-31j  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
+  9e-33j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+  1e-34j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+  1e-36j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+   tinyj  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
+      0j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cXXXXXXXXXXNNNNNNNNNNN
+  -tinyj  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
+ -1e-36j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+ -1e-34j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+ -9e-33j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+ -8e-31j  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
+ -7e-29j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+ -7e-27j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
+ -6e-25j  NNNNNNNNNNNcccccccccccccc======2466666666=6666666642======ccccccccccccccNNNNNNNNNNN
+ -6e-23j  NNNNNNNNNNNcccccccccccc========2444444444=4444444442========ccccccccccccNNNNNNNNNNN
+ -5e-21j  NNNNNNNNNNNccccccccccc=========2222222222=2222222222=========cccccccccccNNNNNNNNNNN
+ -5e-19j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+ -4e-17j  NNNNNNNNNNNccccccccccc=cc======cccccccccc=cccccccccc======cc=cccccccccccNNNNNNNNNNN
+ -4e-15j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+ -4e-13j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+ -3e-11j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  -3e-9j  NNNNNNNNNNNccccccccccc=========cccccccccc=cccccccccc=========cccccccccccNNNNNNNNNNN
+  -3e-7j  NNNNNNNNNNNccccccccccc==c====cccccccccccc=cccccccccccc====c==cccccccccccNNNNNNNNNNN
+  -3e-5j  NNNNNNNNNNNccccccccccc====ccccccccccccccc=ccccccccccccccc====cccccccccccNNNNNNNNNNN
+  -2e-3j  NNNNNNNNNNNcccccccccccc=ccccccccccccccccc=ccccccccccccccccc=ccccccccccccNNNNNNNNNNN
+  -2e-1j  NNNNNNNNNNNcccccccccccccccccccccccccccccc=ccccccccccccccccccccccccccccccNNNNNNNNNNN
+   -2e1j  NNNNNNNNNNNcccccccccccccccccccccc=================ccccccccccccccccccccccNNNNNNNNNNN
+   -2e3j  NNNNNNNNNNNccccccc11ccccccccccc=====================ccccccccccc11cccccccNNNNNNNNNNN
+   -2e5j  NNNNNNNNNNNccccccc1cccccccccc=========================cccccccccc1cccccccNNNNNNNNNNN
+   -1e7j  NNNNNNNNNNNccccccccccccccc===============================cccccccccccccccNNNNNNNNNNN
+   -1e9j  NNNNNNNNNNNccccccccccccc===================================cccccccccccccNNNNNNNNNNN
+  -1e11j  NNNNNNNNNNNccccccccccc=======================================cccccccccccNNNNNNNNNNN
+  -1e13j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+  -1e15j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+  -9e16j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+  -8e18j  NNNNNNNNNNNcccccccccc=========================================ccccccccccNNNNNNNNNNN
+  -8e20j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -7e22j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -6e24j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -6e26j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -5e28j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -5e30j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -4e32j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -4e34j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  -4e36j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+    minj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+
+real line:NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNNN
+          ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
+       -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
+
+  CPU
+  jax.numpy.arctanh on complex64 plane
+  vs
+  CPU
+  mpmath.arctanh on complex128 plane
+
+Statistics:
+    match rate: 47.7%
+    inaccuracies rate: 3.2%
+    mismatch rate: 49.1%
+
+Versions:
+    mpmath 1.3.0
+    jax 0.4.24.dev20240130+66308c30a
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code X:
+         (8.951185239368264e-33-8.951185239368264e-33j) ->          (8.951185239368264e-33-8.951185239368264e-33j)         (1.2924697071141057e-26-8.951185239368264e-33j)
+         (8.951185239368264e-33+8.951185239368264e-33j) ->          (8.951185239368264e-33+8.951185239368264e-33j)         (1.2924697071141057e-26+8.951185239368264e-33j)
+        (-8.951185239368264e-33-8.951185239368264e-33j) ->         (-8.951185239368264e-33-8.951185239368264e-33j)        (-1.2924697071141057e-26-8.951185239368264e-33j)
+        (-8.951185239368264e-33+8.951185239368264e-33j) ->         (-8.951185239368264e-33+8.951185239368264e-33j)        (-1.2924697071141057e-26+8.951185239368264e-33j)
+                            (-8.951185239368264e-33+0j) ->                             (-8.951185239368264e-33+0j)                            (-1.2924697071141057e-26+0j)
+                             (8.951185239368264e-33+0j) ->                              (8.951185239368264e-33+0j)                             (1.2924697071141057e-26+0j)
+                                        (1328997888+0j) ->                                     1.5707963705062866j             (7.524466605346447e-10-1.5707963705062866j)
+Samples with code N:
+                 (7.70639220474525e+20-11082385063936j) ->                                              (nan+nanj)            (1.2978463810957004e-21-1.5707963705062866j)
+                 (11082385063936+7.70639220474525e+20j) ->                                              (nan+nanj)                                     1.5707963705062866j
+                (-7.70639220474525e+20-11082385063936j) ->                                              (nan+nanj)           (-1.2978463810957004e-21-1.5707963705062866j)
+                (-11082385063936+7.70639220474525e+20j) ->                                              (nan+nanj)                                     1.5707963705062866j
+                            (-4.893543125372159e+30+0j) ->                                              (nan+nanj)                                     1.5707963705062866j
+                             (4.893543125372159e+30+0j) ->                                              (nan+nanj)                                    -1.5707963705062866j
+                                 4.893543125372159e+30j ->                                              (nan+nanj)                                     1.5707963705062866j
+                                -4.893543125372159e+30j ->                                              (nan+nanj)                                    -1.5707963705062866j
+Samples with code 2:
+         (5.190477564413554e-21-6.816225066528061e-27j) ->          (5.190477564413554e-21-6.816225066528061e-27j)          (5.190467870890751e-21-6.816225066528061e-27j)
+         (6.224412802375833e-25+5.190477564413554e-21j) ->          (6.224412802375833e-25+5.190477564413554e-21j)          (6.333101564859118e-25+5.190477564413554e-21j)
+        (-5.190477564413554e-21-6.224412802375833e-25j) ->         (-5.190477564413554e-21-6.224412802375833e-25j)         (-5.190467870890751e-21-6.224412802375833e-25j)
+        (-6.224412802375833e-25+5.190477564413554e-21j) ->         (-6.224412802375833e-25+5.190477564413554e-21j)         (-6.333101564859118e-25+5.190477564413554e-21j)
+                            (-5.190477564413554e-21+0j) ->                             (-5.190477564413554e-21+0j)                             (-5.190467870890751e-21+0j)
+                             (5.190477564413554e-21+0j) ->                              (5.190477564413554e-21+0j)                              (5.190467870890751e-21+0j)
+Samples with code 4:
+         (5.683983898010026e-23-6.816225066528061e-27j) ->          (5.683983898010026e-23-6.816225066528061e-27j)          (5.682989302180723e-23-6.816225066528061e-27j)
+         (6.816225066528061e-27+5.683983898010026e-23j) ->          (6.816225066528061e-27+5.683983898010026e-23j)         (1.2924697071141057e-26+5.683983898010026e-23j)
+        (-5.683983898010026e-23-6.816225066528061e-27j) ->         (-5.683983898010026e-23-6.816225066528061e-27j)         (-5.682989302180723e-23-6.816225066528061e-27j)
+        (-6.816225066528061e-27+5.683983898010026e-23j) ->         (-6.816225066528061e-27+5.683983898010026e-23j)        (-1.2924697071141057e-26+5.683983898010026e-23j)
+                            (-5.683983898010026e-23+0j) ->                             (-5.683983898010026e-23+0j)                             (-5.682989302180723e-23+0j)
+                             (5.683983898010026e-23+0j) ->                              (5.683983898010026e-23+0j)                              (5.682989302180723e-23+0j)
+Samples with code 6:
+         (6.224412802375833e-25-7.464306222455951e-29j) ->          (6.224412802375833e-25-7.464306222455951e-29j)          (6.333101564859118e-25-7.464306222455951e-29j)
+         (6.224412802375833e-25+7.464306222455951e-29j) ->          (6.224412802375833e-25+7.464306222455951e-29j)          (6.333101564859118e-25+7.464306222455951e-29j)
+        (-7.464306222455951e-29-6.224412802375833e-25j) ->         (-7.464306222455951e-29-6.224412802375833e-25j)        (-1.2924697071141057e-26-6.224412802375833e-25j)
+        (-7.464306222455951e-29+6.224412802375833e-25j) ->         (-7.464306222455951e-29+6.224412802375833e-25j)        (-1.2924697071141057e-26+6.224412802375833e-25j)
+                            (-6.224412802375833e-25+0j) ->                             (-6.224412802375833e-25+0j)                             (-6.333101564859118e-25+0j)
+                             (6.224412802375833e-25+0j) ->                              (6.224412802375833e-25+0j)                              (6.333101564859118e-25+0j)
+Legend:
+    <input> -> <value> <reference value>

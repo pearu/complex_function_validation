@@ -12,12 +12,17 @@ say, `sqrt`, `archsin`, etc. Array libraries typically support such
 functions for array inputs having dtypes `complex64` and `complex128`
 as a minimum.
 
-In the following we use NumPy functions with dtype `complex128` as
-reference functions that are assumed to produce correct values to all
-possible inputs defined in a `complex` plane (`complex` can be either
-`complex64` or `complex128`). The `complex` plane is a grid of complex
-numbers that density is defined by the numerical characteristics of
-the corresponding floating-point numbers (`float32` or `float64`).
+We use MPMath as a reference library of functions that is assumed to
+produce correct values to all possible inputs defined in a `complex`
+plane (`complex` can be either `complex64` or `complex128`). The
+`complex` plane is a grid of complex numbers that density is defined
+by the numerical characteristics of the corresponding floating-point
+numbers (`float32` or `float64`).
+
+When MPMath is not available, we'll fallback to using NumPy functions
+with dtype `complex128` as reference functions but be aware that not
+all functions in NumPy produce correct results on arguments with small
+absolute values of arguments.
 
 To test a particular implementation of a complex function defined on a
 `complex64` plane, we generate a grid of complex numbers that real and
@@ -160,6 +165,9 @@ Statistics:                                  Statistics:                        
 that demonstrates that different array libraries use different algorithms for evaluating complex functions.
 
 # Results
+
+- [MPMath vs JAX-dev](mpmath_jax_results_dev/)
+- [MPMath vs NumPy](mpmath_numpy_results/)
 
 - [NumPy vs JAX](numpy_jax_results/)
 - [NumPy vs JAX-dev](numpy_jax_results_dev/)

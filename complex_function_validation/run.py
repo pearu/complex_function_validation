@@ -1,7 +1,16 @@
 import os
 import numpy
 import complex_function_validation as cfv
+try:
+    import mpmath
+except ImportError:
+    mpmath = None
 
+try:
+    import torch
+except ImportError:
+    torch = None
+    
 function_names = [
     'exp', 'log', 'log10', 'log2', 'log1p',
     'sqrt', 'square',
@@ -14,10 +23,9 @@ function_names = [
 
 def main_results(array_libraries, target_dir='cfv_results', try_run=False):
     for _, _, version in array_libraries:
-        if 'dev' in version:
+        if version is not None and 'dev' in version:
             target_dir += '_dev'
             break
-
     os.makedirs(os.path.join(target_dir, 'data'), exist_ok=True)
     dtype_list = ['complex64', 'complex128']
     device_list = ['cpu', 'cuda']
@@ -36,8 +44,10 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
     rows = [' | '.join([''] + column_labels + [''])]
     rows += [' | '.join(['', ':----'] + [':----:'] * (len(column_labels)-1) + [''])]
     for index, fname in enumerate(function_names):
-
-        ref = cfv.NumpyFunction(fname, 'complex128')
+        if mpmath is not None:
+            ref = cfv.MPMathFunction(fname, 'complex128')
+        else:
+            ref = cfv.NumpyFunction(fname, 'complex128')
         functions = [cfv.NumpyFunction(fname, 'complex64')]
 
         for cls in [item[1] for item in array_libraries[1:] if item[-1] is not None]:
@@ -117,17 +127,28 @@ Reference library and dtype: {ref.library_name}, {ref._dtype}
         print(f'Created {fn}')
 
 if __name__ == '__main__':
+    libs = dict(
+        mpmath=('MPMath', cfv.MPMathFunction, cfv.MPMathFunction.get_module_version()),
+        numpy=('NumPy', cfv.NumpyFunction, cfv.NumpyFunction.get_module_version()),
+        jax=('JAX', cfv.JaxNumpyFunction, cfv.JaxNumpyFunction.get_module_version()),
+        torch=('PyTorch', cfv.TorchFunction, cfv.TorchFunction.get_module_version()),
+    )
 
-    array_libraries = [
-        ('NumPy', cfv.NumpyFunction, cfv.NumpyFunction.get_module_version()),
-        ('JAX', cfv.JaxNumpyFunction, cfv.JaxNumpyFunction.get_module_version()),
-        ('PyTorch', cfv.TorchFunction, cfv.TorchFunction.get_module_version()),
-    ]
-
+    if mpmath is not None:
+        reflib = 'mpmath'
+    else:
+        reflib = 'numpy'
+    
     import warnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        main_results(array_libraries[:2], target_dir='numpy_jax_results')
-        main_results(array_libraries[::2], target_dir='numpy_torch_results')
-        main_results(array_libraries, target_dir='numpy_jax_torch_results')
+        main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
+        if torch is not None:
+            main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')
+        if mpmath is not None:
+            main_results([libs[reflib], libs['numpy']], target_dir=f'{reflib}_numpy_results')
+
+        #main_results(array_libraries[1:2], target_dir='numpy_jax_results')
+        #main_results(array_libraries[1::2], target_dir='numpy_torch_results')
+        #main_results(array_libraries[1:], target_dir='numpy_jax_torch_results')
 

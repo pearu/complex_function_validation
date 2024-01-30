@@ -1,0 +1,124 @@
+
+   +infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    maxj  Xc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c~
+  3e292j  X=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=~
+  5e276j  Xc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==~
+  8e260j  Xcc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===~
+  1e245j  Xccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cc~
+  2e229j  Xcccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc==~
+  3e213j  Xcccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c====~
+  5e197j  Xcccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccc=cc==~
+  8e181j  Xccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c=c===c~
+  1e166j  Xcccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cc=====~
+  2e150j  Xccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cc==c===~
+  3e134j  Xcccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=ccc====c=~
+  6e118j  Xccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cccc===c==~
+  9e102j  Xcccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=cc=cc=ccc=c~
+   1e87j  Xccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccccccc=c=======c==c=c=~
+   2e71j  Xcccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccc=c=c======c==cc=c~
+   4e55j  Xccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccccc=c=c=c=====c=c====~
+   6e39j  Xcccccccccccccccc===ccccccccccccccccccccccccccccccccccccccccccc=c===c=c===cc==c=c=~
+   1e24j  Xccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccc=c==c==c=====c=c====~
+    2e8j  Xcccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccc=c=cc=========c=cc==c~
+   3e-8j  Xccccccccccccccccccc===ccccccccccccccccccccccccccccccccccccc=c=cc=c===c=c==cccc=c=~
+  4e-24j  Xccccccccccccccccccccc==ccccccccccccccccccccccccccccccccccc=c=cc==c====c=c=c==c===~
+  7e-40j  Xccccccccccccccccccccc==cccccccccccccccccccccccccccccccccccc===============cc=====~
+  1e-55j  Xcccccccccccccccccccccc===ccccccccccccccccccccccccccccccc=cc====c======c=c=ccc====~
+  2e-71j  Xccccccccccccccccccccccc===ccccccccccccccccccccccccccccc=ccc=c======c====cccc=====~
+  3e-87j  Xcccccccccccccccccccccccc=c=ccccccccccccccccccccccccccc=c=cc=c========cc===c======~
+ 4e-103j  Xccccccccccccccccccccccccc===ccccccccccccccccccccccccc=ccccc=====c==c=c=c=cc======~
+ 7e-119j  Xcccccccccccccccccccccccccc=c=ccccccccccccccccccccccc=c====c=====c=cc===c==c======~
+ 1e-134j  Xccccccccccccccccccccccccccc===ccccccccccccccccccccc=c===c=c=====c=cccc====c======~
+ 2e-150j  Xcccccccccccccccccccccccccccc=c=ccccccccccccccccccc=ccc=c==c===============c======~
+ 3e-166j  Xccccccccccccccccccccccccccccc=c=ccccccccccccccccc=c=c=cc==c====c=c=cc=====c======~
+ 5e-182j  Xcccccccccccccccccccccccccccccc===ccccccccccccccc=cccc=c===c=cc============c======~
+ 8e-198j  Xccccccccccccccccccccccccccccccc==cccccccccccccccc=c=c=====cc=c=c==c=======c======~
+ 1e-213j  Xcccccccccccccccccccccccccccccccc=c=ccccccccccc=cc=cc======c=c===c=c=======c======~
+ 2e-229j  Xccccccccccccccccccccccccccccccccc=ccccccccccccccc=========c===============c======~
+ 3e-245j  Xcccccccccccccccccccccccccccccccccc=c=ccccccc=cc=c=====c===c==c============c======~
+ 5e-261j  Xccccccccccccccccccccccccccccccccccc=c=ccccc=c=cccc======cccc===c==========c======~
+ 9e-277j  Xcccccccccccccccccccccccccccccccccccc=c=ccc=cc=ccc====cc===c==cc===========c======~
+ 1e-292j  Xccccccccccccccccccccccccccccccccccccc===c=ccc=c=c=========cc=c============c======~
+   tinyj  Xcccccccccccccccccccccccccccccccccccccccccc=cc=ccc=c===c===c===============c======~
+      0j  Xcccccccccccccccccccccccccccccccccccccccc~=====c=c=========c===============c======~
+  -tinyj  Xcccccccccccccccccccccccccccccccccccccccccc=cc=ccc=c===c===c===============c======~
+-1e-292j  Xccccccccccccccccccccccccccccccccccccc=cccc====c=c========ccc=c============c======~
+-9e-277j  Xcccccccccccccccccccccccccccccccccccc=c=ccc====ccc====c==c=c===c===========c======~
+-5e-261j  Xccccccccccccccccccccccccccccccccccc=c=ccccc=c=c=c=====c==ccc=c============c======~
+-3e-245j  Xcccccccccccccccccccccccccccccccccc=c=ccccccc=cc=c=====c===c==c============c======~
+-2e-229j  Xccccccccccccccccccccccccccccccccc=c=ccccccccc===c=c=c=====c==c==cc========c======~
+-1e-213j  Xcccccccccccccccccccccccccccccccc=c=ccccccccccc=ccc=c======c===============c======~
+-8e-198j  Xccccccccccccccccccccccccccccccc=c=ccccccccccccc=====c====cc==c=c==c=======c======~
+-5e-182j  Xcccccccccccccccccccccccccccccc=c=ccccccccccccccc==cccc=c==c==c======c=====c======~
+-3e-166j  Xccccccccccccccccccccccccccccc=c=ccccccccccccccccc=c=======cc=====c========c======~
+-2e-150j  Xcccccccccccccccccccccccccccc=c=ccccccccccccccccccc=c=c==c=c=========c=====c======~
+-1e-134j  Xccccccccccccccccccccccccccc=c=ccccccccccccccccccccc====c==c===cccc========c======~
+-7e-119j  Xcccccccccccccccccccccccccc=c=ccccccccccccccccccccccc=ccc==c==c=cc=========c======~
+-4e-103j  Xccccccccccccccccccccccccc=c=ccccccccccccccccccccccccc=====c=====c======c=cc======~
+ -3e-87j  Xcccccccccccccccccccccccc=c=ccccccccccccccccccccccccccc===ccc============c=c======~
+ -2e-71j  Xccccccccccccccccccccccc=c=ccccccccccccccccccccccccccccc===c=c==========cc=c======~
+ -1e-55j  Xcccccccccccccccccccccc=c=ccccccccccccccccccccccccccccccc==c==c===c==c===c=c======~
+ -7e-40j  Xccccccccccccccccccccc=c=ccccccccccccccccccccccccccccccccc==ccc=====c==c==cc=c====~
+ -4e-24j  Xcccccccccccccccccccccc=ccccccccccccccccccccccccccccccccccc=c=======c=c=cc=c=c=c==~
+  -3e-8j  Xccccccccccccccccccc=cccccccccccccccccccccccccccccccccccccccc===cc=======c=ccc====~
+   -2e8j  Xcccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccc=c=c=c========cc====c~
+  -1e24j  Xccccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccc=c=c=c=c===c=c==c===~
+  -6e39j  Xcccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccc===c===c===cc=ccc=c~
+  -4e55j  Xccccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccc==cc=c=====c==c===~
+  -2e71j  Xcccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccc===c=cc===c=====c~
+  -1e87j  Xccccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccc=ccccc===cc==c==~
+ -9e102j  Xcccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccc=======cc======~
+ -6e118j  Xccccccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c===c===c==~
+ -3e134j  Xcccccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccc====ccc======~
+ -2e150j  Xccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c==c===~
+ -1e166j  Xcccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===ccc=====~
+ -8e181j  Xccccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c====c=~
+ -5e197j  Xcccccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccccc===~
+ -3e213j  Xccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc===c=c==~
+ -2e229j  Xcccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=====~
+ -1e245j  Xccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c==cc~
+ -8e260j  Xcc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=c=~
+ -5e276j  Xc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc====~
+ -3e292j  X=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=~
+    minj  Xc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c~
+   -infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~========================================~
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+
+  CPU
+  numpy.log10 on complex128 plane
+  vs
+  CPU
+  mpmath.log10 on complex128 plane
+
+Statistics:
+    match rate: 96.4%
+    mismatch rate: 3.6%
+
+Versions:
+    mpmath 1.3.0
+    numpy 1.26.2
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code X:
+                              (157499196.83964846-infj) ->                               (inf-0.6821881769209206j)                               (inf-0.6821881769209207j)
+                              (157499196.83964846+infj) ->                               (inf+0.6821881769209206j)                               (inf+0.6821881769209207j)
+                        (-inf-1.3250897649822135e+166j) ->                               (inf-1.3643763538418412j)                               (inf-1.3643763538418414j)
+                        (-1.3250897649822135e+166+infj) ->                               (inf+0.6821881769209206j)                               (inf+0.6821881769209207j)
+                                              (-inf+0j) ->                               (inf+1.3643763538418412j)                               (inf+1.3643763538418414j)
+                                                   infj ->                               (inf+0.6821881769209206j)                               (inf+0.6821881769209207j)
+                                                  -infj ->                               (inf-0.6821881769209206j)                               (inf-0.6821881769209207j)
+Legend:
+    <input> -> <value> <reference value>

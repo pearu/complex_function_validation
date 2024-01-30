@@ -90,7 +90,7 @@ def ftz(value):
     """Flush subnormals to zero.
     """
     tiny = numpy.finfo(value.dtype).tiny
-    float_dtype = {8: numpy.float32, 16: numpy.float64}[value.dtype.itemsize]
+    float_dtype = {8: numpy.float32, 16: numpy.float64, 32: numpy.float128}[value.dtype.itemsize]
     view = value.reshape((1,)).view(float_dtype)
     re = view[0]
     im = view[1]
@@ -463,14 +463,16 @@ class Function:
     """
 
     library_name = NotImplemented
-    namsespace = NotImplemented
+    namespace = NotImplemented
+    array_namespace = NotImplemented
 
     def __init__(self, name, dtype, device=''):
         self._name = name
         self._dtype = dtype
-        self._real_dtype = dict(complex64='float32', complex128='float64')[dtype]
+        self._real_dtype = dict(complex64='float32', complex128='float64', complex256='float64')[dtype]
         self._device = device or 'cpu'
         self._module = None
+        self._array_module = None
 
     @classmethod
     def get_module_version(cls):
@@ -486,6 +488,13 @@ class Function:
         except ImportError:
             pass
 
+    @classmethod
+    def get_array_module(cls):
+        try:
+            return importlib.import_module(cls.array_namespace)
+        except ImportError:
+            pass
+
     @property
     def is_valid(self):
         return True
@@ -497,16 +506,22 @@ class Function:
         return self._module
 
     @property
+    def array_module(self):
+        if self._array_module is None:
+            self._array_module = self.get_array_module()
+        return self._array_module
+
+    @property
     def title(self):
         return f'{self._device.upper()}\n{self.namespace}.{self._name} on {self._dtype} plane'.strip()
 
     @property
     def dtype(self):
-        return getattr(self.module, self._dtype)
+        return getattr(self.array_module, self._dtype)
 
     @property
     def real_dtype(self):
-        return getattr(self.module, self._real_dtype)
+        return getattr(self.array_module, self._real_dtype)
 
     @property
     def numpy_dtype(self):
@@ -519,7 +534,7 @@ class Function:
     def from_numpy(self, data, dtype=None):
         if dtype is None:
             dtype = self.dtype
-        return self.module.array(data, dtype=dtype)
+        return self.array_module.array(data, dtype=dtype)
 
     def to_numpy(self, data, dtype=None):
         if dtype is None:
@@ -552,6 +567,7 @@ class NumpyFunction(Function):
 
     library_name = 'NumPy'
     namespace = 'numpy'
+    array_namespace = 'numpy'
 
     @property
     def is_valid(self):
@@ -566,6 +582,7 @@ class JaxNumpyFunction(Function):
 
     library_name = 'JAX'
     namespace = 'jax.numpy'
+    array_namespace = 'jax.numpy'
 
     @classmethod
     def get_module_version(cls):
@@ -624,6 +641,7 @@ class TorchFunction(Function):
 
     library_name = 'PyTorch'
     namespace = 'torch'
+    array_namespace = 'torch'
 
     @property
     def is_valid(self):
@@ -645,3 +663,42 @@ class TorchFunction(Function):
     @classmethod
     def apply_ftz(cls, *args, **kwargs):
         return False
+
+
+class MPMathFunction(Function):
+    library_name = 'MPMath'
+    namespace = 'mpmath'
+    array_namespace = 'numpy'
+
+    @property
+    def is_valid(self):
+        return self._device.lower() in {'cpu', ''}
+
+    @classmethod
+    def apply_ftz(cls, *args, **kwargs):
+        return False
+
+    @property
+    def context(self):
+        import mpmath
+        precision = dict(float128=36, float64=18, float32=9)[self._real_dtype] + 2
+        return mpmath.workdps(precision)
+
+    def __call__(self, *args):
+        if self._name == 'log2':
+            f = numpy.vectorize(getattr(self.module, 'log'))
+            args = args + (2,)
+        elif self._name == 'square':
+            f = numpy.vectorize(getattr(self.module, 'power'))
+            args = args + (2,)
+        else:
+            name = dict(arcsin='asin',
+                        arccos='acos',
+                        arctan='atan',
+                        arcsinh='asinh',
+                        arccosh='acosh',
+                        arctanh='atanh',
+                        ).get(self._name, self._name)
+            f = numpy.vectorize(getattr(self.module, name))
+        r = f(*args)
+        return r
