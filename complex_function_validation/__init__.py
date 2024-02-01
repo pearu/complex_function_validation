@@ -758,7 +758,11 @@ class MPMathFunction(Function):
             elif name == 'cos':
                 #  cos(z) = cosh(j * z)
                 # j * (re, im) = (-im, re)
-                re, im = {'+x': '-x', '-x': '+x', '+inf': '-inf', '-inf': '+inf'}.get(im, im), re
+                nim = {'+x': '-x', '-x': '+x', '+inf': '-inf', '-inf': '+inf'}.get(im)
+                if nim is None:
+                    assert im in {'nan', '0'}, im
+                    nim = im
+                re, im = nim, re
                 r = special_cases.cosh[re, im]
                 r = [eval({'+-inf': 'nan'}.get(r_, r_), dict(pi=mpmath.pi, inf=mpmath.inf, nan=mpmath.nan,
                                                              sin=mpmath.sin, cos=mpmath.cos, im=x.real)) for r_ in r]
