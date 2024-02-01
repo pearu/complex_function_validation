@@ -598,6 +598,8 @@ class JaxNumpyFunction(Function):
     namespace = 'jax.numpy'
     array_namespace = 'jax.numpy'
 
+    _jax_module = None
+    
     @classmethod
     def get_module_version(cls):
         module = cls.get_module()
@@ -607,8 +609,10 @@ class JaxNumpyFunction(Function):
 
     @classmethod
     def get_module(cls):
+        if cls._jax_module is not None:
+            return cls._jax_module
         import os
-        os.environ['XLA_PYTHON_CLIENT_MEM_FRACTION'] = '10'
+        os.environ['XLA_PYTHON_CLIENT_MEM_FRACTION'] = '8'
         try:
             module = importlib.import_module(cls.namespace)
         except ImportError:
@@ -628,6 +632,7 @@ class JaxNumpyFunction(Function):
                 jax.devices('cuda')
             except Exception:
                 pass
+        cls._jax_module = module
         return module
 
     @property

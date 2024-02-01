@@ -291,13 +291,13 @@ exp = {
     ('+inf', '-inf'): ('+-inf', 'nan'),      # exp(inf-infj) = conj(exp(inf+infj)) = (+-inf, nan)
     ('+inf', '0'): ('+inf', '+0'),
     ('+inf', '+x'): ('+inf * cos(im)', '+inf * sin(im)'),
-    ('+inf', '-x'): ('+inf * cos(-im)', '+inf * sin(-im)'),
+    ('+inf', '-x'): ('+inf * cos(im)', '+inf * sin(im)'),
     ('-inf', 'nan'): ('+-0', '+-0'),
     ('-inf', '-inf'): ('+-0', '+-0'),        # exp(-inf-infj) = conj(exp(-inf+infj)) = (+-0, +-0)
     ('-inf', '+inf'): ('+-0', '+-0'),
     ('-inf', '0'): ('+0 * cos(im)', '+0 * sin(im)'),
     ('-inf', '+x'): ('+0 * cos(im)', '+0 * sin(im)'),
-    ('-inf', '-x'): ('+0 * cos(-im)', '-0 * sin(-im)'),
+    ('-inf', '-x'): ('+0 * cos(im)', '-0 * sin(im)'),
     ('0', '0'): ('1', '+0'),
     ('0', 'nan'): ('nan', 'nan'),            # and domain error
     ('0', '+inf'): ('nan', 'nan'),           # and domain error
