@@ -20,7 +20,7 @@ Reference library and dtype: MPMath, complex128
  | log1p | POOR [56/0/44 %](data/log1p_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | POOR [57/0/43 %](data/log1p_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
  | sqrt | GOOD [99/1/0 %](data/sqrt_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | GOOD [100/0/0 %](data/sqrt_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
  | square | GOOD [96/0/3 %](data/square_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | GOOD [97/0/3 %](data/square_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
- | sin | POOR [83/7/10 %](data/sin_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | POOR [85/3/12 %](data/sin_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
+ | sin | POOR [83/7/10 %](data/sin_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | POOR [86/3/11 %](data/sin_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
  | cos | GOOD [99/1/0 %](data/cos_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | GOOD [99/0/0 %](data/cos_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
  | tan | BAD [34/9/57 %](data/tan_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | BAD [35/4/61 %](data/tan_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 
  | arcsin | BAD [12/15/73 %](data/arcsin_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | N/A | BAD [22/5/73 %](data/arcsin_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | N/A | 

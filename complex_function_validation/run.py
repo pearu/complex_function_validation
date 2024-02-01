@@ -6,11 +6,6 @@ try:
 except ImportError:
     mpmath = None
 
-try:
-    import torch
-except ImportError:
-    torch = None
-    
 function_names = [
     'exp', 'log', 'log10', 'log2', 'log1p',
     'sqrt', 'square',
@@ -88,7 +83,9 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
             inaccuracies_rating = 100 * stats['inaccuracies'] / stats['total']
             mismatches_rating = 100 * stats['mismatches'] / stats['total']
 
-            if matches_rating == 100:
+            if matches_rating == 100 and stats['inaccuracies']==0 and stats['mismatches'] == 0:
+                rating = 'PERFECT'
+            elif matches_rating == 100:
                 rating = 'OK'
             elif matches_rating > 90:
                 rating = 'GOOD'
@@ -143,9 +140,9 @@ if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
-        if torch is not None:
+        if cfv.TorchFunction.get_module_version() is not None:
             main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')
-        if mpmath is not None:
+        if cfv.MPMathFunction.get_module_version() is not None:
             main_results([libs[reflib], libs['numpy']], target_dir=f'{reflib}_numpy_results')
 
         #main_results(array_libraries[1:2], target_dir='numpy_jax_results')

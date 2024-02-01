@@ -1,87 +1,87 @@
 
-   +infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    maxj  X=================================================================================X
-   4e36j  X==c===========================================================================c==X
-   4e34j  X=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=X
-   4e32j  X==c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==X
-   5e30j  X==cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==X
-   5e28j  X==cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc==X
-   6e26j  X==cccc=c=================================================================c=cccc==X
-   6e24j  X==ccccc=c===============================================================c=ccccc==X
-   7e22j  X==cccc=c=c=============================================================c=c=cccc==X
-   8e20j  X==cccc==c=c===========================================================c=c==cccc==X
-   8e18j  X==cccc===c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===cccc==X
-   9e16j  X==cccc====c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c====cccc==X
-   1e15j  X==cccc====cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc====cccc==X
-   1e13j  X==cccc====ccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc==ccc====cccc==X
-   1e11j  X==cccc====cccc=====================================================cccc====cccc==X
-    1e9j  X==cccc====ccccccc===============================================ccccccc====cccc==X
-    1e7j  X==cccc====cccc=ccc=============================================ccc=cccc====cccc==X
-    2e5j  X==cccc====cccc==c=c===========================================c=c==cccc====cccc==X
-    2e3j  X==cccc====cccc===c=c=cc=cc=cc=c==cc==c=====c==cc==c=cc=cc=cc=c=c===cccc====cccc==X
-    2e1j  X==cccc====cccc====cc=c=c=c=cc=c==c==c=======c==c==c=cc=c=c=c=cc====cccc====cccc==X
-   2e-1j  X==cccc====cccc=====ccc=================c=c=================ccc=====cccc====cccc==X
-   2e-3j  X==cccc====cccc=====cc======c=========================c======cc=====cccc====cccc==X
-   3e-5j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
-   3e-7j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
-   3e-9j  X==cccc====cccc=====================================================cccc====cccc==X
-  3e-11j  X==cccc====cccc=====================================================cccc====cccc==X
-  4e-13j  X==cccc====cccc=====================================================cccc====cccc==X
-  4e-15j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
-  4e-17j  X==cccc====cccc=====================================================cccc====cccc==X
-  5e-19j  X==cccc====cccc======ccccccccc22222222222222222222222ccccccccc======cccc====cccc==X
-  5e-21j  X==cccc====cccc======ccccccccc24444444444444444444442ccccccccc======cccc====cccc==X
-  6e-23j  X==cccc====cccc======ccccccccc24666666666666666666642ccccccccc======cccc====cccc==X
-  6e-25j  X==cccc====cccc======ccccccccc246XXXXXXXXXXXXXXXXX642ccccccccc======cccc====cccc==X
-  7e-27j  X==cccc====cccc======cccccccccc246XXXXXXXXXXXXXXX642cccccccccc======cccc====cccc==X
-  7e-29j  X==cccc====cccc======ccccccccccc246XXXXXXXXXXXXX642ccccccccccc======cccc====cccc==X
-  8e-31j  X==cccc====cccc======cccccccccccc246XXXXXXXXXXX642cccccccccccc======cccc====cccc==X
-  9e-33j  X==cccc====cccc======ccccccccccccc246XXXXXXXXX642ccccccccccccc======cccc====cccc==X
-  1e-34j  X==cccc====cccc======cccccccccccccc246XXXXXXX642cccccccccccccc======cccc====cccc==X
-  1e-36j  X==cccc====cccc======ccccccccccccccc246XXXXX642ccccccccccccccc======cccc====cccc==X
-   tinyj  X==cccc====cccc======cccccccccccccccc246XXX642cccccccccccccccc======cccc====cccc==X
+   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    maxj  ~=================================================================================~
+   4e36j  ~==c===========================================================================c==~
+   4e34j  ~=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=~
+   4e32j  ~==c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==~
+   5e30j  ~==cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==~
+   5e28j  ~==cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc==~
+   6e26j  ~==cccc=c=================================================================c=cccc==~
+   6e24j  ~==ccccc=c===============================================================c=ccccc==~
+   7e22j  ~==cccc=c=c=============================================================c=c=cccc==~
+   8e20j  ~==cccc==c=c===========================================================c=c==cccc==~
+   8e18j  ~==cccc===c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===cccc==~
+   9e16j  ~==cccc====c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c====cccc==~
+   1e15j  ~==cccc====cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc====cccc==~
+   1e13j  ~==cccc====ccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc==ccc====cccc==~
+   1e11j  ~==cccc====cccc=====================================================cccc====cccc==~
+    1e9j  ~==cccc====ccccccc===============================================ccccccc====cccc==~
+    1e7j  ~==cccc====cccc=ccc=============================================ccc=cccc====cccc==~
+    2e5j  ~==cccc====cccc==c=c===========================================c=c==cccc====cccc==~
+    2e3j  ~==cccc====cccc===c=c=cc=cc=cc=c==cc==c=====c==cc==c=cc=cc=cc=c=c===cccc====cccc==~
+    2e1j  ~==cccc====cccc====cc=c=c=c=cc=c==c==c=======c==c==c=cc=c=c=c=cc====cccc====cccc==~
+   2e-1j  ~==cccc====cccc=====ccc=================c=c=================ccc=====cccc====cccc==~
+   2e-3j  ~==cccc====cccc=====cc======c=========================c======cc=====cccc====cccc==~
+   3e-5j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+   3e-7j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+   3e-9j  ~==cccc====cccc=====================================================cccc====cccc==~
+  3e-11j  ~==cccc====cccc=====================================================cccc====cccc==~
+  4e-13j  ~==cccc====cccc=====================================================cccc====cccc==~
+  4e-15j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+  4e-17j  ~==cccc====cccc=====================================================cccc====cccc==~
+  5e-19j  ~==cccc====cccc======ccccccccc22222222222222222222222ccccccccc======cccc====cccc==~
+  5e-21j  ~==cccc====cccc======ccccccccc24444444444444444444442ccccccccc======cccc====cccc==~
+  6e-23j  ~==cccc====cccc======ccccccccc24666666666666666666642ccccccccc======cccc====cccc==~
+  6e-25j  ~==cccc====cccc======ccccccccc246XXXXXXXXXXXXXXXXX642ccccccccc======cccc====cccc==~
+  7e-27j  ~==cccc====cccc======cccccccccc246XXXXXXXXXXXXXXX642cccccccccc======cccc====cccc==~
+  7e-29j  ~==cccc====cccc======ccccccccccc246XXXXXXXXXXXXX642ccccccccccc======cccc====cccc==~
+  8e-31j  ~==cccc====cccc======cccccccccccc246XXXXXXXXXXX642cccccccccccc======cccc====cccc==~
+  9e-33j  ~==cccc====cccc======ccccccccccccc246XXXXXXXXX642ccccccccccccc======cccc====cccc==~
+  1e-34j  ~==cccc====cccc======cccccccccccccc246XXXXXXX642cccccccccccccc======cccc====cccc==~
+  1e-36j  ~==cccc====cccc======ccccccccccccccc246XXXXX642ccccccccccccccc======cccc====cccc==~
+   tinyj  ~==cccc====cccc======cccccccccccccccc246XXX642cccccccccccccccc======cccc====cccc==~
       0j  M==cccc====cccc===============================================XXXXXXXXXXXXXXXXXXXXM
-  -tinyj  X==cccc====cccc======cccccccccccccccc246XXX642cccccccccccccccc======cccc====cccc==X
- -1e-36j  X==cccc====cccc======ccccccccccccccc246XXXXX642ccccccccccccccc======cccc====cccc==X
- -1e-34j  X==cccc====cccc======cccccccccccccc246XXXXXXX642cccccccccccccc======cccc====cccc==X
- -9e-33j  X==cccc====cccc======ccccccccccccc246XXXXXXXXX642ccccccccccccc======cccc====cccc==X
- -8e-31j  X==cccc====cccc======cccccccccccc246XXXXXXXXXXX642cccccccccccc======cccc====cccc==X
- -7e-29j  X==cccc====cccc======ccccccccccc246XXXXXXXXXXXXX642ccccccccccc======cccc====cccc==X
- -7e-27j  X==cccc====cccc======cccccccccc246XXXXXXXXXXXXXXX642cccccccccc======cccc====cccc==X
- -6e-25j  X==cccc====cccc======ccccccccc246XXXXXXXXXXXXXXXXX642ccccccccc======cccc====cccc==X
- -6e-23j  X==cccc====cccc======ccccccccc24666666666666666666642ccccccccc======cccc====cccc==X
- -5e-21j  X==cccc====cccc======ccccccccc24444444444444444444442ccccccccc======cccc====cccc==X
- -5e-19j  X==cccc====cccc======ccccccccc22222222222222222222222ccccccccc======cccc====cccc==X
- -4e-17j  X==cccc====cccc=====================================================cccc====cccc==X
- -4e-15j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
- -4e-13j  X==cccc====cccc=====================================================cccc====cccc==X
- -3e-11j  X==cccc====cccc=====================================================cccc====cccc==X
-  -3e-9j  X==cccc====cccc=====================================================cccc====cccc==X
-  -3e-7j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
-  -3e-5j  X==cccc====cccc=======c=====================================c=======cccc====cccc==X
-  -2e-3j  X==cccc====cccc=====cc======c=========================c======cc=====cccc====cccc==X
-  -2e-1j  X==cccc====cccc=====ccc=================c=c=================ccc=====cccc====cccc==X
-   -2e1j  X==cccc====cccc====cc=c=c=c=cc=c==c==c=======c==c==c=cc=c=c=c=cc====cccc====cccc==X
-   -2e3j  X==cccc====cccc===c=c=cc=cc=cc=c==cc==c=====c==cc==c=cc=cc=cc=c=c===cccc====cccc==X
-   -2e5j  X==cccc====cccc==c=c===========================================c=c==cccc====cccc==X
-   -1e7j  X==cccc====cccc=ccc=============================================ccc=cccc====cccc==X
-   -1e9j  X==cccc====ccccccc===============================================ccccccc====cccc==X
-  -1e11j  X==cccc====cccc=====================================================cccc====cccc==X
-  -1e13j  X==cccc====ccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc==ccc====cccc==X
-  -1e15j  X==cccc====cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc====cccc==X
-  -9e16j  X==cccc====c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c====cccc==X
-  -8e18j  X==cccc===c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===cccc==X
-  -8e20j  X==cccc==c=c===========================================================c=c==cccc==X
-  -7e22j  X==cccc=c=c=============================================================c=c=cccc==X
-  -6e24j  X==ccccc=c===============================================================c=ccccc==X
-  -6e26j  X==cccc=c=================================================================c=cccc==X
-  -5e28j  X==cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc==X
-  -5e30j  X==cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==X
-  -4e32j  X==c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==X
-  -4e34j  X=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=X
-  -4e36j  X==c===========================================================================c==X
-    minj  X=================================================================================X
-   -infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  -tinyj  ~==cccc====cccc======cccccccccccccccc246XXX642cccccccccccccccc======cccc====cccc==~
+ -1e-36j  ~==cccc====cccc======ccccccccccccccc246XXXXX642ccccccccccccccc======cccc====cccc==~
+ -1e-34j  ~==cccc====cccc======cccccccccccccc246XXXXXXX642cccccccccccccc======cccc====cccc==~
+ -9e-33j  ~==cccc====cccc======ccccccccccccc246XXXXXXXXX642ccccccccccccc======cccc====cccc==~
+ -8e-31j  ~==cccc====cccc======cccccccccccc246XXXXXXXXXXX642cccccccccccc======cccc====cccc==~
+ -7e-29j  ~==cccc====cccc======ccccccccccc246XXXXXXXXXXXXX642ccccccccccc======cccc====cccc==~
+ -7e-27j  ~==cccc====cccc======cccccccccc246XXXXXXXXXXXXXXX642cccccccccc======cccc====cccc==~
+ -6e-25j  ~==cccc====cccc======ccccccccc246XXXXXXXXXXXXXXXXX642ccccccccc======cccc====cccc==~
+ -6e-23j  ~==cccc====cccc======ccccccccc24666666666666666666642ccccccccc======cccc====cccc==~
+ -5e-21j  ~==cccc====cccc======ccccccccc24444444444444444444442ccccccccc======cccc====cccc==~
+ -5e-19j  ~==cccc====cccc======ccccccccc22222222222222222222222ccccccccc======cccc====cccc==~
+ -4e-17j  ~==cccc====cccc=====================================================cccc====cccc==~
+ -4e-15j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+ -4e-13j  ~==cccc====cccc=====================================================cccc====cccc==~
+ -3e-11j  ~==cccc====cccc=====================================================cccc====cccc==~
+  -3e-9j  ~==cccc====cccc=====================================================cccc====cccc==~
+  -3e-7j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+  -3e-5j  ~==cccc====cccc=======c=====================================c=======cccc====cccc==~
+  -2e-3j  ~==cccc====cccc=====cc======c=========================c======cc=====cccc====cccc==~
+  -2e-1j  ~==cccc====cccc=====ccc=================c=c=================ccc=====cccc====cccc==~
+   -2e1j  ~==cccc====cccc====cc=c=c=c=cc=c==c==c=======c==c==c=cc=c=c=c=cc====cccc====cccc==~
+   -2e3j  ~==cccc====cccc===c=c=cc=cc=cc=c==cc==c=====c==cc==c=cc=cc=cc=c=c===cccc====cccc==~
+   -2e5j  ~==cccc====cccc==c=c===========================================c=c==cccc====cccc==~
+   -1e7j  ~==cccc====cccc=ccc=============================================ccc=cccc====cccc==~
+   -1e9j  ~==cccc====ccccccc===============================================ccccccc====cccc==~
+  -1e11j  ~==cccc====cccc=====================================================cccc====cccc==~
+  -1e13j  ~==cccc====ccc==ccccccccccccccccccccccccccccccccccccccccccccccccccc==ccc====cccc==~
+  -1e15j  ~==cccc====cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc====cccc==~
+  -9e16j  ~==cccc====c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c====cccc==~
+  -8e18j  ~==cccc===c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c===cccc==~
+  -8e20j  ~==cccc==c=c===========================================================c=c==cccc==~
+  -7e22j  ~==cccc=c=c=============================================================c=c=cccc==~
+  -6e24j  ~==ccccc=c===============================================================c=ccccc==~
+  -6e26j  ~==cccc=c=================================================================c=cccc==~
+  -5e28j  ~==cccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cccc==~
+  -5e30j  ~==cc==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==~
+  -4e32j  ~==c==ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==c==~
+  -4e34j  ~=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=~
+  -4e36j  ~==c===========================================================================c==~
+    minj  ~=================================================================================~
+   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNNNNNNNNNNNNNN~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -94,9 +94,9 @@ real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNN
   mpmath.arcsin on complex128 plane
 
 Statistics:
-    match rate: 89.2%
+    match rate: 93.9%
     inaccuracies rate: 3.4%
-    mismatch rate: 7.4%
+    mismatch rate: 2.7%
 
 Versions:
     mpmath 1.3.0
@@ -115,18 +115,13 @@ Legend:
 
 Samples with code X:
          (9.802256832852528e-35-7.464306222455951e-29j) ->          (9.802256832852528e-35-7.464306222455951e-29j)                              (9.802256832852528e-35+0j)
-                            (inf-7.70639220474525e+20j) ->                               (1.5707963705062866-infj)                               (1.5707963705062866+infj)
-                            (7.70639220474525e+20+infj) ->                                                    infj                                                   -infj
          (9.802256832852528e-35+7.464306222455951e-29j) ->          (9.802256832852528e-35+7.464306222455951e-29j)                              (9.802256832852528e-35+0j)
-                           (-inf-7.70639220474525e+20j) ->                              (-1.5707963705062866-infj)                              (-1.5707963705062866+infj)
         (-9.802256832852528e-35-7.464306222455951e-29j) ->         (-9.802256832852528e-35-7.464306222455951e-29j)                             (-9.802256832852528e-35+0j)
-                           (-7.70639220474525e+20+infj) ->                                               (-0+infj)                                                   -infj
         (-9.802256832852528e-35+7.464306222455951e-29j) ->         (-9.802256832852528e-35+7.464306222455951e-29j)                             (-9.802256832852528e-35+0j)
                              (8.439109634215641e+18+0j) ->                (1.5707963705062866+44.272552490234375j)                 (1.5707963705062866-44.27255630493164j)
-                                                   infj ->                                                    infj                                              (nan-infj)
+                                                   infj ->                                                    infj                                              (nan+infj)
                                  8.174006855448521e-31j ->                                  8.174006855448521e-31j                                                      0j
                                 -8.951185239368264e-33j ->                                 -8.951185239368264e-33j                                                      0j
-                                                  -infj ->                                                   -infj                                                    infj
 Samples with code N:
                                   -7.70639220474525e+20 ->                                                (nan+0j)                (-1.5707963705062866+48.78689956665039j)
                                   8.439109634215641e+18 ->                                                (nan+0j)                 (1.5707963705062866-44.27255630493164j)

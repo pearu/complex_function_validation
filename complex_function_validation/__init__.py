@@ -747,13 +747,19 @@ class MPMathFunction(Function):
                     assert im in {'nan', '0'}, im
                     nim = im
                 re, im = nim, re
-                r = getattr(special_cases, name2)[re, im]
-                # -j * (re, im) = (im, re)
-                r = reversed(r)
+                re, im = getattr(special_cases, name2)[re, im]
+                # -j * (re, im) = (im, -re)
+                nre = {'+x': '-x', '-x': '+x', '+inf': '-inf', '-inf': '+inf'}.get(re)
+                if nre is None:
+                    if re in {'nan', '0', '+-inf'}:
+                        nre = re
+                    else:
+                        nre = f'-({re})'
+                re, im = im, nre
                 r = [eval({'+-inf': 'nan'}.get(r_, r_),
                           dict(inf=mpmath.inf, nan=mpmath.nan, pi=mpmath.pi,
                                sin=mpmath.sin, cos=mpmath.cos, im=x.real,
-                            log=mpmath.log)) for r_ in r]
+                            log=mpmath.log)) for r_ in [re, im]]
                 return mpmath.mpc(*r)
             elif name == 'cos':
                 #  cos(z) = cosh(j * z)

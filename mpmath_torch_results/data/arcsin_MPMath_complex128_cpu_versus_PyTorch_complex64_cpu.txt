@@ -81,7 +81,7 @@
   -4e34j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
   -4e36j  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
     minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
-   -infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
 
 real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNNNNNNNNNNNNNN~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -96,7 +96,7 @@ real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNN
 Statistics:
     match rate: 24.0%
     inaccuracies rate: 10.5%
-    mismatch rate: 65.5%
+    mismatch rate: 65.4%
 
 Versions:
     mpmath 1.3.0
@@ -133,7 +133,7 @@ Samples with code x:
                                  2.748454619450058e-07j ->                                   2.98023280720372e-07j                                  2.748454619450058e-07j
                                 -2.748454619450058e-07j ->                                -2.3841855067985307e-07j                                 -2.748454619450058e-07j
 Samples with code X:
-                            (inf-7.70639220474525e+20j) ->                               (0.7853981852531433-infj)                               (1.5707963705062866+infj)
+                            (inf-7.70639220474525e+20j) ->                               (0.7853981852531433-infj)                               (1.5707963705062866-infj)
         (6.816225066528061e-27-3.9524895129820076e-15j) ->                              (6.816225066528061e-27-0j)         (6.816225066528061e-27-3.9524895129820076e-15j)
              (19.11201286315918+8.439109634215641e+18j) ->                (1.5707963705062866+13.169795989990234j)              (2.264695406102541e-18+44.27255630493164j)
          (9.241493156711629e+16+8.439109634215641e+18j) ->                                    -27.032739639282227j               (0.010950353927910328+44.27261734008789j)
@@ -151,7 +151,7 @@ Samples with code X:
         (6.816225066528061e-27+3.9524895129820076e-15j) ->                              (6.816225066528061e-27-0j)         (6.816225066528061e-27+3.9524895129820076e-15j)
                  (121360891904+3.6093182479227104e-13j) ->                  (3.1415927410125732+45.0545654296875j)                (1.5707963705062866+26.215181350708008j)
                       (14553580+6.224412802375833e-25j) ->                                       72.0873031616211j                (1.5707963705062866+17.186494827270508j)
-                           (-inf-7.70639220474525e+20j) ->                              (-0.7853981852531433-infj)                              (-1.5707963705062866+infj)
+                           (-inf-7.70639220474525e+20j) ->                              (-0.7853981852531433-infj)                              (-1.5707963705062866-infj)
        (-6.816225066528061e-27-3.9524895129820076e-15j) ->                             (-6.816225066528061e-27-0j)        (-6.816225066528061e-27-3.9524895129820076e-15j)
         (-9.241493156711629e+16+8.439109634215641e+18j) ->                                    -27.032739639282227j              (-0.010950353927910328+44.27261734008789j)
             (-19.11201286315918+8.439109634215641e+18j) ->               (-1.5707963705062866+13.169795989990234j)             (-2.264695406102541e-18+44.27255630493164j)
@@ -182,10 +182,10 @@ Samples with code I:
                                  7.037291901451857e+22j ->                                                   -infj                                      53.30124282836914j
                                 -5.358817286521974e+28j ->                                                   -infj                                     -66.84427642822266j
 Samples with code N:
-                            (7.70639220474525e+20+infj) ->                                              (nan-infj)                                                   -infj
-                           (-7.70639220474525e+20+infj) ->                                              (nan-infj)                                                   -infj
-                                                   infj ->                                              (nan+nanj)                                              (nan-infj)
-                                                  -infj ->                                              (nan-infj)                                                    infj
+                            (7.70639220474525e+20+infj) ->                                              (nan-infj)                                                    infj
+                           (-7.70639220474525e+20+infj) ->                                              (nan-infj)                                                    infj
+                                                   infj ->                                              (nan+nanj)                                              (nan+infj)
+                                                  -infj ->                                              (nan-infj)                                                   -infj
                                   -7.70639220474525e+20 ->                                                (nan+0j)                (-1.5707963705062866+48.78689956665039j)
                                   8.439109634215641e+18 ->                                                (nan+0j)                 (1.5707963705062866-44.27255630493164j)
 Samples with code 2:
