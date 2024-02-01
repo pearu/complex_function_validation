@@ -1,0 +1,121 @@
+
+   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    maxj  ~c1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1c~
+   4e36j  ~1ccccccccccccccccccccccccccccccccccccccc====================================cccc1~
+   4e34j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~
+   4e32j  ~cccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc=c~
+   5e30j  ~cccccccccccccccccccccccccccccccccccccccc=================================ccc=====~
+   5e28j  ~ccccccc=cccccccccccccccccccccccccccccccc================================c=ccc====~
+   6e26j  ~ccccccccc=cccccccccccccccccccccccccccccc==============================c=ccc=cc===~
+   6e24j  ~cccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c=cc===~
+   7e22j  ~cccccccccc=c=========================================================c=ccc=======~
+   8e20j  ~cccccccccc=c=ccccccccccccccccccccccccccc=============================c=cc=ccc==c=~
+   8e18j  ~cccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==c==~
+   9e16j  ~cccccccccccccccccccccccccccccccccccccccc==========================ccccc==c=c=c===~
+   1e15j  ~ccccccccccccccc===================================================cccc=======c===~
+   1e13j  ~cccccccccccccc==cccccccccccccccccccccccc========================c==cc====cccc=cc=~
+   1e11j  ~cccccccccccccc=c=ccccccccccccccccccccccc=======================c=cccc======c===c=~
+    1e9j  ~cccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccc1cc====c======c==~
+    1e7j  ~ccccccccccccccc1c==ccccccccccccccccccccc====================cc==cc======c=c======~
+    2e5j  ~cccccccccccccccccccc=========================================cccc===c==c=========~
+    2e3j  ~ccccccccccccccccc1cccccccccccccccccccccc==================ccccc1==c=========c=c==~
+    2e1j  ~ccccccccccccccccccc=cccccccccccccccccccc==================cccccc==cc==c=======c==~
+   2e-1j  ~ccccccccccccccccccccccc=cccccccccccccccc==================cc=cc=ccc=======c=c===c~
+   2e-3j  ~cccccccccccccccccccccccc=ccccccccccccccccccccccccccccccc=cccc==cccc=========c==cc~
+   3e-5j  ~cccccccccccccccccccccc==cccccccccccccccc===============cc=ccc====cc=c======c=cccc~
+   3e-7j  ~ccccccccccccccccccccccccc=cccccccccccccc=============cc=ccc===cc===cc==c====ccccc~
+   3e-9j  ~ccccccccccccccccccccccc1c==ccccccccccccccccccccccccccc==cc=======c=ccc===cccccccc~
+  3e-11j  ~ccccccccccccccccccccccccc=c=cccccccccccc============c=ccc=c==========cc=cc=cccccc~
+  4e-13j  ~ccccccccccccccccccccccccccc1c=ccccccccccccccccccccc=c1c==cc==c===c===c=cc=ccccccc~
+  4e-15j  ~cccccccccccccccccccccccccccc===ccccccccc=============ccc=cc=======ccc=cc=cccccccc~
+  4e-17j  ~cccccccccccccccccccccccccccc=c=ccccccccc=========c=cccc=c=cc=c======c==cccccccccc~
+  5e-19j  ~ccccccccccccccccccccccccccccc1cc=ccccccccccccccc=cc1c====ccc=ccc=cc=c=ccccccccccc~
+  5e-21j  ~cccccccccccccccccccccccccccccccccccccccc=======ccccc====ccc=c=c==c==ccccccccccc==~
+  6e-23j  ~cccccccccccccccccccccccccccccccc=c=ccccc=======c=cc=c=cc==c==cccc====cccccccc====~
+  6e-25j  ~cccccccccccccccccccccccccccccccc=1==cccc=======1cc=========c=======cccccccc======~
+  7e-27j  ~ccccccccccccccccccccccccccccccccc1ccc=======ccc1cc=c==c=c=c=c=c====cccccc========~
+  7e-29j  ~cccccccccccccccccccccccccccccccccccccccc===ccccc==c====c=c=cc=c=c=ccccc==========~
+  8e-31j  ~cccccccccccccccccccccccccccccccccccccccc==ccccc==cc=cc=c=c=c=c===cccc============~
+  9e-33j  ~ccccccccccccccccccccccccccccccccccccccc=c=cccccc==c==c==cc=cc==cccc==============~
+  1e-34j  ~ccccccccccccccccccccccccccccccccccccc=cc=ccccc=c=cc===c=c====cccc================~
+  1e-36j  ~ccccccccccccccccccccccccccccccccccccccccccccc==c===c==c=ccccccc==================~
+   tinyj  ~cccccccccccccccccccccccccccccccccccccccc===cc====cc===c=cccc=====================~
+      0j  Mcccccccccccccccccccccccccccccccccccccccc=========================================~
+  -tinyj  ~cccccccccccccccccccccccccccccccccccccccc===cc====cc===c=cccc=====================~
+ -1e-36j  ~ccccccccccccccccccccccccccccccccccccccccccccc==c===c==c=ccccccc==================~
+ -1e-34j  ~ccccccccccccccccccccccccccccccccccccc=cc=ccccc=c=cc===c=c====cccc================~
+ -9e-33j  ~ccccccccccccccccccccccccccccccccccccccc=c=cccccc==c==c==cc=cc==cccc==============~
+ -8e-31j  ~cccccccccccccccccccccccccccccccccccccccc==ccccc==cc=cc=c=c=c=c===cccc============~
+ -7e-29j  ~cccccccccccccccccccccccccccccccccccccccc===ccccc==c====c=c=cc=c=c=ccccc==========~
+ -7e-27j  ~ccccccccccccccccccccccccccccccccc1ccc=======ccc1cc=c==c=c=c=c=c====cccccc========~
+ -6e-25j  ~cccccccccccccccccccccccccccccccc=1==cccc=======1cc=========c=======cccccccc======~
+ -6e-23j  ~cccccccccccccccccccccccccccccccc=c=ccccc=======c=cc=c=cc==c==cccc====cccccccc====~
+ -5e-21j  ~cccccccccccccccccccccccccccccccccccccccc=======ccccc====ccc=c=c==c==ccccccccccc==~
+ -5e-19j  ~ccccccccccccccccccccccccccccc1cc=ccccccccccccccc=cc1c====ccc=ccc=cc=c=ccccccccccc~
+ -4e-17j  ~cccccccccccccccccccccccccccc=c=ccccccccc=========c=cccc=c=cc=c======c==cccccccccc~
+ -4e-15j  ~cccccccccccccccccccccccccccc===ccccccccc=============ccc=cc=======ccc=cc=cccccccc~
+ -4e-13j  ~ccccccccccccccccccccccccccc1c=ccccccccccccccccccccc=c1c==cc==c===c===c=cc=ccccccc~
+ -3e-11j  ~ccccccccccccccccccccccccc=c=cccccccccccc============c=ccc=c==========cc=cc=cccccc~
+  -3e-9j  ~ccccccccccccccccccccccc1c==ccccccccccccccccccccccccccc==cc=======c=ccc===cccccccc~
+  -3e-7j  ~ccccccccccccccccccccccccc=cccccccccccccc=============cc=ccc===cc===cc==c====ccccc~
+  -3e-5j  ~cccccccccccccccccccccc==cccccccccccccccc===============cc=ccc====cc=c======c=cccc~
+  -2e-3j  ~cccccccccccccccccccccccc=ccccccccccccccccccccccccccccccc=cccc==cccc=========c==cc~
+  -2e-1j  ~ccccccccccccccccccccccc=cccccccccccccccc==================cc=cc=ccc=======c=c===c~
+   -2e1j  ~ccccccccccccccccccc=cccccccccccccccccccc==================cccccc==cc==c=======c==~
+   -2e3j  ~ccccccccccccccccc1cccccccccccccccccccccc==================ccccc1==c=========c=c==~
+   -2e5j  ~cccccccccccccccccccc=========================================cccc===c==c=========~
+   -1e7j  ~ccccccccccccccc1c==ccccccccccccccccccccc====================cc==cc======c=c======~
+   -1e9j  ~cccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccc1cc====c======c==~
+  -1e11j  ~cccccccccccccc=c=ccccccccccccccccccccccc=======================c=cccc======c===c=~
+  -1e13j  ~cccccccccccccc==cccccccccccccccccccccccc========================c==cc====cccc=cc=~
+  -1e15j  ~ccccccccccccccc===================================================cccc=======c===~
+  -9e16j  ~cccccccccccccccccccccccccccccccccccccccc==========================ccccc==c=c=c===~
+  -8e18j  ~cccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==cc==c==~
+  -8e20j  ~cccccccccc=c=ccccccccccccccccccccccccccc=============================c=cc=ccc==c=~
+  -7e22j  ~cccccccccc=c=========================================================c=ccc=======~
+  -6e24j  ~cccccccccc=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=cc=c=cc===~
+  -6e26j  ~ccccccccc=cccccccccccccccccccccccccccccc==============================c=ccc=cc===~
+  -5e28j  ~ccccccc=cccccccccccccccccccccccccccccccc================================c=ccc====~
+  -5e30j  ~cccccccccccccccccccccccccccccccccccccccc=================================ccc=====~
+  -4e32j  ~cccc=c=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=c=cc=c~
+  -4e34j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~
+  -4e36j  ~1ccccccccccccccccccccccccccccccccccccccc====================================cccc1~
+    minj  ~c1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1c~
+   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+real line:~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN=========================================~
+          ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
+       -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
+
+  CPU
+  jax.numpy.sqrt on complex64 plane
+  vs
+  CPU
+  mpmath.sqrt on complex128 plane
+
+Statistics:
+    match rate: 99.5%
+    inaccuracies rate: 0.5%
+    mismatch rate: 0.0%
+
+Versions:
+    mpmath 1.3.0
+    jax 0.4.23
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code N:
+                                     -19.11201286315918 ->                                                (nan+0j)                                      4.371728897094727j
+Samples with code M:
+                                              (-inf+0j) ->                                                    infj                                                    nanj
+Legend:
+    <input> -> <value> <reference value>

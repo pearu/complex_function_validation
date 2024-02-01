@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIIN
    4e36j  NIccccccccccccccccccccccccccccccccccccccc=====================================cc=IN
    4e34j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccN
@@ -40,7 +40,7 @@
   1e-34j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccccc=c=c=ccccccccc===cccccccc=cc1cc=1cc=cc=cccc=cN
   1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cc=c1cc=1cc=cc=cccc=cN
    tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=ccccccccc==c1cc=1cc=cc=cccc=cN
-      0j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=====N=====cccc======ccc=c==c1cc=1cc=cc=cccc=cN
+      0j  ~c=cccc=cc=cc1=cc1c==c=ccc======cccc=====N=====cccc======ccc=c==c1cc=1cc=cc=cccc=cN
   -tinyj  Nc=cccc=cc=cc1=cc1c==c=ccc======cccc=cccc=ccc==ccccc=ccccccccc==c1cc=1cc=cc=cccc=cN
  -1e-36j  Nc=cccc=cc=cc1=cc1c==c=ccc======cccccc=cc=ccc==ccccccc=ccccc=cc=c1cc=1cc=cc=cccc=cN
  -1e-34j  Nc=cccc=cc=cc1=cc1c==c=ccc======ccccc=c=c=ccccccccc===cccccccc=cc1cc=1cc=cc=cccc=cN
@@ -81,7 +81,7 @@
   -4e34j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccN
   -4e36j  NIccccccccccccccccccccccccccccccccccccccc=====================================cc=IN
     minj  NIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIIN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~=====cccc======ccc=c==c1cc=1cc=cc=cccc=c~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -94,7 +94,7 @@ real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~=====cccc======ccc=c==c1cc=1
   mpmath.log10 on complex128 plane
 
 Statistics:
-    match rate: 89.4%
+    match rate: 89.3%
     inaccuracies rate: 5.7%
     mismatch rate: 4.9%
 
@@ -123,11 +123,11 @@ Samples with code N:
                             (7.70639220474525e+20+infj) ->                                              (inf+nanj)                               (inf+0.6821881532669067j)
                            (-inf-7.70639220474525e+20j) ->                                              (inf+nanj)                               (inf-1.3643763065338135j)
                            (-7.70639220474525e+20+infj) ->                                              (inf+nanj)                               (inf+0.6821881532669067j)
-                                              (-inf+0j) ->                                              (inf+nanj)                               (inf+1.3643763065338135j)
                                                      0j ->                                             (-inf+nanj)                                               (-inf+0j)
                                                (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
                                                    infj ->                                              (inf+nanj)                               (inf+0.6821881532669067j)
                                                      0j ->                                             (-inf+nanj)                                               (-inf+0j)
                                                   -infj ->                                              (inf+nanj)                               (inf-0.6821881532669067j)
+                                     -19.11201286315918 ->                                                (nan+0j)                (1.2813063859939575+1.3643763065338135j)
 Legend:
     <input> -> <value> <reference value>

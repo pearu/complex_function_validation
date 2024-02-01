@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNN
   3e292j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
   5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
@@ -81,7 +81,7 @@
  -5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
  -3e292j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
     minj  NNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 real line:===================================================================================
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
@@ -94,7 +94,7 @@ real line:======================================================================
   mpmath.arctan on complex128 plane
 
 Statistics:
-    match rate: 31.4%
+    match rate: 31.3%
     inaccuracies rate: 2.2%
     mismatch rate: 66.4%
 
@@ -131,13 +131,11 @@ Samples with code I:
                                -1.959891736985526e+229j ->                                              (nan+infj)                                (-1.5707963267948966+0j)
 Samples with code N:
                          (inf-1.3250897649822135e+166j) ->                                              (nan+nanj)                                 (1.5707963267948966+0j)
-                         (inf+1.3250897649820401e+166j) ->                                              (nan+nanj)                                 (1.5707963267948966+0j)
-                        (-1.3250897649822135e+166-infj) ->                                              (nan+nanj)                                (-1.5707963267948966+0j)
+                         (1.3250897649820401e+166+infj) ->                                              (nan+nanj)                                 (1.5707963267948966+0j)
+                        (-inf-1.3250897649822135e+166j) ->                                              (nan+nanj)                                (-1.5707963267948966+0j)
                         (-1.3250897649822135e+166+infj) ->                                              (nan+nanj)                                (-1.5707963267948966+0j)
                                               (-inf+0j) ->                                              (nan+nanj)                                (-1.5707963267948966+0j)
                                                (inf+0j) ->                                              (nan+nanj)                                 (1.5707963267948966+0j)
-                                                   infj ->                                              (nan+nanj)                                 (1.5707963267948966+0j)
-                                                  -infj ->                                              (nan+nanj)                                (-1.5707963267948966+0j)
 Samples with code 7:
         (2.539695490683624e-08-2.5396954906839566e-08j) ->          (2.539695490683625e-08-2.539695488303398e-08j)         (2.539695490683625e-08-2.5396954906839556e-08j)
       (-2.5396954906839566e-08-2.5396954906839566e-08j) ->        (-2.5396954906839576e-08-2.539695488303398e-08j)       (-2.5396954906839576e-08-2.5396954906839556e-08j)

@@ -167,7 +167,9 @@ that demonstrates that different array libraries use different algorithms for ev
 # Results
 
 - [MPMath vs JAX-dev](mpmath_jax_results_dev/)
+- [MPMath vs JAX](mpmath_jax_results/)
 - [MPMath vs NumPy](mpmath_numpy_results/)
+- [MPMath vs PyTorch](mpmath_torch_results/)
 
 - [NumPy vs JAX](numpy_jax_results/)
 - [NumPy vs JAX-dev](numpy_jax_results_dev/)

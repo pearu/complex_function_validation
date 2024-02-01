@@ -5,6 +5,7 @@ import numpy
 import contextlib
 import importlib
 
+from . import special_cases
 
 class ComplexPlaneSampler:
     """A sample array covering a complex plane for the given numpy dtype.
@@ -162,6 +163,9 @@ class ReportImage:
         self.stats = []
         self.image_slices = []
         self.reference_and_values = []
+        self.unsaved_stats = []
+        self.unsaved_image_slices = []
+        self.unsaved_reference_and_values = []
 
     def _ensure_index(self, row, col):
         if row >= self.image.shape[0]:
@@ -197,6 +201,10 @@ class ReportImage:
             self.image_slices.append((slice(row, row + reference.shape[0]), slice(col, col + reference.shape[1])))
             self.reference_and_values.append((reference, values, inputs))
             self.stats.append(stats)
+        else:
+            self.unsaved_image_slices.append((slice(row, row + reference.shape[0]), slice(col, col + reference.shape[1])))
+            self.unsaved_reference_and_values.append((reference, values, inputs))
+            self.unsaved_stats.append(stats)
 
     def insert_imag_axis(self, row, col, samples):
         for i in range(samples.shape[0]):
@@ -343,7 +351,7 @@ class ReportImage:
             self.insert_text(voffset + map_height + 8 + 2, hoffset, '\nStatistics:')
             self.insert_text(voffset + map_height + 10 + 2, hoffset + 4, f'{self.stats_summary(self.stats[-1])}')
 
-    def get_sample_indices(self, code):
+    def get_sample_indices(self, image, code):
 
         def show(image):
             rows = []
@@ -351,7 +359,6 @@ class ReportImage:
                 rows.append((b''.join(row)).decode())
             return '\n'.join(rows)
 
-        image = self.image[self.image_slices[-1]]
         c_re, c_im = image.shape[0] // 2, image.shape[1] // 2
         samples = []
         for region_slice in [
@@ -374,10 +381,17 @@ class ReportImage:
         return samples
 
     def get_samples(self, code):
-        reference, values, inputs = self.reference_and_values[-1]
         samples = []
-        for point in self.get_sample_indices(code):
+        reference, values, inputs = self.reference_and_values[-1]
+        image = self.image[self.image_slices[-1]]
+        for point in self.get_sample_indices(image, code):
             samples.append((reference[point], values[point], inputs[point]))
+
+        reference, values, inputs = self.unsaved_reference_and_values[-1]
+        image = self.image[self.unsaved_image_slices[-1]]
+        for point in self.get_sample_indices(image, code):
+            samples.append((reference[point], values[point], inputs[point]))
+
         return samples
 
     def insert_samples(self, row, col, codes):
@@ -685,20 +699,110 @@ class MPMathFunction(Function):
         return mpmath.workdps(precision)
 
     def __call__(self, *args):
-        if self._name == 'log2':
-            f = numpy.vectorize(getattr(self.module, 'log'))
-            args = args + (2,)
-        elif self._name == 'square':
-            f = numpy.vectorize(getattr(self.module, 'power'))
-            args = args + (2,)
+        mpmath = self.module
+        assert len(args) == 1
+
+        def tosymbolpair(x):
+            if x.real == 0:
+                re = '0'
+            elif mpmath.isfinite(x.real):
+                re = '+x' if x.real > 0 else '-x'
+            else:
+                re = str(x.real)
+            if x.imag == 0:
+                im = '0'
+            elif mpmath.isfinite(x.imag):
+                im = '+x' if x.imag > 0 else '-x'
+            else:
+                im = str(x.imag)
+            return re, im
+
+        def special_cases_func(name, x):
+            is_real = False
+            if isinstance(x, float):
+                is_real = True
+                x = mpmath.mpc(x, 0)
+            elif isinstance(x, complex):
+                x = mpmath.mpc(x.real, x.imag)
+            else:
+                assert 0, x
+
+            if mpmath.isfinite(x.real) and mpmath.isfinite(x.imag):
+                return
+
+            re, im = tosymbolpair(x)
+            if is_real and name in {'square'} and im == '0':
+                # reset im when f(re+0j) is different from f(re)
+                im = ''
+            if name in {'asin', 'atan', 'sin', 'tan'}:
+                # TODO: implement the following transformations in special_cases.py
+                # asin(z) = -j * asinh(j * z)
+                # atan(z) = -j * atanh(j * z)
+                # sin(z) = -j * sinh(j * z)
+                # tan(z) = -j * tanh(j * z)
+                name2 = dict(asin='asinh', atan='atanh', sin='sinh', tan='tanh')[name]
+                # j * (re, im) = (-im, re)
+                nim = {'+x': '-x', '-x': '+x', '+inf': '-inf', '-inf': '+inf'}.get(im)
+                if nim is None:
+                    assert im in {'nan', '0'}, im
+                    nim = im
+                re, im = nim, re
+                r = getattr(special_cases, name2)[re, im]
+                # -j * (re, im) = (im, re)
+                r = reversed(r)
+                r = [eval({'+-inf': 'nan'}.get(r_, r_),
+                          dict(inf=mpmath.inf, nan=mpmath.nan, pi=mpmath.pi,
+                               sin=mpmath.sin, cos=mpmath.cos, im=x.real,
+                            log=mpmath.log)) for r_ in r]
+                return mpmath.mpc(*r)
+            elif name == 'cos':
+                #  cos(z) = cosh(j * z)
+                # j * (re, im) = (-im, re)
+                re, im = {'+x': '-x', '-x': '+x', '+inf': '-inf', '-inf': '+inf'}.get(im, im), re
+                r = special_cases.cosh[re, im]
+                r = [eval({'+-inf': 'nan'}.get(r_, r_), dict(pi=mpmath.pi, inf=mpmath.inf, nan=mpmath.nan,
+                                                             sin=mpmath.sin, cos=mpmath.cos, im=x.real)) for r_ in r]
+                return mpmath.mpc(*r)
+            elif hasattr(special_cases, name):
+                r = getattr(special_cases, name)[re, im]
+                r = [eval({'+-inf': 'nan'}.get(r_, r_), dict(inf=mpmath.inf, nan=mpmath.nan, pi=mpmath.pi,
+                                                             sin=mpmath.sin, cos=mpmath.cos, im=x.imag,
+                                                             log=mpmath.log)) for r_ in r]
+                return mpmath.mpc(*r)
+
+            return
+
+        name = dict(arcsin='asin',
+                    arccos='acos',
+                    arctan='atan',
+                    arcsinh='asinh',
+                    arccosh='acosh',
+                    arctanh='atanh',
+                    ).get(self._name, self._name)
+
+        if name == 'log2':
+            mp_func = getattr(self.module, 'log')
+
+            def ext_func(x):
+                return mp_func(x, 2)
+            
+        elif name == 'square':
+            mp_func = getattr(self.module, 'power')
+
+            def ext_func(x):
+                return mp_func(x, 2)
+            
         else:
-            name = dict(arcsin='asin',
-                        arccos='acos',
-                        arctan='atan',
-                        arcsinh='asinh',
-                        arccosh='acosh',
-                        arctanh='atanh',
-                        ).get(self._name, self._name)
-            f = numpy.vectorize(getattr(self.module, name))
-        r = f(*args)
-        return r
+            ext_func = getattr(self.module, name)
+
+        def ext_func_with_special_cases(x):
+
+            r = special_cases_func(name, x)
+            if r is not None:
+                return r
+
+            return ext_func(x)
+
+        f = numpy.vectorize(ext_func_with_special_cases)
+
+        return f(*args)

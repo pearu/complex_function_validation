@@ -1,5 +1,5 @@
 
-   +infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X
+   +infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     maxj  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
    4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
    4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
@@ -81,7 +81,7 @@
   -4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
   -4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
     minj  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~
-   -infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~X
+   -infj  NN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 real line:NNNNNNNNNNNNNNNNNNNNN=============================================================~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -112,9 +112,6 @@ Legend:
         N : one value is not nan but other is nan
         M : one value is nan but other is not nan
 
-Samples with code X:
-                                             (inf-infj) ->                               (inf-0.7853981852531433j)                                              (inf+nanj)
-                                             (inf+infj) ->                               (inf+0.7853981852531433j)                                              (inf+nanj)
 Samples with code I:
                  (7.70639220474525e+20-11082385063936j) ->                           (inf-1.4380769464139576e-08j)            (48.093753814697266-1.4380769464139576e-08j)
                  (11082385063936+7.70639220474525e+20j) ->                               (inf+1.5707963705062866j)                (48.093753814697266+1.5707963705062866j)
@@ -127,6 +124,7 @@ Samples with code I:
 Samples with code N:
                               (-inf-19.11201286315918j) ->                               (nan-3.1415927410125732j)                               (inf-3.1415927410125732j)
                               (-inf+19.11201286315918j) ->                               (nan+3.1415927410125732j)                               (inf+3.1415927410125732j)
-                                              (-inf+0j) ->                               (nan+3.1415927410125732j)                               (inf+3.1415927410125732j)
+                                              (-inf+0j) ->                               (nan+3.1415927410125732j)                                              (inf+nanj)
+                                  -7.70639220474525e+20 ->                                                (nan+0j)                (48.093753814697266+3.1415927410125732j)
 Legend:
     <input> -> <value> <reference value>

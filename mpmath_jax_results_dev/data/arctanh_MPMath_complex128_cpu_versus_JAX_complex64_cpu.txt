@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    4e36j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    4e34j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
@@ -40,7 +40,7 @@
   1e-34j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
   1e-36j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
    tinyj  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
-      0j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cXXXXXXXXXXNNNNNNNNNNN
+      0j  ~NNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cXXXXXXXXXXNNNNNNNNNN~
   -tinyj  NNNNNNNNNNNcccccccccccccc======246XXXXXXX=XXXXXXX642======ccccccccccccccNNNNNNNNNNN
  -1e-36j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
  -1e-34j  NNNNNNNNNNNccccccccccc=========246XXXXXXX=XXXXXXX642=========cccccccccccNNNNNNNNNNN
@@ -81,9 +81,9 @@
   -4e34j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
   -4e36j  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     minj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
-real line:NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNNN
+real line:~NNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNN~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -94,9 +94,9 @@ real line:NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNN
   mpmath.arctanh on complex128 plane
 
 Statistics:
-    match rate: 47.7%
+    match rate: 47.6%
     inaccuracies rate: 3.2%
-    mismatch rate: 49.1%
+    mismatch rate: 49.2%
 
 Versions:
     mpmath 1.3.0
@@ -127,9 +127,11 @@ Samples with code N:
                 (-7.70639220474525e+20-11082385063936j) ->                                              (nan+nanj)           (-1.2978463810957004e-21-1.5707963705062866j)
                 (-11082385063936+7.70639220474525e+20j) ->                                              (nan+nanj)                                     1.5707963705062866j
                             (-4.893543125372159e+30+0j) ->                                              (nan+nanj)                                     1.5707963705062866j
-                             (4.893543125372159e+30+0j) ->                                              (nan+nanj)                                    -1.5707963705062866j
+                             (5.358817286521974e+28+0j) ->                                              (nan+nanj)                                    -1.5707963705062866j
                                  4.893543125372159e+30j ->                                              (nan+nanj)                                     1.5707963705062866j
                                 -4.893543125372159e+30j ->                                              (nan+nanj)                                    -1.5707963705062866j
+                                  -7.70639220474525e+20 ->                                                (nan+0j)           (-1.2970192004831474e-21+1.5707963705062866j)
+                                  8.439109634215641e+18 ->                                                (nan+0j)            (1.1849527710944632e-19-1.5707963705062866j)
 Samples with code 2:
          (5.190477564413554e-21-6.816225066528061e-27j) ->          (5.190477564413554e-21-6.816225066528061e-27j)          (5.190467870890751e-21-6.816225066528061e-27j)
          (6.224412802375833e-25+5.190477564413554e-21j) ->          (6.224412802375833e-25+5.190477564413554e-21j)          (6.333101564859118e-25+5.190477564413554e-21j)

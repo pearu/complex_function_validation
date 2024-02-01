@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
   3e292j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
   5e276j  Nc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
@@ -40,7 +40,7 @@
  9e-277j  Ncccccccccccccccccccc1ccccccccccccccccccccccccc=ccccccccccccccccccccccccccc1ccccccN
  1e-292j  Ncccccccccccccccccccc1cccccccccccccccccccc=cccccccccccccccccccccccccccccccc1ccccccN
    tinyj  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
-      0j  Ncccccccccccccccccccc1cccccccccccccccccccNc=ccc=cccc=cccccccccccccccccccccc1ccccccN
+      0j  ~cccccccccccccccccccc1cccccccccccccccccccNc=ccc=cccc=cccccccccccccccccccccc1ccccccN
   -tinyj  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
 -1e-292j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
 -9e-277j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
@@ -81,7 +81,7 @@
  -5e276j  Nc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
  -3e292j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccN
     minj  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~c=ccc=cccc=cccccccccccccccccccccc1cccccc~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
@@ -123,11 +123,11 @@ Samples with code N:
                          (1.3250897649820401e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
                         (-inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                               (inf-1.3643763538418414j)
                         (-1.3250897649822135e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
-                                              (-inf+0j) ->                                              (inf+nanj)                               (inf+1.3643763538418414j)
                                                      0j ->                                             (-inf+nanj)                                               (-inf+0j)
                                                (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
                                                    infj ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
                                                      0j ->                                             (-inf+nanj)                                               (-inf+0j)
                                                   -infj ->                                              (inf+nanj)                               (inf-0.6821881769209207j)
+                                    -157499196.83966908 ->                                                (nan+0j)                  (8.19727834346537+1.3643763538418414j)
 Legend:
     <input> -> <value> <reference value>

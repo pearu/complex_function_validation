@@ -1,5 +1,5 @@
 
-   +infj  M=================================================================================M
+   +infj  ===================================================================================
     maxj  =c===============================================================================c=
   3e292j  =ccc===========================================================================ccc=
   5e276j  =ccccc=======================================================================ccccc=
@@ -40,7 +40,7 @@
  9e-277j  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
  1e-292j  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
    tinyj  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
-      0j  =ccccccccccccccccccc==DXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXD=XXXXXXXXXXXXXXXXXXXXX
+      0j  Mccccccccccccccccccc==DXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXD=XXXXXXXXXXXXXXXXXXXXM
   -tinyj  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
 -1e-292j  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
 -9e-277j  =ccccccccccccccccccc=cDXXXXXXXXXXXXXXXXXX=XXXXXXXXXXXXXXXXXXDccccccccccccccccccccc=
@@ -81,9 +81,9 @@
  -5e276j  =ccccc=======================================================================ccccc=
  -3e292j  =ccc===========================================================================ccc=
     minj  =c===============================================================================c=
-   -infj  M=================================================================================M
+   -infj  ===================================================================================
 
-real line:NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNNN
+real line:~NNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNNNNNNNNNNNNNN~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 
@@ -94,13 +94,13 @@ real line:NNNNNNNNNNNNNNNNNNNNNc=======================================cNNNNNNNN
   mpmath.arctanh on complex128 plane
 
 Statistics:
-    match rate: 78.1%
+    match rate: 78.2%
     inaccuracies rate: 2.2%
     mismatch rate: 19.7%
 
 Versions:
     mpmath 1.3.0
-    numpy 1.26.2
+    numpy 1.26.3
 
 Legend:
         = : values are equal (diff == 0)
@@ -120,7 +120,10 @@ Samples with code X:
       (-3.018663418665992e-166+3.018663418665597e-166j) ->       (-3.018663418665992e-166+3.018663418665597e-166j)       (-1.2924697071141057e-26+3.018663418665597e-166j)
                            (-3.018663418665992e-166+0j) ->                            (-3.018663418665992e-166+0j)                            (-1.2924697071141057e-26+0j)
                            (4.8676348998036216e-182+0j) ->                            (4.8676348998036216e-182+0j)                             (1.2924697071141057e-26+0j)
-                           (1.3250897649820401e+166+0j) ->            (7.546658546664977e-167+1.5707963267948966j)                                    -1.5707963267948966j
+                           (2.1367248648906965e+150+0j) ->            (4.680059732684183e-151+1.5707963267948966j)                                    -1.5707963267948966j
+Samples with code N:
+                               -1.3250897649822135e+166 ->                                                (nan+0j)                                     1.5707963267948966j
+                                2.1367248648906965e+150 ->                                                (nan+0j)                                    -1.5707963267948966j
 Samples with code D:
         (4.095292747407213e-24-3.018663418665992e-166j) ->         (4.095292747407213e-24-3.018663418665992e-166j)         (4.097128971551715e-24-3.018663418665992e-166j)
         (4.095292747407213e-24+3.018663418665597e-166j) ->         (4.095292747407213e-24+3.018663418665597e-166j)         (4.097128971551715e-24+3.018663418665597e-166j)
@@ -134,9 +137,7 @@ Samples with code E:
        (-3.018663418665992e-166-4.095292747408285e-24j) ->        (-3.018663418665992e-166-4.095292747408285e-24j)        (-1.2924697071141057e-26-4.095292747408285e-24j)
        (-3.018663418665992e-166+4.095292747407213e-24j) ->        (-3.018663418665992e-166+4.095292747407213e-24j)        (-1.2924697071141057e-26+4.095292747407213e-24j)
 Samples with code M:
-                                             (inf-infj) ->                                    -1.5707963267948966j                                                    nanj
-                                             (inf+infj) ->                                     1.5707963267948966j                                                    nanj
-                                            (-inf-infj) ->                                (-0-1.5707963267948966j)                                                    nanj
-                                            (-inf+infj) ->                                (-0+1.5707963267948966j)                                                    nanj
+                                              (-inf+0j) ->                                (-0+1.5707963267948966j)                                                    nanj
+                                               (inf+0j) ->                                     1.5707963267948966j                                                    nanj
 Legend:
     <input> -> <value> <reference value>

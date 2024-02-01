@@ -1,89 +1,89 @@
 
-   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-    maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  2e150j  NIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-  3e134j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-  6e118j  NIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-  9e102j  NIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================cIIIIIIIIIII
-   1e87j  NIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX===========================c===IIIIIIIIIII
-   2e71j  NIIIIIIIIIIIIIXIIXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-   4e55j  NIIIIIIIIIIIXIIIXIXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-   6e39j  NIIIIIIIIIIIIIXIIIXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-   1e24j  NIIIIIIIIIIXIIXIXIIIXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIII
-    2e8j  NIIIIIIIIIIXIXIIIIIIIxxxxxxxxxxxxxxxxxxxx=====================c=======c=IIIIIIIIIII
-   3e-8j  NIIIIIIIIIIIIXIIxIIFI88888888888888888888888888888888888888887c=c==c====IIIIIIIIIII
-  4e-24j  NIIIIIIIIIIIXIIIIxIxI8x=====================================x8==========IIIIIIIIIII
-  7e-40j  NIIIIIIIIIIxIxIIxFxII8X=====================================X8====c=cc=cIIIIIIIIIII
-  1e-55j  NIIIIIIIIIIIxIIIIIxII8X=====================================X8=c====c===IIIIIIIIIII
-  2e-71j  NIIIIIIIIIIIIIxIIxIXI8X=====================================X8c=c===cc=cIIIIIIIIIII
-  3e-87j  NIIIIIIIIIIIIIIIxIIIX8X=====================================X8c=========IIIIIIIIIII
- 4e-103j  NIIIIIIIIIIIIIxIxIxII8X=====================================X8c==c=====cIIIIIIIIIII
- 7e-119j  NIIIIIIIIIIxIIxxxIIII8X=====================================X8==========IIIIIIIIIII
- 1e-134j  NIIIIIIIIIIIxIxIxIXII8X=====================================X8==========IIIIIIIIIII
- 2e-150j  NIIIIIIIIIIIIxIxxIIII8X=====================================X8cc=c===cccIIIIIIIIIII
- 3e-166j  NIIIIIIIIIIxxIxIxIIII8X=====================================X8c===ccc===IIIIIIIIIII
- 5e-182j  NIIIIIIIIIIxxIxxIIIII8X=====================================X8c=========IIIIIIIIIII
- 8e-198j  NIIIIIIIIIIxxxIxIIIII8X=====================================X8c==c======IIIIIIIIIII
- 1e-213j  NIIIIIIIIIIxxxxxxXIII8X=====================================X8c=========IIIIIIIIIII
- 2e-229j  NIIIIIIIIIIxxxxxIIIIX8X=====================================X8==========IIIIIIIIIII
- 3e-245j  NIIIIIIIIIIxxxxxXIXIX8X=====================================X8=c=c======IIIIIIIIIII
- 5e-261j  NIIIIIIIIIIxxxxxXXIXI8X=====================================X8==========IIIIIIIIIII
- 9e-277j  NIIIIIIIIIIxxxxxXXXIX8X=====================================X8==========IIIIIIIIIII
- 1e-292j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8==========IIIIIIIIIII
-   tinyj  NIIIIIIIIIIxxxxXXXXXX8X=====================================X8==========IIIIIIIIIII
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
+    maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+  2e150j  NIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+  3e134j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+  6e118j  NIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+  9e102j  NIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================cIIIIIIIIIIX
+   1e87j  NIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX===========================c===IIIIIIIIIIX
+   2e71j  NIIIIIIIIIIIIIXIIXXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+   4e55j  NIIIIIIIIIIIXIIIXIXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+   6e39j  NIIIIIIIIIIIIIXIIIXXXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+   1e24j  NIIIIIIIIIIXIIXIXIIIXXXXXXXXXXXXXXXXXXXXX===============================IIIIIIIIIIX
+    2e8j  NIIIIIIIIIIXIXIIIIIIIxxxxxxxxxxxxxxxxxxxx=====================c=======c=IIIIIIIIIIX
+   3e-8j  NIIIIIIIIIIIIXIIxIIFI88888888888888888888888888888888888888887c=c==c====IIIIIIIIIIX
+  4e-24j  NIIIIIIIIIIIXIIIIxIxI8x=====================================x8==========IIIIIIIIIIX
+  7e-40j  NIIIIIIIIIIxIxIIxFxII8X=====================================X8====c=cc=cIIIIIIIIIIX
+  1e-55j  NIIIIIIIIIIIxIIIIIxII8X=====================================X8=c====c===IIIIIIIIIIX
+  2e-71j  NIIIIIIIIIIIIIxIIxIXI8X=====================================X8c=c===cc=cIIIIIIIIIIX
+  3e-87j  NIIIIIIIIIIIIIIIxIIIX8X=====================================X8c=========IIIIIIIIIIX
+ 4e-103j  NIIIIIIIIIIIIIxIxIxII8X=====================================X8c==c=====cIIIIIIIIIIX
+ 7e-119j  NIIIIIIIIIIxIIxxxIIII8X=====================================X8==========IIIIIIIIIIX
+ 1e-134j  NIIIIIIIIIIIxIxIxIXII8X=====================================X8==========IIIIIIIIIIX
+ 2e-150j  NIIIIIIIIIIIIxIxxIIII8X=====================================X8cc=c===cccIIIIIIIIIIX
+ 3e-166j  NIIIIIIIIIIxxIxIxIIII8X=====================================X8c===ccc===IIIIIIIIIIX
+ 5e-182j  NIIIIIIIIIIxxIxxIIIII8X=====================================X8c=========IIIIIIIIIIX
+ 8e-198j  NIIIIIIIIIIxxxIxIIIII8X=====================================X8c==c======IIIIIIIIIIX
+ 1e-213j  NIIIIIIIIIIxxxxxxXIII8X=====================================X8c=========IIIIIIIIIIX
+ 2e-229j  NIIIIIIIIIIxxxxxIIIIX8X=====================================X8==========IIIIIIIIIIX
+ 3e-245j  NIIIIIIIIIIxxxxxXIXIX8X=====================================X8=c=c======IIIIIIIIIIX
+ 5e-261j  NIIIIIIIIIIxxxxxXXIXI8X=====================================X8==========IIIIIIIIIIX
+ 9e-277j  NIIIIIIIIIIxxxxxXXXIX8X=====================================X8==========IIIIIIIIIIX
+ 1e-292j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8==========IIIIIIIIIIX
+   tinyj  NIIIIIIIIIIxxxxXXXXXX8X=====================================X8==========IIIIIIIIIIX
       0j  NIIIIIIIIIIIIIIIIIIII8X=====================================X8==========IIIIIIIIIIN
-  -tinyj  NIIIIIIIIIIxxxxXXXXXX8X=====================================X8==========IIIIIIIIIII
--1e-292j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8==========IIIIIIIIIII
--9e-277j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8c=========IIIIIIIIIII
--5e-261j  NIIIIIIIIIIxxxxxXXXIX8X=====================================X8cc========IIIIIIIIIII
--3e-245j  NIIIIIIIIIIxxxxxXIXIX8X=====================================X8=c=c======IIIIIIIIIII
--2e-229j  NIIIIIIIIIIxxxxxXXIII8X=====================================X8=c==c=====IIIIIIIIIII
--1e-213j  NIIIIIIIIIIxxxxIxXIIX8X=====================================X8==========IIIIIIIIIII
--8e-198j  NIIIIIIIIIIxxxIIIIIII8X=====================================X8c=========IIIIIIIIIII
--5e-182j  NIIIIIIIIIIxxxxxxIXII8X=====================================X8c======c==IIIIIIIIIII
--3e-166j  NIIIIIIIIIIxxxxIxIIII8X=====================================X8c===c=c===IIIIIIIIIII
--2e-150j  NIIIIIIIIIIxIIIxxIIIX8X=====================================X8c=========IIIIIIIIIII
--1e-134j  NIIIIIIIIIIIIxxIxIIII8X=====================================X8==========IIIIIIIIIII
--7e-119j  NIIIIIIIIIIIIxxIxIxIX8X=====================================X8c=========IIIIIIIIIII
--4e-103j  NIIIIIIIIIIIIFIIxIIXI8X=====================================X8c=====c===IIIIIIIIIII
- -3e-87j  NIIIIIIIIIIIIIIxxIIIX8X=====================================X8==========IIIIIIIIIII
- -2e-71j  NIIIIIIIIIIxxIxFIxxII8X=====================================X8c=====cc==IIIIIIIIIII
- -1e-55j  NIIIIIIIIIIIxIIxIIIII8X=====================================X8==========IIIIIIIIIII
- -7e-40j  NIIIIIIIIIIxxIIIxFIIX8X=====================================X8ccc===c===IIIIIIIIIII
- -4e-24j  NIIIIIIIIIIXIIIIIIFIX8x=====================================x8cc=cc=c=c=IIIIIIIIIII
-  -3e-8j  NIIIIIIIIIIXXIIIxIIIx88888888888888888888888888888888888888887c=========IIIIIIIIIII
-   -2e8j  NIIIIIIIIIIIIIIIXXIIxxxxxxxxxxxxxxxxxxxxxx======================c======cIIIIIIIIIII
-  -1e24j  NIIIIIIIIIIXIXXIXXIXXXXXXXXXXXXXXXXXXXXXXX========================c=====IIIIIIIIIII
-  -6e39j  NIIIIIIIIIIIIXXIXIIXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIII
-  -4e55j  NIIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX========================cc===cIIIIIIIIIII
-  -2e71j  NIIIIIIIIIIIXIXIXXXXXXXXXXXXXXXXXXXXXXXXXX==========================c==cIIIIIIIIIII
-  -1e87j  NIIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX==========================c==cIIIIIIIIIII
- -9e102j  NIIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIII
- -6e118j  NIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIII
- -3e134j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIII
- -2e150j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIII
- -1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
- -3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-    minj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+  -tinyj  NIIIIIIIIIIxxxxXXXXXX8X=====================================X8==========IIIIIIIIIIX
+-1e-292j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8==========IIIIIIIIIIX
+-9e-277j  NIIIIIIIIIIxxxxxXXXXX8X=====================================X8c=========IIIIIIIIIIX
+-5e-261j  NIIIIIIIIIIxxxxxXXXIX8X=====================================X8cc========IIIIIIIIIIX
+-3e-245j  NIIIIIIIIIIxxxxxXIXIX8X=====================================X8=c=c======IIIIIIIIIIX
+-2e-229j  NIIIIIIIIIIxxxxxXXIII8X=====================================X8=c==c=====IIIIIIIIIIX
+-1e-213j  NIIIIIIIIIIxxxxIxXIIX8X=====================================X8==========IIIIIIIIIIX
+-8e-198j  NIIIIIIIIIIxxxIIIIIII8X=====================================X8c=========IIIIIIIIIIX
+-5e-182j  NIIIIIIIIIIxxxxxxIXII8X=====================================X8c======c==IIIIIIIIIIX
+-3e-166j  NIIIIIIIIIIxxxxIxIIII8X=====================================X8c===c=c===IIIIIIIIIIX
+-2e-150j  NIIIIIIIIIIxIIIxxIIIX8X=====================================X8c=========IIIIIIIIIIX
+-1e-134j  NIIIIIIIIIIIIxxIxIIII8X=====================================X8==========IIIIIIIIIIX
+-7e-119j  NIIIIIIIIIIIIxxIxIxIX8X=====================================X8c=========IIIIIIIIIIX
+-4e-103j  NIIIIIIIIIIIIFIIxIIXI8X=====================================X8c=====c===IIIIIIIIIIX
+ -3e-87j  NIIIIIIIIIIIIIIxxIIIX8X=====================================X8==========IIIIIIIIIIX
+ -2e-71j  NIIIIIIIIIIxxIxFIxxII8X=====================================X8c=====cc==IIIIIIIIIIX
+ -1e-55j  NIIIIIIIIIIIxIIxIIIII8X=====================================X8==========IIIIIIIIIIX
+ -7e-40j  NIIIIIIIIIIxxIIIxFIIX8X=====================================X8ccc===c===IIIIIIIIIIX
+ -4e-24j  NIIIIIIIIIIXIIIIIIFIX8x=====================================x8cc=cc=c=c=IIIIIIIIIIX
+  -3e-8j  NIIIIIIIIIIXXIIIxIIIx88888888888888888888888888888888888888887c=========IIIIIIIIIIX
+   -2e8j  NIIIIIIIIIIIIIIIXXIIxxxxxxxxxxxxxxxxxxxxxx======================c======cIIIIIIIIIIX
+  -1e24j  NIIIIIIIIIIXIXXIXXIXXXXXXXXXXXXXXXXXXXXXXX========================c=====IIIIIIIIIIX
+  -6e39j  NIIIIIIIIIIIIXXIXIIXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIIX
+  -4e55j  NIIIIIIIIIIIIXIXXXXXXXXXXXXXXXXXXXXXXXXXXX========================cc===cIIIIIIIIIIX
+  -2e71j  NIIIIIIIIIIIXIXIXXXXXXXXXXXXXXXXXXXXXXXXXX==========================c==cIIIIIIIIIIX
+  -1e87j  NIIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX==========================c==cIIIIIIIIIIX
+ -9e102j  NIIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIIX
+ -6e118j  NIIIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIIX
+ -3e134j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIIX
+ -2e150j  NIIIIIIIIIIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==============================IIIIIIIIIIX
+ -1e166j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -8e181j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -5e197j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -3e213j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -2e229j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -1e245j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -8e260j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -5e276j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+ -3e292j  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+    minj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
 
-real line:~c=cc=========================================================================c=cc~
+real line:Xc=cc=========================================================================c=cc~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 
@@ -132,6 +132,8 @@ Samples with code x:
                                    -157499196.83966908j ->                                (-18.456925276482636+0j)               (-19.568078097346234-1.5707963267948966j)
 Samples with code X:
         (4.095292747407213e-24-4.867634899804577e-182j) ->                                -4.867634899804577e-182j         (3.308722450212111e-24-4.867634899804577e-182j)
+                         (inf-1.3250897649822135e+166j) ->                               (inf-0.7853981633974483j)                                                (inf+0j)
+                         (1.3250897649820401e+166+infj) ->                               (inf+0.7853981633974483j)                               (inf+1.5707963267948966j)
         (4.095292747407213e-24+3.018663418665597e-166j) ->                                 3.018663418665597e-166j         (3.308722450212111e-24+3.018663418665597e-166j)
        (-6.057197503362697e+39-8.557320983846601e-277j) ->                (-635.6692835873589-1.5707963267948966j)                                  (-92.2952130422512-0j)
        (-4.095292747408285e-24-4.867634899804577e-182j) ->                                -4.867634899804577e-182j        (-3.308722450212111e-24-4.867634899804577e-182j)
@@ -156,6 +158,7 @@ Samples with code X:
                             (-4.095292747408285e-24+0j) ->                                                      0j                             (-3.308722450212111e-24+0j)
                              (4.095292747407213e-24+0j) ->                                                      0j                              (3.308722450212111e-24+0j)
                                -1.4446472708767512e+87j ->                                 (163.36091208577994+0j)                (-201.3859154596088-1.5707963267948966j)
+                                                   -inf ->                                               (-inf+0j)                                             (-inf+nanj)
 Samples with code I:
       (1.3250897649820401e+166-8.958978968711629e+102j) ->                                                (inf-0j)             (383.20375282187126-6.761035520361941e-64j)
       (8.958978968710456e+102+1.3250897649820401e+166j) ->                               (inf+1.5707963267948966j)                (383.20375282187126+1.5707963267948966j)
@@ -166,12 +169,10 @@ Samples with code I:
                                1.2154267139513415e+245j ->                               (inf+1.5707963267948966j)                 (565.0215901841339+1.5707963267948966j)
                                -1.959891736985526e+229j ->                               (inf+1.5707963267948966j)                (-528.6580227116814-1.5707963267948966j)
 Samples with code N:
-                        (-inf-1.3250897649822135e+166j) ->                                              (nan+nanj)                                                      0j
-                        (-1.3250897649822135e+166+infj) ->                                              (nan+nanj)                                                      0j
-                                              (-inf+0j) ->                                              (nan+nanj)                                                      0j
-                                               (inf+0j) ->                                              (nan+nanj)                                                      0j
-                                                   infj ->                                              (nan+nanj)                               (inf+1.5707963267948966j)
-                                                  -infj ->                                              (nan+nanj)                              (-inf-1.5707963267948966j)
+                        (-inf-1.3250897649822135e+166j) ->                                              (nan+nanj)                                               (-inf+0j)
+                        (-1.3250897649822135e+166+infj) ->                                              (nan+nanj)                              (-inf+1.5707963267948966j)
+                                              (-inf+0j) ->                                              (nan+nanj)                                             (-inf+nanj)
+                                               (inf+0j) ->                                              (nan+nanj)                                                (inf+0j)
 Samples with code 7:
         (2.539695490683624e-08-2.5396954906839566e-08j) ->          (2.539695488303398e-08-2.539695490683956e-08j)         (2.5396954906836244e-08-2.539695490683956e-08j)
          (2.539695490683624e-08+2.539695490683624e-08j) ->         (2.539695488303398e-08+2.5396954906836234e-08j)        (2.5396954906836244e-08+2.5396954906836234e-08j)

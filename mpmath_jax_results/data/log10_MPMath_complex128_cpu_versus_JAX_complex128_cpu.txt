@@ -1,0 +1,133 @@
+
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+    maxj  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
+  3e292j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+  5e276j  Nc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+  8e260j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+  1e245j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+  2e229j  Nccccc1cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+  3e213j  Nccccc=c1111111111111111111111111111111111111111111111111111111111111111111cccccccN
+  5e197j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  8e181j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  1e166j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  2e150j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  3e134j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  6e118j  Ncccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccc1ccccccN
+  9e102j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   1e87j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   2e71j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   4e55j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   6e39j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   1e24j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+    2e8j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+   3e-8j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccccccccc1ccccccN
+  4e-24j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  7e-40j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  1e-55j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  2e-71j  Ncccccccccccccccccccc1ccc=ccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  3e-87j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 4e-103j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 7e-119j  Ncccccccccccccccccccc1cccccc1cccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 1e-134j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 2e-150j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccc=ccccccccccccccccccccccc1ccccccN
+ 3e-166j  Ncccccccccccccccccccc1ccccccccc1ccccccccccccccccccc1ccccccccccccccccccccccc1ccccccN
+ 5e-182j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 8e-198j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccc1cc=cccccccccccccccccccccc1ccccccN
+ 1e-213j  Ncccccccccccccccccccc1cccccccccccc1ccccccccccccc1cccccccccccccccccccccccccc1ccccccN
+ 2e-229j  Ncccccccccccccccccccc1cccccccccccccccccccccccc=1cccc=cccccccccccccccccccccc1ccccccN
+ 3e-245j  Ncccccccccccccccccccc1cccccccccccccc1ccccccccc1cccccccccccccccccccccccccccc1ccccccN
+ 5e-261j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ 9e-277j  Ncccccccccccccccccccc1ccccccccccccccccccccccccc=ccccccccccccccccccccccccccc1ccccccN
+ 1e-292j  Ncccccccccccccccccccc1cccccccccccccccccccc=cccccccccccccccccccccccccccccccc1ccccccN
+   tinyj  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+      0j  ~cccccccccccccccccccc1cccccccccccccccccccNc=ccc=cccc=cccccccccccccccccccccc1ccccccN
+  -tinyj  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-1e-292j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-9e-277j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-5e-261j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-3e-245j  Ncccccccccccccccccccc1cccccccccccccc1ccccccccc1cccccccccccccccccccccccccccc1ccccccN
+-2e-229j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-1e-213j  Ncccccccccccccccccccc1cccccccccccc1ccccccccccccc1cccccccccccccccccccccccccc1ccccccN
+-8e-198j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-5e-182j  Ncccccccccccccccccccc1cccccccccc1cccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-3e-166j  Ncccccccccccccccccccc1ccccccccc1ccccccccccccccccccc1ccccccccccccccccccccccc1ccccccN
+-2e-150j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-1e-134j  Ncccccccccccccccccccc1ccccccc1ccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+-7e-119j  Ncccccccccccccccccccc1cccccc1ccccccccccccccccccccccccc1cccccccccccccccccccc1ccccccN
+-4e-103j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -3e-87j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -2e-71j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -1e-55j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -7e-40j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -4e-24j  Ncccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -3e-8j  Ncccccccccccccccccccc1111111111111111111111111111111111111111cccccccccccccc1ccccccN
+   -2e8j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -1e24j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -6e39j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -4e55j  Ncccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -2e71j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+  -1e87j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -9e102j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -6e118j  Ncccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccc1ccccccN
+ -3e134j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -2e150j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -1e166j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -8e181j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -5e197j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1ccccccN
+ -3e213j  Nccccc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+ -2e229j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=1cccccN
+ -1e245j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+ -8e260j  NcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+ -5e276j  Nc=cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccN
+ -3e292j  Ncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc=ccN
+    minj  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~c=ccc=cccc=cccccccccccccccccccccc1cccccc~
+          ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
+       -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
+
+  CPU
+  jax.numpy.log10 on complex128 plane
+  vs
+  CPU
+  mpmath.log10 on complex128 plane
+
+Statistics:
+    match rate: 91.7%
+    inaccuracies rate: 3.5%
+    mismatch rate: 4.8%
+
+Versions:
+    mpmath 1.3.0
+    jax 0.4.23
+
+Legend:
+        = : values are equal (diff == 0)
+        c : values are close (diff < eps * norm)
+    [1-F] : values are close (diff < eps * norm * 10 ** n, n < resolution)
+        x : values magnitudes are close (diff is approx. eps * norm * 10 ** resolution)
+        X : values are different (diff >= eps * norm * 10 ** resolution or one is non-finite)
+        ~ : values are non-finite and of the same kind (-inf, inf, or nan)
+        I : one value is finite but other inf
+        N : one value is not nan but other is nan
+        M : one value is nan but other is not nan
+
+Samples with code I:
+     (1.7976931348623157e+308-1.7976931348623157e+308j) ->                                              (inf+nanj)                (308.4052305577487-0.34109408846046035j)
+     (1.7976931348623157e+308+1.7976931348623157e+308j) ->                                              (inf+nanj)                (308.4052305577487+0.34109408846046035j)
+    (-1.7976931348623157e+308-1.7976931348623157e+308j) ->                                              (inf+nanj)                 (308.4052305577487-1.0232822653813811j)
+    (-1.7976931348623157e+308+1.7976931348623157e+308j) ->                                              (inf+nanj)                 (308.4052305577487+1.0232822653813811j)
+Samples with code N:
+                         (inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                                                (inf+0j)
+                         (1.3250897649820401e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
+                        (-inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                               (inf-1.3643763538418414j)
+                        (-1.3250897649822135e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                               (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
+                                                   infj ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
+                                                     0j ->                                             (-inf+nanj)                                               (-inf+0j)
+                                                  -infj ->                                              (inf+nanj)                               (inf-0.6821881769209207j)
+                                    -157499196.83966908 ->                                                (nan+0j)                  (8.19727834346537+1.3643763538418414j)
+Legend:
+    <input> -> <value> <reference value>

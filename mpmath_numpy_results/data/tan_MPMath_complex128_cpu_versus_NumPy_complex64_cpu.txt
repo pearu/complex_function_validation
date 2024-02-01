@@ -1,5 +1,5 @@
 
-   +infj  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM=MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   +infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     maxj  ~=================================================================================~
    4e36j  ~=================================================================================~
    4e34j  ~=================================================================================~
@@ -81,7 +81,7 @@
   -4e34j  ~=================================================================================~
   -4e36j  ~=================================================================================~
     minj  ~=================================================================================~
-   -infj  MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM=MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   -infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 real line:~====c======c=========================================================c======c====~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -100,7 +100,7 @@ Statistics:
 
 Versions:
     mpmath 1.3.0
-    numpy 1.26.2
+    numpy 1.26.3
 
 Legend:
         = : values are equal (diff == 0)
@@ -113,10 +113,12 @@ Legend:
         N : one value is not nan but other is nan
         M : one value is nan but other is not nan
 
-Samples with code M:
-                               (19.11201286315918-infj) ->                                                     -1j                                                    nanj
-                               (19.11201286315918+infj) ->                                                      1j                                                    nanj
-                              (-19.11201286315918-infj) ->                                                 (-0-1j)                                                    nanj
-                              (-19.11201286315918+infj) ->                                                 (-0+1j)                                                    nanj
+Samples with code X:
+                               (19.11201286315918-infj) ->                                                     -1j                                                      1j
+                               (19.11201286315918+infj) ->                                                      1j                                                     -1j
+                              (-19.11201286315918-infj) ->                                                 (-0-1j)                                                      1j
+                              (-19.11201286315918+infj) ->                                                 (-0+1j)                                                     -1j
+                                                   infj ->                                                      1j                                                     -1j
+                                                  -infj ->                                                     -1j                                                      1j
 Legend:
     <input> -> <value> <reference value>

@@ -1,5 +1,5 @@
 
-   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
    4e36j  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
    4e34j  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
@@ -81,7 +81,7 @@
   -4e34j  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
   -4e36j  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
     minj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
-   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 real line:~====cc=c=ccc=c==c===============================================c==c=ccc=c=cc====~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -94,9 +94,9 @@ real line:~====cc=c=ccc=c==c===============================================c==c=
   mpmath.tan on complex128 plane
 
 Statistics:
-    match rate: 37.6%
+    match rate: 35.2%
     inaccuracies rate: 8.3%
-    mismatch rate: 54.1%
+    mismatch rate: 56.5%
 
 Versions:
     mpmath 1.3.0
@@ -128,10 +128,10 @@ Samples with code X:
                                  5.683983898010026e-23j ->                                                      0j                                  5.683983898010026e-23j
                                 -6.224412802375833e-25j ->                                                      0j                                 -6.224412802375833e-25j
 Samples with code N:
-            (0.20929168164730072-7.70639220474525e+20j) ->                                                    nanj                                                     -1j
-            (0.20929168164730072+7.70639220474525e+20j) ->                                                    nanj                                                      1j
-             (-19.11201286315918-7.70639220474525e+20j) ->                                               (-0+nanj)                                                 (-0-1j)
-             (-19.11201286315918+7.70639220474525e+20j) ->                                               (-0+nanj)                                                 (-0+1j)
+             (19.11201286315918-7.037291901451857e+22j) ->                                                    nanj                                                     -1j
+             (19.11201286315918+7.037291901451857e+22j) ->                                                    nanj                                                      1j
+            (-19.11201286315918-7.037291901451857e+22j) ->                                               (-0+nanj)                                                 (-0-1j)
+            (-19.11201286315918+7.037291901451857e+22j) ->                                               (-0+nanj)                                                 (-0+1j)
                                  7.037291901451857e+22j ->                                                    nanj                                                      1j
                                  -7.70639220474525e+20j ->                                                    nanj                                                     -1j
 Samples with code 2:
