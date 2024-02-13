@@ -83,7 +83,7 @@
     minj  XIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX
    -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX~
 
-real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNNNNNNNNNNNNNN~
+real line:~~~~~~~~~~~~~~~~~~~~~=========================================~~~~~~~~~~~~~~~~~~~~~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 
@@ -196,8 +196,6 @@ Samples with code N:
                         (-1.3250897649822135e+166+infj) ->                                              (nan+infj)                               (1.5707963267948966-infj)
                                                    infj ->                                              (nan+nanj)                               (1.5707963267948966-infj)
                                                   -infj ->                                              (nan+infj)                               (1.5707963267948966+infj)
-                               -1.3250897649822135e+166 ->                                                (nan+0j)                  (3.141592653589793-383.2037528218714j)
-                                2.1367248648906965e+150 ->                                                (nan+0j)                                      346.8401853494187j
 Samples with code F:
        (1.7170971423413907e-71+1.4446472708764676e+87j) ->                 (3.141592653589793-199.62638800126425j)                 (1.5707963267948966-201.3859154596086j)
        (1.4446472708764676e+87+1.7170971423413907e-71j) ->                (1.5707963267948966-199.62638800126425j)            (1.1885926599228805e-158-201.3859154596086j)

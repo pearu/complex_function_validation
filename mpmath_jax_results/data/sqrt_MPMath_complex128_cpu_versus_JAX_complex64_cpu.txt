@@ -83,7 +83,7 @@
     minj  ~c1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1c~
    -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-real line:~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN=========================================~
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=========================================~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -113,8 +113,6 @@ Legend:
         N : one value is not nan but other is nan
         M : one value is nan but other is not nan
 
-Samples with code N:
-                                     -19.11201286315918 ->                                                (nan+0j)                                      4.371728897094727j
 Samples with code M:
                                               (-inf+0j) ->                                                    infj                                                    nanj
 Legend:

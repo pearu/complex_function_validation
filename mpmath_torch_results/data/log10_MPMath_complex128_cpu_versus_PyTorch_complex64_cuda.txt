@@ -83,7 +83,7 @@
     minj  XIIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccII~
    -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~cc=c1c===ccccc====c=cc====cc==c==c====c=~
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~cc=c1c===ccccc====c=cc====cc==c==c====c=~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -125,7 +125,5 @@ Samples with code I:
        (3.4028234663852886e+38+3.4028234663852886e+38j) ->                              (inf+0.34109410643577576j)                (38.68235397338867+0.34109407663345337j)
       (-3.4028234663852886e+38-3.4028234663852886e+38j) ->                               (inf-1.0232822895050049j)                 (38.68235397338867-1.0232822895050049j)
       (-3.4028234663852886e+38+3.4028234663852886e+38j) ->                               (inf+1.0232822895050049j)                 (38.68235397338867+1.0232822895050049j)
-Samples with code N:
-                                     -19.11201286315918 ->                                                (nan+0j)                (1.2813063859939575+1.3643763065338135j)
 Legend:
     <input> -> <value> <reference value>

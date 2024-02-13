@@ -5,7 +5,7 @@ This document is generated using [Complex Function Validation](https://github.co
 
 Array library versions:
 - mpmath 1.3.0
-- jax 0.4.24.dev20240130+66308c30a
+- jax 0.4.25.dev20240212+7dd887dc8
 
 Reference library and dtype: MPMath, complex128
 

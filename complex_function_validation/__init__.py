@@ -91,16 +91,23 @@ def ftz(value):
     """Flush subnormals to zero.
     """
     tiny = numpy.finfo(value.dtype).tiny
-    float_dtype = {8: numpy.float32, 16: numpy.float64, 32: numpy.float128}[value.dtype.itemsize]
+    if value.dtype.kind == 'c':
+        float_dtype = {8: numpy.float32, 16: numpy.float64, 32: numpy.float128}[value.dtype.itemsize]
+        view = value.reshape((1,)).view(float_dtype)
+        re = view[0]
+        im = view[1]
+        if numpy.isfinite(re) and re != 0 and abs(re) < tiny:
+            view[0] *= 0
+        if numpy.isfinite(im) and im != 0 and abs(im) < tiny:
+            view[1] *= 0
+        return view.view(value.dtype)[0]
+    assert value.dtype.kind == 'f', value.dtype
+    float_dtype = {4: numpy.float32, 8: numpy.float64, 16: numpy.float128}[value.dtype.itemsize]
     view = value.reshape((1,)).view(float_dtype)
     re = view[0]
-    im = view[1]
     if numpy.isfinite(re) and re != 0 and abs(re) < tiny:
         view[0] *= 0
-    if numpy.isfinite(im) and im != 0 and abs(im) < tiny:
-        view[1] *= 0
     return view.view(value.dtype)[0]
-
 
 def compare(reference, value):
     """Return a string code that describes how value compares to
@@ -320,23 +327,11 @@ class ReportImage:
             np_samples = ComplexPlaneSampler(f.numpy_dtype)(size_re, size_im)
             np_samples_real = np_samples.real[size_im + 1:size_im + 2]
 
-            with ref.context:
-                ref_samples = ref.from_numpy(np_samples, dtype=ref.dtype)
-                ref_values = ref(ref_samples)
-                np_ref_values = ref.to_numpy(ref_values, dtype=f.numpy_dtype)
+            np_ref_values = ref.evaluate(np_samples, f.numpy_dtype)
+            np_ref_values_real = ref.evaluate(np_samples_real, f.numpy_real_dtype)
 
-                ref_samples_real = ref.from_numpy(np_samples_real, dtype=ref.real_dtype)
-                ref_values_real = ref(ref_samples_real)
-                np_ref_values_real = ref.to_numpy(ref_values_real, dtype=f.numpy_dtype)
-
-            with f.context:
-                native_samples = f.from_numpy(np_samples)
-                native_values = f(native_samples)
-                np_values = f.to_numpy(native_values)
-
-                native_samples_real = f.from_numpy(np_samples_real, dtype=f.real_dtype)
-                native_values_real = f(native_samples_real)
-                np_values_real = f.to_numpy(native_values_real, dtype=f.numpy_dtype)
+            np_values = f.evaluate(np_samples, f.numpy_dtype)
+            np_values_real = f.evaluate(np_samples_real, f.numpy_real_dtype)
 
             hoffset = index * (imag_axis_width + map_width + 2)
             self.insert_comparison(voffset, hoffset + imag_axis_width, np_ref_values[::-1].copy(), np_values[::-1], np_samples[::-1], apply_ftz=apply_ftz)
@@ -576,6 +571,17 @@ class Function:
     def apply_ftz(cls, *args, **kwargs):
         raise NotImplementedError(cls.__name__)
 
+    def evaluate(self, np_samples, numpy_dtype):
+        if np_samples.dtype.kind == 'c':
+            dtype = self.dtype
+        dtype = {'c': self.dtype, 'f': self.real_dtype}[np_samples.dtype.kind]
+
+        with self.context:
+            samples = self.from_numpy(np_samples, dtype=dtype)
+            values = self(samples)
+            np_values = self.to_numpy(values, dtype=numpy_dtype)
+        return np_values
+
 
 class NumpyFunction(Function):
 
@@ -648,7 +654,7 @@ class JaxNumpyFunction(Function):
             try:
                 _ = jax.device_put(jax.numpy.ones(1), device=jax.devices('gpu')[0])
                 return True
-            except:
+            except Exception as msg:
                 return False
         return True
 
@@ -725,6 +731,13 @@ class MPMathFunction(Function):
         def special_cases_func(name, x):
             is_real = False
             if isinstance(x, float):
+                if (
+                        (name in {'sqrt', 'log', 'log10', 'log2'} and x < 0)
+                        or (name=='log1p' and x < -1)
+                        or (name in {'asin', 'acos', 'atanh'} and abs(x) > 1)
+                        or (name == 'acosh' and x < 1)
+                ):
+                    return float('nan')
                 is_real = True
                 x = mpmath.mpc(x, 0)
             elif isinstance(x, complex):
@@ -739,6 +752,7 @@ class MPMathFunction(Function):
             if is_real and name in {'square'} and im == '0':
                 # reset im when f(re+0j) is different from f(re)
                 im = ''
+            result = None
             if name in {'asin', 'atan', 'sin', 'tan'}:
                 # TODO: implement the following transformations in special_cases.py
                 # asin(z) = -j * asinh(j * z)
@@ -765,7 +779,7 @@ class MPMathFunction(Function):
                           dict(inf=mpmath.inf, nan=mpmath.nan, pi=mpmath.pi,
                                sin=mpmath.sin, cos=mpmath.cos, im=x.real,
                             log=mpmath.log)) for r_ in [re, im]]
-                return mpmath.mpc(*r)
+                result = mpmath.mpc(*r)
             elif name == 'cos':
                 #  cos(z) = cosh(j * z)
                 # j * (re, im) = (-im, re)
@@ -783,9 +797,12 @@ class MPMathFunction(Function):
                 r = [eval({'+-inf': 'nan'}.get(r_, r_), dict(inf=mpmath.inf, nan=mpmath.nan, pi=mpmath.pi,
                                                              sin=mpmath.sin, cos=mpmath.cos, im=x.imag,
                                                              log=mpmath.log)) for r_ in r]
-                return mpmath.mpc(*r)
+                result = mpmath.mpc(*r)
 
-            return
+            if is_real and result is not None:
+                result = result.real
+
+            return result
 
         name = dict(arcsin='asin',
                     arccos='acos',
@@ -806,17 +823,29 @@ class MPMathFunction(Function):
 
             def ext_func(x):
                 return mp_func(x, 2)
-            
+
         else:
             ext_func = getattr(self.module, name)
 
         def ext_func_with_special_cases(x):
 
             r = special_cases_func(name, x)
-            if r is not None:
-                return r
+            if r is None:
+                r = ext_func(x)
 
-            return ext_func(x)
+            if isinstance(r, (float, complex)):
+                pass
+            elif isinstance(x, complex):
+                r = complex(r)
+            elif isinstance(x, float):
+                if isinstance(r, mpmath.mpc):
+                    assert r.imag==0 or mpmath.isnan(r.imag), (name, x, r)
+                    r = r.real
+                assert isinstance(r, mpmath.mpf), (name, x, r)
+                r = float(r)
+            else:
+                assert 0, (name, x, r)
+            return r
 
         f = numpy.vectorize(ext_func_with_special_cases)
 

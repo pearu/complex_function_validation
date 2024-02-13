@@ -21,6 +21,7 @@ function_names = [
 
 dtype_list = ['complex64', 'complex128']
 device_list = ['cpu', 'cuda']
+pool_size = 2
 
 def worker(args):
     array_libraries, index, fname, size_re, size_im, size_re2, size_im2, try_run = args
@@ -112,7 +113,7 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
             (array_libraries, index, fname,
              size_re, size_im, size_re2, size_im2, try_run)
         )
-    with Pool(min(12, len(function_names))) as p:
+    with Pool(min(pool_size, len(function_names))) as p:
         for row, targets in p.map(worker, args):
             rows.append(row)
             for fn, content in targets.items():
@@ -125,22 +126,6 @@ def main_results(array_libraries, target_dir='cfv_results', try_run=False):
                     fd.write(content)
                     fd.close()
                     print(f'Created {fn}')
-
-    for index, fname in enumerate(function_names):
-        break
-        row, targets = worker(array_libraries, index, fname,
-                              size_re, size_im, size_re2, size_im2, try_run)
-        rows.append(row)
-        for fn, content in targets.items():
-            if try_run:
-                print(fn)
-                print(content)
-            else:
-                fn = os.path.join(target_dir, 'data', fn)
-                fd = open(fn, 'w')
-                fd.write(content)
-                fd.close()
-                print(f'Created {fn}')
 
     table = '\n'.join(rows)
 
@@ -174,7 +159,8 @@ Reference library and dtype: {ref.library_name}, {ref._dtype}
         print(f'Created {fn}')
 
 if __name__ == '__main__':
-    set_start_method('spawn')
+    #set_start_method('spawn')
+    set_start_method('forkserver')
 
     libs = dict(
         mpmath=('MPMath', cfv.MPMathFunction, cfv.MPMathFunction.get_module_version()),
@@ -191,10 +177,11 @@ if __name__ == '__main__':
     import warnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
-        if cfv.TorchFunction.get_module_version() is not None:
+        if 1:
+            main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
+        if cfv.TorchFunction.get_module_version() is not None and 0:
             main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')
-        if cfv.MPMathFunction.get_module_version() is not None:
+        if cfv.MPMathFunction.get_module_version() is not None and 0:
             main_results([libs[reflib], libs['numpy']], target_dir=f'{reflib}_numpy_results')
 
         #main_results(array_libraries[1:2], target_dir='numpy_jax_results')

@@ -83,7 +83,7 @@
     minj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
-real line:~NNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNNNNNNNNNNNNNN~
+real line:~~~~~~~~~~~~~~~~~~~~~=========================================~~~~~~~~~~~~~~~~~~~~~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 
@@ -100,7 +100,7 @@ Statistics:
 
 Versions:
     mpmath 1.3.0
-    jax 0.4.24.dev20240130+66308c30a
+    jax 0.4.25.dev20240212+7dd887dc8
 
 Legend:
         = : values are equal (diff == 0)
@@ -130,8 +130,6 @@ Samples with code N:
                            (1.9598917369853978e+229+0j) ->                                              (nan+nanj)                                    -1.5707963267948966j
                                1.2154267139513415e+245j ->                                              (nan+nanj)                                     1.5707963267948966j
                               -1.2154267139513415e+245j ->                                              (nan+nanj)                                    -1.5707963267948966j
-                               -1.3250897649822135e+166 ->                                                (nan+0j)                                     1.5707963267948966j
-                                2.1367248648906965e+150 ->                                                (nan+0j)                                    -1.5707963267948966j
 Samples with code 2:
                (157499196.83964846-157499196.83966908j) ->              (3.174617901890997e-09-1.570796323620277j)            (3.1746193633545296e-09-1.5707963236202773j)
               (-157499196.83966908+157499196.83964846j) ->             (-3.174617901890997e-09+1.570796323620277j)           (-3.1746193633549453e-09+1.5707963236202773j)

@@ -83,7 +83,7 @@
     minj  X=c==c===================================ccccccccccccccccccccccccccccccccccccc==cc~
    -infj  ~XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~cc=ccccc=ccc=cc=====ccc===c=ccc=ccccc=c=~
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~cc=ccccc=ccc=cc=====ccc===c=ccc=ccccc=c=~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -121,7 +121,5 @@ Samples with code X:
                                               (-inf+0j) ->                                (inf+1.364376425743103j)                                              (inf+nanj)
                                                    infj ->                               (inf+0.6821882128715515j)                               (inf+0.6821881532669067j)
                                                   -infj ->                               (inf-0.6821882128715515j)                               (inf-0.6821881532669067j)
-Samples with code N:
-                                     -19.11201286315918 ->                                                (nan+0j)                (1.2813063859939575+1.3643763065338135j)
 Legend:
     <input> -> <value> <reference value>
