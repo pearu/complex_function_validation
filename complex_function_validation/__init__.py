@@ -596,7 +596,17 @@ class NumpyFunction(Function):
     @classmethod
     def apply_ftz(cls, *args, **kwargs):
         return False
-    
+
+
+class ComplexMathFunction(NumpyFunction):
+    library_name = 'ComplexMath'
+    namespace = 'complex_function_validation.complex_math'
+    array_namespace = 'numpy'
+
+    @property
+    def is_valid(self):
+        return self._device.lower() in {'cpu', ''} and hasattr(self.get_module(), self._name)
+
     
 class JaxNumpyFunction(Function):
 

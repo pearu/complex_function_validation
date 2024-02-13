@@ -10,7 +10,8 @@ except ImportError:
     mpmath = None
 
 function_names = [
-    'exp', 'log', 'log10', 'log2', 'log1p',
+    'exp', 'expm1',
+    'log', 'log10', 'log2', 'log1p',
     'sqrt', 'square',
     'sin', 'cos', 'tan',
     'arcsin', 'arccos', 'arctan',
@@ -167,6 +168,7 @@ if __name__ == '__main__':
         numpy=('NumPy', cfv.NumpyFunction, cfv.NumpyFunction.get_module_version()),
         jax=('JAX', cfv.JaxNumpyFunction, cfv.JaxNumpyFunction.get_module_version()),
         torch=('PyTorch', cfv.TorchFunction, cfv.TorchFunction.get_module_version()),
+        complex_math=('ComplexMath', cfv.ComplexMathFunction, cfv.ComplexMathFunction.get_module_version())
     )
 
     if mpmath is not None:
@@ -183,8 +185,5 @@ if __name__ == '__main__':
             main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')
         if cfv.MPMathFunction.get_module_version() is not None and 0:
             main_results([libs[reflib], libs['numpy']], target_dir=f'{reflib}_numpy_results')
-
-        #main_results(array_libraries[1:2], target_dir='numpy_jax_results')
-        #main_results(array_libraries[1::2], target_dir='numpy_torch_results')
-        #main_results(array_libraries[1:], target_dir='numpy_jax_torch_results')
-
+        if 0:
+            main_results([libs[reflib], libs['complex_math']], target_dir=f'{reflib}_complex_math_results')
