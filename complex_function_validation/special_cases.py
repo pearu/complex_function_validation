@@ -47,14 +47,14 @@ cosh = {
     ('+inf', '-inf'): ('+-inf', 'nan'),       # cosh(inf-infj) = conj(cosh(inf+infj)) = (+-inf, nan)
     ('+inf', '0'): ('+inf', '0'),
     ('+inf', '+x'): ('+inf * cos(im)', '+inf * sin(im)'),
-    ('+inf', '-x'): ('+inf * cos(-im)', '+inf * sin(-im)'),
+    ('+inf', '-x'): ('+inf * cos(im)', '+inf * sin(im)'),
     ('-inf', 'nan'): ('+inf', 'nan'),         # cosh(-inf+nanj) = cosh(inf+nanj) = (+inf, nan)
     ('-inf', '-inf'): ('+-inf', 'nan'),       # cosh(-inf-infj) = cosh(inf+infj) = (+-inf, nan)
     ('-inf', '+inf'): ('+-inf', 'nan'),       # cosh(-inf+infj) = cosh(inf-infj) = (+-inf, nan)
     ('-inf', '0'): ('inf', '0'),              # cosh(-inf+0j) = cosh(inf+0j) = (inf, 0)
     ('-inf', '+x'): ('+inf * cos(im)', '-inf * sin(im)'),
                                               # cosh(-inf+xj) = cosh(inf-xj) = conj(cosh(inf+xj)) = (inf*cos(x), -inf*sin(x))
-    ('-inf', '-x'): ('+inf * cos(-im)', '+inf * sin(-im)'),
+    ('-inf', '-x'): ('+inf * cos(im)', '-inf * sin(im)'),
                                               # cosh(-inf-xj) = cosh(inf+xj) = (inf*cos(x), inf*sin(x))
     ('0', '0'): ('1', '+0'),
     ('0', 'nan'): ('nan', '+-0'),
