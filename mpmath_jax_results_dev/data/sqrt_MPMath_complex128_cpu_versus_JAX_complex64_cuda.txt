@@ -1,5 +1,5 @@
 
-   +infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   +infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     maxj  ~c1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1c~
    4e36j  ~1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1~
    4e34j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~
@@ -40,7 +40,7 @@
   1e-34j  ~ccccccccccccccccccccccccccccccccccccccc=cccccccc=cc=c=c=c=c===cccccccccc=========~
   1e-36j  ~cccccccccccccccccccccccccccccccccccccc=ccc=cc======c==c=cccc=ccccccccc=c=========~
    tinyj  ~ccccccccccccccccccccccccccccccccccccccc=c===c====c====c=cccc==cccccc===c=========~
-      0j  ~cccccccccccccccccccccccccccccccccccccccc================c=c=====c======c=========~
+      0j  Mcccccccccccccccccccccccccccccccccccccccc================c=c=====c======c=========~
   -tinyj  ~ccccccccccccccccccccccccccccccccccccccc=c===c====c====c=cccc==cccccc===c=========~
  -1e-36j  ~cccccccccccccccccccccccccccccccccccccc=ccc=cc======c==c=cccc=ccccccccc=c=========~
  -1e-34j  ~ccccccccccccccccccccccccccccccccccccccc=cccccccc=cc=c=c=c=c===cccccccccc=========~
@@ -81,9 +81,9 @@
   -4e34j  ~ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc~
   -4e36j  ~1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1~
     minj  ~c1ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc1c~
-   -infj  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   -infj  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN================c=c=====c======c=========~
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~================c=c=====c======c=========~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -94,13 +94,13 @@ real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN================c=c=====c====
   mpmath.sqrt on complex128 plane
 
 Statistics:
-    match rate: 96.9%
+    match rate: 99.3%
     inaccuracies rate: 0.7%
-    mismatch rate: 2.4%
+    mismatch rate: 0.0%
 
 Versions:
     mpmath 1.3.0
-    jax 0.4.24.dev20240130+66308c30a
+    jax 0.4.26.dev20240307+f0afc1b43
 
 Legend:
         = : values are equal (diff == 0)
@@ -113,12 +113,7 @@ Legend:
         N : one value is not nan but other is nan
         M : one value is nan but other is not nan
 
-Samples with code X:
-                               (19.11201286315918-infj) ->                                              (inf-infj)                                              (inf+nanj)
-                               (19.11201286315918+infj) ->                                              (inf+infj)                                              (inf+nanj)
-                              (-19.11201286315918-infj) ->                                              (inf-infj)                                              (nan-infj)
-                              (-19.11201286315918+infj) ->                                              (inf+infj)                                              (nan+infj)
-                                                   infj ->                                              (inf+infj)                                              (inf+nanj)
-                                                  -infj ->                                              (inf-infj)                                              (inf+nanj)
+Samples with code M:
+                                              (-inf+0j) ->                                                    infj                                                    nanj
 Legend:
     <input> -> <value> <reference value>

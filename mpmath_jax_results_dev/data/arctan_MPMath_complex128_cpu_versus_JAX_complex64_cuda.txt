@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NNNNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNNNN
    4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
    4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
@@ -81,7 +81,7 @@
   -4e34j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
   -4e36j  NNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINN
     minj  NNNNNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNNNN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
 real line:====================c=========================================c====================
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
@@ -96,11 +96,11 @@ real line:====================c=========================================c=======
 Statistics:
     match rate: 36.9%
     inaccuracies rate: 6.6%
-    mismatch rate: 56.5%
+    mismatch rate: 56.6%
 
 Versions:
     mpmath 1.3.0
-    jax 0.4.24.dev20240130+66308c30a
+    jax 0.4.26.dev20240307+f0afc1b43
 
 Legend:
         = : values are equal (diff == 0)
@@ -138,13 +138,11 @@ Samples with code I:
                                 -5.358817286521974e+28j ->                                              (nan+infj)                                (-1.5707963705062866+0j)
 Samples with code N:
                             (inf-7.70639220474525e+20j) ->                                              (nan+nanj)                                 (1.5707963705062866+0j)
-                            (7.70639220474525e+20+infj) ->                                              (nan+nanj)                                 (1.5707963705062866+0j)
-                           (-inf-7.70639220474525e+20j) ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
-                           (-7.70639220474525e+20+infj) ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
+                           (7.037291901451857e+22+infj) ->                                              (nan+nanj)                                 (1.5707963705062866+0j)
+                          (-inf-7.037291901451857e+22j) ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
+                          (-7.037291901451857e+22+infj) ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
                                               (-inf+0j) ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
                                                (inf+0j) ->                                              (nan+nanj)                                 (1.5707963705062866+0j)
-                                                   infj ->                                              (nan+nanj)                                 (1.5707963705062866+0j)
-                                                  -infj ->                                              (nan+nanj)                                (-1.5707963705062866+0j)
 Samples with code 2:
         (4.3282890605049666e-17-5.683983898010026e-23j) ->                             (4.3282890605049666e-17+0j)         (4.3282890605049666e-17-5.682989302180723e-23j)
          (5.190477564413554e-21-0.0022919096518307924j) ->            (5.19050502939483e-21-0.002291911980137229j)           (5.19050502939483e-21-0.0022919136099517345j)

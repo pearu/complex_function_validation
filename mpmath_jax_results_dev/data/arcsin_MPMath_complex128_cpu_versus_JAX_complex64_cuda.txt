@@ -40,7 +40,7 @@
   1e-34j  NNNNNNNNNNNXXXXxxx531=========================================135xxxXXXXNNNNNNNNNNN
   1e-36j  NNNNNNNNNNNXXXXxxx531=========================================135xxxXXXXNNNNNNNNNNN
    tinyj  NNNNNNNNNNNXXXXxxx531=========================================135xxxXXXXNNNNNNNNNNN
-      0j  NNNNNNNNNNNXXXXxxx531=========================================235xxxXXXXNNNNNNNNNNN
+      0j  ~NNNNNNNNNNXXXXxxx531=========================================235xxxXXXXNNNNNNNNNN~
   -tinyj  NNNNNNNNNNNXXXXxxx532=========================================235xxxXXXXNNNNNNNNNNN
  -1e-36j  NNNNNNNNNNNXXXXxxx532=========================================235xxxXXXXNNNNNNNNNNN
  -1e-34j  NNNNNNNNNNNXXXXxxx532=========================================235xxxXXXXNNNNNNNNNNN
@@ -83,7 +83,7 @@
     minj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
    -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
-real line:NNNNNNNNNNNNNNNNNNNNN=========================================NNNNNNNNNNNNNNNNNNNNN
+real line:~~~~~~~~~~~~~~~~~~~~~=========================================~~~~~~~~~~~~~~~~~~~~~
           ^     ^     ^    ^     ^      ^      ^   ^   ^      ^      ^     ^    ^     ^     ^
        -inf -5e28 -9e16 -1e7 -3e-5 -5e-19 -9e-33   0   9e-33  5e-19  3e-5  1e7  9e16  5e28  +inf
 
@@ -100,7 +100,7 @@ Statistics:
 
 Versions:
     mpmath 1.3.0
-    jax 0.4.24.dev20240130+66308c30a
+    jax 0.4.26.dev20240307+f0afc1b43
 
 Legend:
         = : values are equal (diff == 0)
@@ -181,7 +181,7 @@ Samples with code N:
                       (-11082385063936-11082385063936j) ->                                              (nan+nanj)               (-0.7853981852531433-31.076099395751953j)
                       (-11082385063936+11082385063936j) ->                                              (nan+nanj)               (-0.7853981852531433+31.076099395751953j)
                             (-4.893543125372159e+30+0j) ->                                              (nan+nanj)                 (-1.5707963705062866+71.3586196899414j)
-                             (4.893543125372159e+30+0j) ->                                              (nan+nanj)                  (1.5707963705062866-71.3586196899414j)
+                             (5.358817286521974e+28+0j) ->                                              (nan+nanj)                 (1.5707963705062866-66.84427642822266j)
                                  6.426285315429169e+24j ->                                              (nan+nanj)                                      57.81558609008789j
                                 -6.426285315429169e+24j ->                                              (nan+nanj)                                     -57.81558609008789j
 Samples with code 2:

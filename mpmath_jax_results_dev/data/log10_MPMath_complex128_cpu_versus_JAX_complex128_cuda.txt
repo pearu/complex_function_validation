@@ -1,5 +1,5 @@
 
-   +infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   +infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
     maxj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIcIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
   3e292j  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
   5e276j  NI=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
@@ -40,7 +40,7 @@
  9e-277j  NIccccccccccccccccccc1ccccccccccccccccccccccccc=ccccccccccccccccccccccccccc1cccccIN
  1e-292j  NIccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1cccccIN
    tinyj  NIccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1cccccIN
-      0j  Ncccccccccccccccccccc1cccccccccccccccccccNc=ccc=cccc=cccccccccccccccccccccc1ccccccN
+      0j  ~cccccccccccccccccccc1cccccccccccccccccccNc=ccc=cccc=cccccccccccccccccccccc1ccccccN
   -tinyj  NIccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1cccccIN
 -1e-292j  NIccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1cccccIN
 -9e-277j  NIccccccccccccccccccc1ccccccccccccccccccccccccccccccccccccccccccccccccccccc1cccccIN
@@ -81,9 +81,9 @@
  -5e276j  NI=ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
  -3e292j  NIcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccIN
     minj  NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIcIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
-   -infj  ~NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~
+   -infj  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 
-real line:NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN~c=ccc=cccc=cccccccccccccccccccccc1cccccc~
+real line:~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c=ccc=cccc=cccccccccccccccccccccc1cccccc~
           ^      ^      ^     ^       ^       ^    ^    ^       ^       ^     ^      ^      ^
        -inf -3e213 -9e102  -2e8 -7e-119 -3e-245    0    3e-245  7e-119  2e8   9e102  3e213  +inf
 
@@ -100,7 +100,7 @@ Statistics:
 
 Versions:
     mpmath 1.3.0
-    jax 0.4.24.dev20240130+66308c30a
+    jax 0.4.26.dev20240307+f0afc1b43
 
 Legend:
         = : values are equal (diff == 0)
@@ -123,7 +123,6 @@ Samples with code N:
                          (1.3250897649820401e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
                         (-inf-1.3250897649822135e+166j) ->                                              (inf+nanj)                               (inf-1.3643763538418414j)
                         (-1.3250897649822135e+166+infj) ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
-                                              (-inf+0j) ->                                              (inf+nanj)                               (inf+1.3643763538418414j)
                                                      0j ->                                             (-inf+nanj)                                               (-inf+0j)
                                                (inf+0j) ->                                              (inf+nanj)                                                (inf+0j)
                                                    infj ->                                              (inf+nanj)                               (inf+0.6821881769209207j)
