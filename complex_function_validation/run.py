@@ -181,9 +181,9 @@ if __name__ == '__main__':
         warnings.simplefilter("ignore")
         if 1:
             main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
-        if cfv.TorchFunction.get_module_version() is not None and 0:
+        if 0 and cfv.TorchFunction.get_module_version() is not None:
             main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')
-        if cfv.MPMathFunction.get_module_version() is not None and 0:
+        if 0 and cfv.MPMathFunction.get_module_version() is not None:
             main_results([libs[reflib], libs['numpy']], target_dir=f'{reflib}_numpy_results')
         if 0:
             main_results([libs[reflib], libs['complex_math']], target_dir=f'{reflib}_complex_math_results')
