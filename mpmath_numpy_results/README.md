@@ -13,6 +13,7 @@ Reference library and dtype: MPMath, complex128
 
  | Function | NumPy cpu: complex64 | NumPy cuda: complex64 | NumPy cpu: complex128 | NumPy cuda: complex128 | 
  | :---- | :----: | :----: | :----: | :----: | 
+ | abs | GOOD [100/0/0 %](data/abs_MPMath_complex128_cpu_versus_NumPy_complex64_cpu.txt) | N/A | GOOD [100/0/0 %](data/abs_MPMath_complex128_cpu_versus_NumPy_complex128_cpu.txt) | N/A | 
  | exp | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_NumPy_complex64_cpu.txt) | N/A | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_NumPy_complex128_cpu.txt) | N/A | 
  | expm1 | GOOD [99/1/0 %](data/expm1_MPMath_complex128_cpu_versus_NumPy_complex64_cpu.txt) | N/A | GOOD [99/1/0 %](data/expm1_MPMath_complex128_cpu_versus_NumPy_complex128_cpu.txt) | N/A | 
  | log | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_NumPy_complex64_cpu.txt) | N/A | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_NumPy_complex128_cpu.txt) | N/A | 

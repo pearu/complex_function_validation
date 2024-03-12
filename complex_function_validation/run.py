@@ -10,6 +10,7 @@ except ImportError:
     mpmath = None
 
 function_names = [
+    'abs',
     'exp', 'expm1',
     'log', 'log10', 'log2', 'log1p',
     'sqrt', 'square',
@@ -22,7 +23,7 @@ function_names = [
 
 dtype_list = ['complex64', 'complex128']
 device_list = ['cpu', 'cuda']
-pool_size = 2
+
 
 def worker(args):
     array_libraries, index, fname, size_re, size_im, size_re2, size_im2, try_run = args
@@ -87,7 +88,10 @@ def worker(args):
     return ' | '.join([''] + cols + ['']), targets
 
 def main_results(array_libraries, target_dir='cfv_results', try_run=False):
-    for _, _, version in array_libraries:
+    pool_size = 20
+    for name, _, version in array_libraries:
+        if name == 'JAX':
+            pool_size = 2
         if version is not None and 'dev' in version:
             target_dir += '_dev'
             break
@@ -179,7 +183,7 @@ if __name__ == '__main__':
     import warnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        if 1:
+        if 0:
             main_results([libs[reflib], libs['jax']], target_dir=f'{reflib}_jax_results')
         if 0 and cfv.TorchFunction.get_module_version() is not None:
             main_results([libs[reflib], libs['torch']], target_dir=f'{reflib}_torch_results')

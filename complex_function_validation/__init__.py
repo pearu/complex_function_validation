@@ -834,6 +834,12 @@ class MPMathFunction(Function):
             def ext_func(x):
                 return mp_func(x, 2)
 
+        elif name == 'abs':
+            mp_hypot = getattr(self.module, 'hypot')
+
+            def ext_func(x):
+                return mp_hypot(x.real, x.imag)
+
         else:
             ext_func = getattr(self.module, name)
 

@@ -5,7 +5,7 @@ This document is generated using [Complex Function Validation](https://github.co
 
 Array library versions:
 - mpmath 1.3.0
-- jax 0.4.26.dev20240307+f0afc1b43
+- jax 0.4.26.dev20240308+2b9a713a1
 
 Reference library and dtype: MPMath, complex128
 
@@ -13,8 +13,9 @@ Reference library and dtype: MPMath, complex128
 
  | Function | JAX cpu: complex64 FTZ | JAX cuda: complex64 | JAX cpu: complex128 FTZ | JAX cuda: complex128 | 
  | :---- | :----: | :----: | :----: | :----: | 
+ | abs | GOOD [100/0/0 %](data/abs_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | PERFECT [100/0/0 %](data/abs_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [100/0/0 %](data/abs_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [99/0/1 %](data/abs_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | exp | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [100/0/0 %](data/exp_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
- | expm1 | GOOD [99/1/0 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [99/1/0 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [98/2/0 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [98/2/0 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
+ | expm1 | POOR [80/10/10 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | POOR [80/10/10 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | POOR [83/5/11 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | POOR [83/6/11 %](data/expm1_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | log | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [100/0/0 %](data/log_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [99/0/1 %](data/log_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | log10 | GOOD [96/3/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [97/2/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | POOR [90/9/1 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | POOR [89/9/2 %](data/log10_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
  | log2 | GOOD [99/0/1 %](data/log2_MPMath_complex128_cpu_versus_JAX_complex64_cpu.txt) | GOOD [99/0/1 %](data/log2_MPMath_complex128_cpu_versus_JAX_complex64_cuda.txt) | GOOD [99/0/1 %](data/log2_MPMath_complex128_cpu_versus_JAX_complex128_cpu.txt) | GOOD [98/0/2 %](data/log2_MPMath_complex128_cpu_versus_JAX_complex128_cuda.txt) | 
